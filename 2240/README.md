@@ -2,9 +2,9 @@
 title: -1
 url: https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/description/
 created: 15.10.23
-time: 0
+time: 14min
 tags:
-  - hard
+  - easy
 ---
 
 You are given an integer total indicating the amount of money you have. You are also given two integers cost1 and cost2 indicating the price of a pen and pencil respectively. You can spend part or all of your money to buy multiple quantities (or none) of each kind of writing utensil.
