@@ -24,12 +24,17 @@ const rl = readline.createInterface({
 //  rl.close();
 // });
 
-rl.on("len", len = {
+rl.on('line', (line) => {
+  if (line.split(' ').length !== 1) {
+    const vertices = line
+      .split(' ')
+      .map(Number)
+      .sort((a, b) => a - b);
+    let sum = 0;
+    for (let i = 1; i < vertices.length - 1; i++) {
+      sum += Math.min(vertices[i] - vertices[i - 1], vertices[i + 1] - vertices[i]);
+    }
+    console.log(sum);
+  }
   rl.close();
-})
-
-rl.on("line", line = {
-  const massive = line.split(" ");
-})
-
-
+});
