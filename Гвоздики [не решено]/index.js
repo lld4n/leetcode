@@ -25,16 +25,53 @@ const rl = readline.createInterface({
 // });
 
 rl.on('line', (line) => {
-  if (line.split(' ').length !== 1) {
+  if (line.split(' ').length === 2) {
     const vertices = line
       .split(' ')
       .map(Number)
       .sort((a, b) => a - b);
-    let sum = 0;
-    for (let i = 1; i < vertices.length - 1; i++) {
-      sum += Math.min(vertices[i] - vertices[i - 1], vertices[i + 1] - vertices[i]);
+
+    console.log(vertices[1] - vertices[0]);
+  } else if (line.split(' ').length === 3) {
+    const vertices = line
+      .split(' ')
+      .map(Number)
+      .sort((a, b) => a - b);
+    console.log(vertices[1] - vertices[0] + (vertices[2] - vertices[1]));
+  } else if (line.split(' ').length > 2) {
+    const vertices = line
+      .split(' ')
+      .map(Number)
+      .sort((a, b) => a - b);
+    const arr = [];
+
+    for (let i = 0; i < vertices.length; i++) {
+      arr.push(false);
+    }
+
+    let sum =
+      vertices[1] - vertices[0] + (vertices[vertices.length - 1] - vertices[vertices.length - 2]);
+
+    arr[0] = true;
+    arr[1] = true;
+    arr[arr.length - 1] = true;
+    arr[arr.length - 2] = true;
+
+    for (let i = 0; i < arr.length; i++) {
+      if (!arr[i]) {
+        if (vertices[i] - vertices[i - 1] <= vertices[i + 1] - vertices[i]) {
+          sum += vertices[i] - vertices[i - 1];
+          arr[i] = true;
+          arr[i - 1] = true;
+        } else {
+          sum += vertices[i + 1] - vertices[i];
+          arr[i] = true;
+          arr[i + 1] = true;
+        }
+      }
     }
     console.log(sum);
   }
+
   rl.close();
 });
