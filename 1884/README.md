@@ -2,7 +2,8 @@
 title: 1884
 url: https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/description/
 created: 16.10.23
-time: 17min
+time: 17m
+source: leetcode
 tags:
   - strange
 ---

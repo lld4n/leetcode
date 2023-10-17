@@ -3,6 +3,7 @@ title: Самый дешевый путь
 url: https://coderun.yandex.ru/problem/cheapest-way?currentPage=1&pageSize=10&rowNumber=2&compiler=java
 created: 17.10.23
 time: 39m
+source: coderun
 tags:
   - easy
 ---
