@@ -2,7 +2,7 @@
 title: 1
 url: https://leetcode.com/problems/two-sum/
 created: 19.10.23
-time: 0
+time: 18m
 source: leetcode
 tags:
   - very easy
