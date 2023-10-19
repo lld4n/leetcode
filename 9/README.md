@@ -2,7 +2,7 @@
 title: 9
 url: https://leetcode.com/problems/palindrome-number/
 created: 19.10.23
-time: 0
+time: 6m
 source: leetcode
 tags:
   - very easy
