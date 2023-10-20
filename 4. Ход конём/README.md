@@ -1,5 +1,5 @@
 ---
-title: Ход конём
+title: 4. Ход конём
 url: https://coderun.yandex.ru/problem/knight-move?currentPage=1&pageSize=10&rowNumber=4
 created: 18.10.23
 time: 16m

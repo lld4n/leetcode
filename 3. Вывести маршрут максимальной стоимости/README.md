@@ -1,5 +1,5 @@
 ---
-title: Вывести маршрут максимальной стоимости
+title: 3. Вывести маршрут максимальной стоимости
 url: https://coderun.yandex.ru/problem/print-the-route-of-the-maximum-cost?currentPage=1&pageSize=10&rowNumber=3
 created: 17.10.23
 time: 9m

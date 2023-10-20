@@ -1,8 +1,8 @@
 ---
-title: Гвоздики
+title: 1. Гвоздики
 url: https://coderun.yandex.ru/problem/pin?currentPage=1&pageSize=10&rowNumber=1&compiler=nodejs
 created: 16.10.23
-time: 0
+time: ∞
 source: coderun
 tags:
   - hard
