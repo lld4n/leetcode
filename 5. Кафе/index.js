@@ -23,4 +23,65 @@ const rl = readline.createInterface({
 //  console.log(a + b);
 //  rl.close();
 // });
-rl.on('line', (line) => {});
+let t = 0;
+
+let n = 0;
+let array = [];
+
+let sum = 0;
+let coupon = [];
+rl.on('line', (line) => {
+  if (t === 0) {
+    n = Number(line);
+    t++;
+  } else {
+    array.push(Number(line));
+    t++;
+  }
+
+  if (t === n + 1) {
+    for (let i = 0; i < array.length; i++) {
+      if (array[i] !== -1) {
+        if (array[i] > 100) {
+          sum += array[i];
+          const maxIndex = findMaxIndex(array, i);
+          if (maxIndex !== -1) {
+            coupon.push(maxIndex);
+            array[maxIndex] = -1;
+          } else {
+            coupon.push(-1);
+          }
+        } else {
+          sum += array[i];
+        }
+      }
+    }
+    console.log(sum);
+    let unused = 0;
+    let used = 0;
+    for (let i = 0; i < array.length; i++) {
+      if (array[i] === -1) {
+        used++;
+      }
+    }
+    console.log(coupon.length - used + ' ' + used);
+    for (let el of coupon) {
+      if (el !== -1) {
+        console.log(el + 1);
+      }
+    }
+  }
+});
+
+function findMaxIndex(arr, startIndex) {
+  if (startIndex + 1 >= arr.length) {
+    return -1;
+  }
+  let maxIndex = startIndex + 1;
+  for (let i = startIndex + 1; i < arr.length; i++) {
+    if (arr[i] > arr[maxIndex]) {
+      maxIndex = i;
+    }
+  }
+  return maxIndex;
+}
