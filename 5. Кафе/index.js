@@ -40,48 +40,21 @@ rl.on('line', (line) => {
   }
 
   if (t === n + 1) {
-    for (let i = 0; i < array.length; i++) {
-      if (array[i] !== -1) {
-        if (array[i] > 100) {
-          sum += array[i];
-          const maxIndex = findMaxIndex(array, i);
-          if (maxIndex !== -1) {
-            coupon.push(maxIndex);
-            array[maxIndex] = -1;
-          } else {
-            coupon.push(-1);
-          }
-        } else {
-          sum += array[i];
-        }
-      }
-    }
-    console.log(sum);
-    let unused = 0;
-    let used = 0;
-    for (let i = 0; i < array.length; i++) {
-      if (array[i] === -1) {
-        used++;
-      }
-    }
-    console.log(coupon.length - used + ' ' + used);
-    for (let el of coupon) {
-      if (el !== -1) {
-        console.log(el + 1);
-      }
-    }
+    lesgo();
   }
 });
 
-function findMaxIndex(arr, startIndex) {
-  if (startIndex + 1 >= arr.length) {
-    return -1;
+function lesgo() {
+  let countHun = 0;
+  for (let el of array) {
+    if (el > 100) countHun++;
   }
-  let maxIndex = startIndex + 1;
-  for (let i = startIndex + 1; i < arr.length; i++) {
-    if (arr[i] > arr[maxIndex]) {
-      maxIndex = i;
-    }
+
+  for (let i = 0; i <= countHun; i++) {
+    checkCo(i);
   }
-  return maxIndex;
+}
+
+function checkCo(count) {
+  const mas = Array.from(array);
 }
