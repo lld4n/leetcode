@@ -2,7 +2,15 @@ type JSONValue = null | boolean | number | string | JSONValue[] | { [key: string
 type OnceFn = (...args: JSONValue[]) => JSONValue | undefined;
 
 function once(fn: Function): OnceFn {
-  return function (...args) {};
+  function ret(...args) {
+    ret.counter++;
+    if (ret.counter === 1) {
+      return fn(...args);
+    }
+  }
+  ret.counter = 0;
+
+  return ret;
 }
 
 /**
