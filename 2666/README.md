@@ -2,10 +2,10 @@
 title: 2666
 url: https://leetcode.com/problems/allow-one-function-call/
 created: 22.10.23
-time: 0
+time: 11m
 source: leetcode
 tags:
-  -
+  - good
 ---
 
 Given a function fn, return a new function that is identical to the original function except that it ensures fn is called at most once.
