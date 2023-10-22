@@ -2,7 +2,7 @@
 title: 891
 url: https://leetcode.com/problems/sum-of-subsequence-widths/
 created: 22.10.23
-time: 0
+time: 1h20m
 source: leetcode
 tags:
   -
