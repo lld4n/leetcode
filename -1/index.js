@@ -51,10 +51,10 @@ dat = dat.sort((a, b) => {
     return 1;
   }
   // Если значения source равны, тогда сортируем по полю title
-  if (a.title < b.title) {
+  if (a.created < b.created) {
     return -1;
   }
-  if (a.title > b.title) {
+  if (a.created > b.created) {
     return 1;
   }
   return 0;
