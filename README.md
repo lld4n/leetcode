@@ -23,3 +23,4 @@
 |[9](https://github.com/lld4n/leetcode/tree/master/9)|[link](https://leetcode.com/problems/palindrome-number/)|19.10.23|6m|leetcode|very easy|
 |[2666](https://github.com/lld4n/leetcode/tree/master/2666)|[link](https://leetcode.com/problems/allow-one-function-call/)|22.10.23|11m|leetcode|good|
 |[891 [50 решено]](https://github.com/lld4n/leetcode/tree/master/891%20%5B50%20решено%5D)|[link](https://leetcode.com/problems/sum-of-subsequence-widths/)|22.10.23|1h20m|leetcode||
+|[1700](https://github.com/lld4n/leetcode/tree/master/1700)|[link](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)|24.10.23|3m|leetcode|kaif|
