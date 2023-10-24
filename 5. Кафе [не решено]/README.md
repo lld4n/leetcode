@@ -1,5 +1,5 @@
 ---
-title: 5. Кафе
+title: 5. Кафе [не решено]
 url: https://coderun.yandex.ru/problem/cafe?currentPage=1&pageSize=10&rowNumber=5
 created: 20.10.23
 time: 0

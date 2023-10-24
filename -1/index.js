@@ -65,6 +65,16 @@ for (let element of dat) {
     if (element[elem]) {
       if (elem === "url") {
         result += "[link](" + element[elem] + ")|";
+      } else if (elem === "title") {
+        result +=
+          "[" +
+          element[elem] +
+          "](https://github.com/lld4n/leetcode/tree/master/" +
+          String(element[elem])
+            .replace(/ /g, "%20")
+            .replace("[", "%5B")
+            .replace("]", "%5D") +
+          ")|";
       } else {
         result += element[elem] + "|";
       }
@@ -74,6 +84,7 @@ for (let element of dat) {
   }
   result += "\n|";
 }
+
 console.log(result);
 
-fs.writeFileSync("../README.md", result);
+fs.writeFileSync("../README.md", result.slice(0, result.length - 1));

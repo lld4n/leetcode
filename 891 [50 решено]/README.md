@@ -1,5 +1,5 @@
 ---
-title: 891
+title: 891 [50 решено]
 url: https://leetcode.com/problems/sum-of-subsequence-widths/
 created: 22.10.23
 time: 1h20m
