@@ -33,7 +33,7 @@ for (let el of dat) {
 
 console.log(titles);
 
-let result = "|";
+let result = "# Дорогая грусть, прости, не вернусь\n|";
 for (let el of titles) {
   result += el + "|";
 }
