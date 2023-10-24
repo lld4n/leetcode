@@ -1,5 +1,5 @@
 ---
-title: -1
+title: 2240
 url: https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/description/
 created: 15.10.23
 time: 14m
