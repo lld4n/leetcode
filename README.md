@@ -1,7 +1,7 @@
 # Дорогая грусть, прости, не вернусь
 |title|url|created|time|source|tags|
 |---|---|---|---|---|---|
-|[1. Гвоздики [не решено]](https://github.com/lld4n/leetcode/tree/master/1.%20Гвоздики%20%5Bне%20решено%5D)|[link](https://coderun.yandex.ru/problem/pin?currentPage=1&pageSize=10&rowNumber=1&compiler=nodejs)|16.10.23|∞|coderun|ебанные гвоздики|
+|[1. Гвоздики [не решено]](https://github.com/lld4n/leetcode/tree/master/1.%20Гвоздики%20%5Bне%20решено%5D)|[link](https://coderun.yandex.ru/problem/pin?currentPage=1&pageSize=10&rowNumber=1&compiler=nodejs)|16.10.23|∞|coderun|бля|
 |[2. Самый дешевый путь](https://github.com/lld4n/leetcode/tree/master/2.%20Самый%20дешевый%20путь)|[link](https://coderun.yandex.ru/problem/cheapest-way?currentPage=1&pageSize=10&rowNumber=2&compiler=java)|17.10.23|39m|coderun|easy|
 |[3. Вывести маршрут максимальной стоимости](https://github.com/lld4n/leetcode/tree/master/3.%20Вывести%20маршрут%20максимальной%20стоимости)|[link](https://coderun.yandex.ru/problem/print-the-route-of-the-maximum-cost?currentPage=1&pageSize=10&rowNumber=3)|17.10.23|9m|coderun|very easy|
 |[4. Ход конём](https://github.com/lld4n/leetcode/tree/master/4.%20Ход%20конём)|[link](https://coderun.yandex.ru/problem/knight-move?currentPage=1&pageSize=10&rowNumber=4)|18.10.23|16m|coderun|very easy|
