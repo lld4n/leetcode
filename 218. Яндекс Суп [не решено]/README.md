@@ -1,5 +1,5 @@
 ---
-title: 218. Яндекс Суп
+title: 218. Яндекс Суп [не решено]
 url: https://coderun.yandex.ru/problem/yandex-soup?currentPage=1&pageSize=10&tag=first_2023_frontend&rowNumber=7
 created: 23.10.23
 time: 0
