@@ -5,7 +5,7 @@ created: 26.10.23
 time: 25m
 source: leetcode
 tags:
-  - strictly no tilt
+  - no tilt
 ---
 
 Дан массив уникальных целых чисел, arrгде каждое целое число arr[i] строго больше 1.

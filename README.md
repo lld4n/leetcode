@@ -27,4 +27,5 @@
 |[2666](https://github.com/lld4n/leetcode/tree/master/2666)|[link](https://leetcode.com/problems/allow-one-function-call/)|22.10.23|11m|leetcode|good|
 |[891 [50 решено]](https://github.com/lld4n/leetcode/tree/master/891%20%5B50%20решено%5D)|[link](https://leetcode.com/problems/sum-of-subsequence-widths/)|22.10.23|1h20m|leetcode||
 |[1700](https://github.com/lld4n/leetcode/tree/master/1700)|[link](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)|24.10.23|3m|leetcode|kaif|
-|[823](https://github.com/lld4n/leetcode/tree/master/823)|[link](https://leetcode.com/problems/binary-trees-with-factors/description/?envType=daily-question&envId=2023-10-26)|26.10.23|25m|leetcode|strictly no tilt|
+|[2332 [не решено]](https://github.com/lld4n/leetcode/tree/master/2332%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/description/)|26.10.23|0 |leetcode|strange|
+|[823](https://github.com/lld4n/leetcode/tree/master/823)|[link](https://leetcode.com/problems/binary-trees-with-factors/description/?envType=daily-question&envId=2023-10-26)|26.10.23|25m|leetcode|no tilt|
