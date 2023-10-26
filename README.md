@@ -29,3 +29,4 @@
 |[1700](https://github.com/lld4n/leetcode/tree/master/1700)|[link](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)|24.10.23|3m|leetcode|kaif|
 |[2332 [не решено]](https://github.com/lld4n/leetcode/tree/master/2332%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/description/)|26.10.23|0 |leetcode|strange|
 |[823](https://github.com/lld4n/leetcode/tree/master/823)|[link](https://leetcode.com/problems/binary-trees-with-factors/description/?envType=daily-question&envId=2023-10-26)|26.10.23|25m|leetcode|no tilt|
+|[779](https://github.com/lld4n/leetcode/tree/master/779)|[link](https://leetcode.com/problems/k-th-symbol-in-grammar/description/?envType=daily-question&envId=2023-10-25)|27.10.23|0 |leetcode|strange|
