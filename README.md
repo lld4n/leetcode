@@ -34,4 +34,5 @@
 |[779](https://github.com/lld4n/leetcode/tree/master/779)|[link](https://leetcode.com/problems/k-th-symbol-in-grammar/description/?envType=daily-question&envId=2023-10-25)|27.10.23|0|leetcode|strange|
 |[79 [не решено]](https://github.com/lld4n/leetcode/tree/master/79%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/word-search/)|27.10.23|0|leetcode|strange|
 |[2618](https://github.com/lld4n/leetcode/tree/master/2618)|[link](https://leetcode.com/problems/check-if-object-instance-of-class/description/)|28.10.23|1m|leetcode|musthave|
-|count: 33| | |6h50m| | | 
+|[2619](https://github.com/lld4n/leetcode/tree/master/2619)|[link](https://leetcode.com/problems/array-prototype-last/description/)|28.10.23|3m|leetcode|musthave|
+|count: 34| | |6h53m| | | 
