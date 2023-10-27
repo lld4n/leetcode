@@ -35,4 +35,5 @@
 |[79 [не решено]](https://github.com/lld4n/leetcode/tree/master/79%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/word-search/)|27.10.23|0|leetcode|strange|
 |[2618](https://github.com/lld4n/leetcode/tree/master/2618)|[link](https://leetcode.com/problems/check-if-object-instance-of-class/description/)|28.10.23|1m|leetcode|musthave|
 |[2619](https://github.com/lld4n/leetcode/tree/master/2619)|[link](https://leetcode.com/problems/array-prototype-last/description/)|28.10.23|3m|leetcode|musthave|
-|count: 34| | |6h53m| | | 
+|[2620](https://github.com/lld4n/leetcode/tree/master/2620)|[link](https://leetcode.com/problems/counter/description/)|28.10.23|1m|leetcode|very easy|
+|count: 35| | |6h54m| | | 
