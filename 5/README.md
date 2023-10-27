@@ -5,7 +5,7 @@ created: 27.10.23
 time: 10m
 source: leetcode
 tags:
-  - 50/50
+  - tilt
 ---
 
 Given a string s, return the longest palindromic substring in s.

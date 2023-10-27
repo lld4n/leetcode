@@ -76,15 +76,43 @@ for (let element of dat) {
             .replace("]", "%5D") +
           ")|";
       } else {
-        result += element[elem] + "|";
+        if (element[elem] !== undefined) {
+          result += element[elem] + "|";
+        } else {
+          result += " |";
+        }
       }
     } else {
-      result += element[elem] + " |";
+      if (element[elem] !== undefined) {
+        result += element[elem] + "|";
+      } else {
+        result += " |";
+      }
     }
   }
   result += "\n|";
 }
+let time = 0;
+const regex = /\d*h?\d+m/;
+for (let elem of dat) {
+  if (regex.test(elem["time"])) {
+    const numb = elem["time"].match(/\d+/g);
+    if (numb.length === 2) {
+      time += Number(numb[0]) * 60;
+      time += Number(numb[1]);
+    } else {
+      time += Number(numb[0]);
+    }
+  }
+}
 
-console.log(result);
+result +=
+  "count: " +
+  dat.length +
+  "| | |" +
+  Math.floor(time / 60) +
+  "h" +
+  (time % 60) +
+  "m| | | |";
 
 fs.writeFileSync("../README.md", result.slice(0, result.length - 1));
