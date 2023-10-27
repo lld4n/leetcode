@@ -1,7 +1,7 @@
 ---
 title: 2618
 url: https://leetcode.com/problems/check-if-object-instance-of-class/description/
-created: 27.10.23
+created: 28.10.23
 time: 1m
 source: leetcode
 tags:

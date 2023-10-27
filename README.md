@@ -29,9 +29,9 @@
 |[1700](https://github.com/lld4n/leetcode/tree/master/1700)|[link](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)|24.10.23|3m|leetcode|kaif|
 |[2332 [не решено]](https://github.com/lld4n/leetcode/tree/master/2332%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/description/)|26.10.23|0|leetcode|strange|
 |[823](https://github.com/lld4n/leetcode/tree/master/823)|[link](https://leetcode.com/problems/binary-trees-with-factors/description/?envType=daily-question&envId=2023-10-26)|26.10.23|25m|leetcode|no tilt|
-|[2618](https://github.com/lld4n/leetcode/tree/master/2618)|[link](https://leetcode.com/problems/check-if-object-instance-of-class/description/)|27.10.23|1m|leetcode|musthave|
 |[2630 [я нихуя не понимаю]](https://github.com/lld4n/leetcode/tree/master/2630%20%5Bя%20нихуя%20не%20понимаю%5D)|[link](https://leetcode.com/problems/memoize-ii/description/)|27.10.23|0|leetcode||
 |[5](https://github.com/lld4n/leetcode/tree/master/5)|[link](https://leetcode.com/problems/longest-palindromic-substring/description/?envType=daily-question&envId=2023-10-27)|27.10.23|10m|leetcode|tilt|
 |[779](https://github.com/lld4n/leetcode/tree/master/779)|[link](https://leetcode.com/problems/k-th-symbol-in-grammar/description/?envType=daily-question&envId=2023-10-25)|27.10.23|0|leetcode|strange|
 |[79 [не решено]](https://github.com/lld4n/leetcode/tree/master/79%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/word-search/)|27.10.23|0|leetcode|strange|
+|[2618](https://github.com/lld4n/leetcode/tree/master/2618)|[link](https://leetcode.com/problems/check-if-object-instance-of-class/description/)|28.10.23|1m|leetcode|musthave|
 |count: 33| | |6h50m| | | 
