@@ -47,4 +47,5 @@
 |[2634](https://github.com/lld4n/leetcode/tree/master/2634)|[link](https://leetcode.com/problems/group-by/description/)|28.10.23|2m|leetcode|easy|
 |[2635](https://github.com/lld4n/leetcode/tree/master/2635)|[link](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/)|28.10.23|1m|leetcode|very easy|
 |[2637 [не решено]](https://github.com/lld4n/leetcode/tree/master/2637%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/promise-time-limit/description/)|28.10.23|0|leetcode|strange|
-|count: 46| | |8h21m| | | 
+|[2639](https://github.com/lld4n/leetcode/tree/master/2639)|[link](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/)|28.10.23|3m|leetcode|easy|
+|count: 47| | |8h24m| | | 
