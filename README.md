@@ -41,4 +41,5 @@
 |[2623](https://github.com/lld4n/leetcode/tree/master/2623)|[link](https://leetcode.com/problems/memoize/description/)|28.10.23|9m|leetcode|musthave|
 |[2624](https://github.com/lld4n/leetcode/tree/master/2624)|[link](https://leetcode.com/problems/snail-traversal/description/)|28.10.23|51m|leetcode|good|
 |[2625](https://github.com/lld4n/leetcode/tree/master/2625)|[link](https://leetcode.com/problems/flatten-deeply-nested-array/)|28.10.23|11m|leetcode|good|
-|count: 40| | |8h11m| | | 
+|[2626](https://github.com/lld4n/leetcode/tree/master/2626)|[link](https://leetcode.com/problems/array-reduce-transformation/description/)|28.10.23|1m|leetcode|very easy|
+|count: 41| | |8h12m| | | 
