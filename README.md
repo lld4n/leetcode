@@ -33,6 +33,7 @@
 |[5](https://github.com/lld4n/leetcode/tree/master/5)|[link](https://leetcode.com/problems/longest-palindromic-substring/description/?envType=daily-question&envId=2023-10-27)|27.10.23|10m|leetcode|tilt|
 |[779](https://github.com/lld4n/leetcode/tree/master/779)|[link](https://leetcode.com/problems/k-th-symbol-in-grammar/description/?envType=daily-question&envId=2023-10-25)|27.10.23|0|leetcode|strange|
 |[79 [не решено]](https://github.com/lld4n/leetcode/tree/master/79%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/word-search/)|27.10.23|0|leetcode|strange|
+|[1220](https://github.com/lld4n/leetcode/tree/master/1220)|[link](https://leetcode.com/problems/count-vowels-permutation/description/?envType=daily-question&envId=2023-10-28)|28.10.23|46m|leetcode|very good|
 |[2618](https://github.com/lld4n/leetcode/tree/master/2618)|[link](https://leetcode.com/problems/check-if-object-instance-of-class/description/)|28.10.23|1m|leetcode|musthave|
 |[2619](https://github.com/lld4n/leetcode/tree/master/2619)|[link](https://leetcode.com/problems/array-prototype-last/description/)|28.10.23|3m|leetcode|musthave|
 |[2620](https://github.com/lld4n/leetcode/tree/master/2620)|[link](https://leetcode.com/problems/counter/description/)|28.10.23|1m|leetcode|very easy|
@@ -49,4 +50,4 @@
 |[2637 [не решено]](https://github.com/lld4n/leetcode/tree/master/2637%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/promise-time-limit/description/)|28.10.23|0|leetcode|strange|
 |[2639](https://github.com/lld4n/leetcode/tree/master/2639)|[link](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/)|28.10.23|3m|leetcode|easy|
 |[2648](https://github.com/lld4n/leetcode/tree/master/2648)|[link](https://leetcode.com/problems/generate-fibonacci-sequence/description/)|28.10.23|9m|leetcode|good|
-|count: 48| | |8h33m| | | 
+|count: 49| | |9h19m| | | 
