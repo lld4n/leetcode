@@ -39,4 +39,5 @@
 |[2621](https://github.com/lld4n/leetcode/tree/master/2621)|[link](https://leetcode.com/problems/sleep/description/)|28.10.23|1m|leetcode|musthave|
 |[2622](https://github.com/lld4n/leetcode/tree/master/2622)|[link](https://leetcode.com/problems/cache-with-time-limit/)|28.10.23|5m|leetcode|good|
 |[2623](https://github.com/lld4n/leetcode/tree/master/2623)|[link](https://leetcode.com/problems/memoize/description/)|28.10.23|9m|leetcode|musthave|
-|count: 38| | |7h9m| | | 
+|[2624](https://github.com/lld4n/leetcode/tree/master/2624)|[link](https://leetcode.com/problems/snail-traversal/description/)|28.10.23|51m|leetcode|good|
+|count: 39| | |8h0m| | | 
