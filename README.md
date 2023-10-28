@@ -40,4 +40,5 @@
 |[2622](https://github.com/lld4n/leetcode/tree/master/2622)|[link](https://leetcode.com/problems/cache-with-time-limit/)|28.10.23|5m|leetcode|good|
 |[2623](https://github.com/lld4n/leetcode/tree/master/2623)|[link](https://leetcode.com/problems/memoize/description/)|28.10.23|9m|leetcode|musthave|
 |[2624](https://github.com/lld4n/leetcode/tree/master/2624)|[link](https://leetcode.com/problems/snail-traversal/description/)|28.10.23|51m|leetcode|good|
-|count: 39| | |8h0m| | | 
+|[2625](https://github.com/lld4n/leetcode/tree/master/2625)|[link](https://leetcode.com/problems/flatten-deeply-nested-array/)|28.10.23|11m|leetcode|good|
+|count: 40| | |8h11m| | | 
