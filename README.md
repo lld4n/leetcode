@@ -43,4 +43,5 @@
 |[2625](https://github.com/lld4n/leetcode/tree/master/2625)|[link](https://leetcode.com/problems/flatten-deeply-nested-array/)|28.10.23|11m|leetcode|good|
 |[2626](https://github.com/lld4n/leetcode/tree/master/2626)|[link](https://leetcode.com/problems/array-reduce-transformation/description/)|28.10.23|1m|leetcode|very easy|
 |[2629](https://github.com/lld4n/leetcode/tree/master/2629)|[link](https://leetcode.com/problems/function-composition/)|28.10.23|3m|leetcode|easy|
-|count: 42| | |8h15m| | | 
+|[2631](https://github.com/lld4n/leetcode/tree/master/2631)|[link](https://leetcode.com/problems/group-by/description/)|28.10.23|3m|leetcode|musthave|
+|count: 43| | |8h18m| | | 
