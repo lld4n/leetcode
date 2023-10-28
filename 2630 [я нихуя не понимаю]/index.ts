@@ -1,19 +1,19 @@
-type Fn = (...params: any) => any;
+// type Fn = (...params: any) => any;
 
-function memoize(fn: Fn): Fn {
-  let result: { params: any; answer: any }[] = [];
-  return function (...params) {
-    for (let i = 0; i < result.length; i++) {
-      if (result[i].params === params) {
-        return result[i].answer;
-      }
-    }
-
-    const answer = fn(params);
-    result.push({ params, answer });
-    return answer;
-  };
-}
+// function memoize(fn: Fn): Fn {
+//   let result: { params: any; answer: any }[] = [];
+//   return function (...params) {
+//     for (let i = 0; i < result.length; i++) {
+//       if (result[i].params === params) {
+//         return result[i].answer;
+//       }
+//     }
+//
+//     const answer = fn(params);
+//     result.push({ params, answer });
+//     return answer;
+//   };
+// }
 
 /**
  * let callCount = 0;
