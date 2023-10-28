@@ -45,4 +45,5 @@
 |[2629](https://github.com/lld4n/leetcode/tree/master/2629)|[link](https://leetcode.com/problems/function-composition/)|28.10.23|3m|leetcode|easy|
 |[2631](https://github.com/lld4n/leetcode/tree/master/2631)|[link](https://leetcode.com/problems/group-by/description/)|28.10.23|3m|leetcode|musthave|
 |[2634](https://github.com/lld4n/leetcode/tree/master/2634)|[link](https://leetcode.com/problems/group-by/description/)|28.10.23|2m|leetcode|easy|
-|count: 44| | |8h20m| | | 
+|[2635](https://github.com/lld4n/leetcode/tree/master/2635)|[link](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/)|28.10.23|1m|leetcode|very easy|
+|count: 45| | |8h21m| | | 
