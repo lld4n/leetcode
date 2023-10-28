@@ -50,4 +50,5 @@
 |[2637 [не решено]](https://github.com/lld4n/leetcode/tree/master/2637%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/promise-time-limit/description/)|28.10.23|0|leetcode|strange|
 |[2639](https://github.com/lld4n/leetcode/tree/master/2639)|[link](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/)|28.10.23|3m|leetcode|easy|
 |[2648](https://github.com/lld4n/leetcode/tree/master/2648)|[link](https://leetcode.com/problems/generate-fibonacci-sequence/description/)|28.10.23|9m|leetcode|good|
-|count: 49| | |9h19m| | | 
+|[2723](https://github.com/lld4n/leetcode/tree/master/2723)|[link](https://leetcode.com/problems/add-two-promises/description/)|29.10.23|1m|leetcode|very easy|
+|count: 50| | |9h20m| | | 
