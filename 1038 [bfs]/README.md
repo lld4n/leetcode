@@ -1,7 +1,7 @@
 ---
 title: 1038 [bfs]
 url: https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/
-created: 29.10.23
+created: 30.10.23
 time: 0
 source: leetcode
 tags:
