@@ -56,4 +56,5 @@
 |[103](https://github.com/lld4n/leetcode/tree/master/103)|[link](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)|30.10.23|6m|leetcode|good|
 |[1038 [bfs]](https://github.com/lld4n/leetcode/tree/master/1038%20%5Bbfs%5D)|[link](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)|30.10.23|0|leetcode|bfs|
 |[107](https://github.com/lld4n/leetcode/tree/master/107)|[link](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|30.10.23|1m|leetcode|easy|
-|count: 55| | |9h53m| | | 
+|[116 [не решено]](https://github.com/lld4n/leetcode/tree/master/116%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|30.10.23|0|leetcode||
+|count: 56| | |9h53m| | | 
