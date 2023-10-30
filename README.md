@@ -58,4 +58,5 @@
 |[107](https://github.com/lld4n/leetcode/tree/master/107)|[link](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|30.10.23|1m|leetcode|easy|
 |[116 [не решено]](https://github.com/lld4n/leetcode/tree/master/116%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|30.10.23|0|leetcode||
 |[1356](https://github.com/lld4n/leetcode/tree/master/1356)|[link](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/?envType=daily-question&envId=2023-10-30)|30.10.23|5m|leetcode|easy|
-|count: 57| | |9h58m| | | 
+|[743 [не решено]](https://github.com/lld4n/leetcode/tree/master/743%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/network-delay-time/description/?envType=list&envId=53js48ke)|30.10.23|0|leetcode||
+|count: 58| | |9h58m| | | 

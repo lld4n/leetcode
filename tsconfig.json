@@ -1,17 +1,11 @@
-//{
-//  "compilerOptions": {
-//    "target": "esnext",
-//    "module": "commonjs",
-//    "esModuleInterop": true,
-//    "lib": ["ES2020", "DOM", "DOM.Iterable"],
-//    "noImplicitAny": true,
-//    "moduleResolution": "node",
-//    "resolveJsonModule": true,
-//    "sourceMap": true,
-//    "outDir": "./dist",
-//    "strict": true,
-//    "forceConsistentCasingInFileNames": true
-//  },
-//  "include": ["src/**/*"],
-//  "exclude": ["node_modules"]
-//}
+{
+  "compilerOptions": {
+    "lib": [
+      "decorators",
+      "dom",
+      "es5",
+      "scripthost",
+      "es2015.collection"
+    ]
+  }
+}
