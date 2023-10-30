@@ -29,6 +29,7 @@
 |[1700](https://github.com/lld4n/leetcode/tree/master/1700)|[link](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)|24.10.23|3m|leetcode|kaif|
 |[2332 [не решено]](https://github.com/lld4n/leetcode/tree/master/2332%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/description/)|26.10.23|0|leetcode|strange|
 |[823](https://github.com/lld4n/leetcode/tree/master/823)|[link](https://leetcode.com/problems/binary-trees-with-factors/description/?envType=daily-question&envId=2023-10-26)|26.10.23|25m|leetcode|no tilt|
+|[11](https://github.com/lld4n/leetcode/tree/master/11)|[link](https://leetcode.com/problems/container-with-most-water/description/)|27.10.23|4m|leetcode|good|
 |[2630 [я нихуя не понимаю]](https://github.com/lld4n/leetcode/tree/master/2630%20%5Bя%20нихуя%20не%20понимаю%5D)|[link](https://leetcode.com/problems/memoize-ii/description/)|27.10.23|0|leetcode||
 |[5](https://github.com/lld4n/leetcode/tree/master/5)|[link](https://leetcode.com/problems/longest-palindromic-substring/description/?envType=daily-question&envId=2023-10-27)|27.10.23|10m|leetcode|tilt|
 |[779](https://github.com/lld4n/leetcode/tree/master/779)|[link](https://leetcode.com/problems/k-th-symbol-in-grammar/description/?envType=daily-question&envId=2023-10-25)|27.10.23|0|leetcode|strange|
@@ -59,4 +60,4 @@
 |[116 [не решено]](https://github.com/lld4n/leetcode/tree/master/116%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|30.10.23|0|leetcode||
 |[1356](https://github.com/lld4n/leetcode/tree/master/1356)|[link](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/?envType=daily-question&envId=2023-10-30)|30.10.23|5m|leetcode|easy|
 |[743 [не решено]](https://github.com/lld4n/leetcode/tree/master/743%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/network-delay-time/description/?envType=list&envId=53js48ke)|30.10.23|0|leetcode||
-|count: 58| | |9h58m| | | 
+|count: 59| | |10h2m| | | 
