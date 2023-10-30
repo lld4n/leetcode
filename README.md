@@ -57,4 +57,5 @@
 |[1038 [bfs]](https://github.com/lld4n/leetcode/tree/master/1038%20%5Bbfs%5D)|[link](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)|30.10.23|0|leetcode|bfs|
 |[107](https://github.com/lld4n/leetcode/tree/master/107)|[link](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|30.10.23|1m|leetcode|easy|
 |[116 [не решено]](https://github.com/lld4n/leetcode/tree/master/116%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|30.10.23|0|leetcode||
-|count: 56| | |9h53m| | | 
+|[1356](https://github.com/lld4n/leetcode/tree/master/1356)|[link](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/?envType=daily-question&envId=2023-10-30)|30.10.23|5m|leetcode|easy|
+|count: 57| | |9h58m| | | 
