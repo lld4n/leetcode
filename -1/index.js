@@ -33,7 +33,8 @@ for (let el of dat) {
 
 console.log(titles);
 
-let result = "# Дорогая грусть, прости, не вернусь\n|";
+let result =
+  "# Дорогая грусть, прости, не вернусь\n[![wakatime](https://wakatime.com/badge/user/018afba7-2ebc-4282-8545-d0250012991b/project/018b347c-0b9d-4d3e-9cc5-745948186d06.svg)](https://wakatime.com/badge/user/018afba7-2ebc-4282-8545-d0250012991b/project/018b347c-0b9d-4d3e-9cc5-745948186d06)\n\n|";
 for (let el of titles) {
   result += el + "|";
 }
