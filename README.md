@@ -61,4 +61,5 @@
 |[116 [не решено]](https://github.com/lld4n/leetcode/tree/master/116%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|30.10.23|0|leetcode||
 |[1356](https://github.com/lld4n/leetcode/tree/master/1356)|[link](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/?envType=daily-question&envId=2023-10-30)|30.10.23|5m|leetcode|easy|
 |[743 [не решено]](https://github.com/lld4n/leetcode/tree/master/743%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/network-delay-time/description/?envType=list&envId=53js48ke)|30.10.23|0|leetcode||
-|count: 60| | |10h23m| | | 
+|[7](https://github.com/lld4n/leetcode/tree/master/7)|[link](https://leetcode.com/problems/reverse-integer/description/)|31.10.23|5m|leetcode|middle|
+|count: 61| | |10h28m| | | 
