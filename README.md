@@ -1,6 +1,8 @@
 # Дорогая грусть, прости, не вернусь
 [![wakatime](https://wakatime.com/badge/user/018afba7-2ebc-4282-8545-d0250012991b/project/018b347c-0b9d-4d3e-9cc5-745948186d06.svg)](https://wakatime.com/badge/user/018afba7-2ebc-4282-8545-d0250012991b/project/018b347c-0b9d-4d3e-9cc5-745948186d06)
 
+⬆️ Здесь считается не только работа над кодом, но и файлы README и скрипты для создания общего README
+
 |title|url|created|time|source|tags|
 |---|---|---|---|---|---|
 |[1. Гвоздики [не решено]](https://github.com/lld4n/leetcode/tree/master/1.%20Гвоздики%20%5Bне%20решено%5D)|[link](https://coderun.yandex.ru/problem/pin?currentPage=1&pageSize=10&rowNumber=1&compiler=nodejs)|16.10.23|∞|coderun|tilt|
