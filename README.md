@@ -26,6 +26,7 @@
 |[1884](https://github.com/lld4n/leetcode/tree/master/1884)|[link](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/description/)|16.10.23|17m|leetcode|strange|
 |[1](https://github.com/lld4n/leetcode/tree/master/1)|[link](https://leetcode.com/problems/two-sum/)|19.10.23|18m|leetcode|very easy|
 |[20](https://github.com/lld4n/leetcode/tree/master/20)|[link](https://leetcode.com/problems/valid-parentheses/description/)|19.10.23|6m|leetcode|easy|
+|[2458](https://github.com/lld4n/leetcode/tree/master/2458)|[link](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/)|19.10.23|1h|leetcode|cringe|
 |[26](https://github.com/lld4n/leetcode/tree/master/26)|[link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|19.10.23|24m|leetcode|easy|
 |[3](https://github.com/lld4n/leetcode/tree/master/3)|[link](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|19.10.23|3m|leetcode|very easy|
 |[4](https://github.com/lld4n/leetcode/tree/master/4)|[link](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|19.10.23|30m|leetcode|easy|
@@ -69,4 +70,4 @@
 |[743 [не решено]](https://github.com/lld4n/leetcode/tree/master/743%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/network-delay-time/description/?envType=list&envId=53js48ke)|30.10.23|0|leetcode||
 |[2](https://github.com/lld4n/leetcode/tree/master/2)|[link](https://leetcode.com/problems/two-sum/)|31.10.23|30m|leetcode|tilt|
 |[7](https://github.com/lld4n/leetcode/tree/master/7)|[link](https://leetcode.com/problems/reverse-integer/description/)|31.10.23|5m|leetcode|middle|
-|count: 64| | |11h10m| | | 
+|count: 65| | |11h10m| | | 

@@ -1,8 +1,8 @@
-type TreeNode = {
-  val: number;
-  left: TreeNode | null;
-  right: TreeNode | null;
-};
+// type TreeNode = {
+//   val: number;
+//   left: TreeNode | null;
+//   right: TreeNode | null;
+// };
 
 function levelOrderBottom(root: TreeNode | null): number[][] {
   let result: number[][] = [];
