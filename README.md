@@ -24,6 +24,7 @@
 |[2265](https://github.com/lld4n/leetcode/tree/master/2265)|[link](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/?envType=daily-question&envId=2023-11-02)|02.11.23|18m|leetcode|strange|
 |[2370](https://github.com/lld4n/leetcode/tree/master/2370)|[link](https://leetcode.com/problems/longest-ideal-subsequence/description/)|02.11.23|5m|leetcode|good|
 |[520](https://github.com/lld4n/leetcode/tree/master/520)|[link](https://leetcode.com/problems/detect-capital/)|02.11.23|5m|leetcode|good|
+|[1441](https://github.com/lld4n/leetcode/tree/master/1441)|[link](https://leetcode.com/problems/container-with-most-water/description/)|03.11.23|3m|leetcode|very easy|
 |[2240](https://github.com/lld4n/leetcode/tree/master/2240)|[link](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/description/)|15.10.23|14m|leetcode|easy|
 |[1884](https://github.com/lld4n/leetcode/tree/master/1884)|[link](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/description/)|16.10.23|17m|leetcode|strange|
 |[1](https://github.com/lld4n/leetcode/tree/master/1)|[link](https://leetcode.com/problems/two-sum/)|19.10.23|18m|leetcode|very easy|
@@ -72,4 +73,4 @@
 |[743 [не решено]](https://github.com/lld4n/leetcode/tree/master/743%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/network-delay-time/description/?envType=list&envId=53js48ke)|30.10.23|0|leetcode||
 |[2](https://github.com/lld4n/leetcode/tree/master/2)|[link](https://leetcode.com/problems/two-sum/)|31.10.23|30m|leetcode|tilt|
 |[7](https://github.com/lld4n/leetcode/tree/master/7)|[link](https://leetcode.com/problems/reverse-integer/description/)|31.10.23|5m|leetcode|middle|
-|count: 67| | |11h33m| | | 
+|count: 68| | |11h36m| | | 
