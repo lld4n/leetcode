@@ -28,6 +28,8 @@
 |[1960](https://github.com/lld4n/leetcode/tree/master/1960)|[link](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/description/)|03.11.23|2h|leetcode|cringe|
 |[1503](https://github.com/lld4n/leetcode/tree/master/1503)|[link](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/description/?envType=daily-question&envId=2023-11-04)|04.11.23|43m|leetcode|good|
 |[1535](https://github.com/lld4n/leetcode/tree/master/1535)|[link](https://leetcode.com/problems/container-with-most-water/description/)|05.11.23|10m|leetcode|good|
+|[1011](https://github.com/lld4n/leetcode/tree/master/1011)|[link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)|06.11.23|10m|leetcode|strange|
+|[410](https://github.com/lld4n/leetcode/tree/master/410)|[link](https://leetcode.com/problems/split-array-largest-sum/description/)|06.11.23|5m|leetcode|strange|
 |[2240](https://github.com/lld4n/leetcode/tree/master/2240)|[link](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/description/)|15.10.23|14m|leetcode|easy|
 |[1884](https://github.com/lld4n/leetcode/tree/master/1884)|[link](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/description/)|16.10.23|17m|leetcode|strange|
 |[1](https://github.com/lld4n/leetcode/tree/master/1)|[link](https://leetcode.com/problems/two-sum/)|19.10.23|18m|leetcode|very easy|
@@ -76,4 +78,4 @@
 |[743 [не решено]](https://github.com/lld4n/leetcode/tree/master/743%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/network-delay-time/description/?envType=list&envId=53js48ke)|30.10.23|0|leetcode||
 |[2](https://github.com/lld4n/leetcode/tree/master/2)|[link](https://leetcode.com/problems/two-sum/)|31.10.23|30m|leetcode|tilt|
 |[7](https://github.com/lld4n/leetcode/tree/master/7)|[link](https://leetcode.com/problems/reverse-integer/description/)|31.10.23|5m|leetcode|middle|
-|count: 71| | |12h29m| | | 
+|count: 73| | |12h44m| | | 
