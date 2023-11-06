@@ -1,8 +1,8 @@
 ---
-title: 2637 [не решено]
+title: 2637
 url: https://leetcode.com/problems/promise-time-limit/description/
 created: 28.10.23
-time: 0
+time: 20m
 source: leetcode
 tags:
   - strange

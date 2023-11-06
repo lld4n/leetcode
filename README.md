@@ -67,7 +67,7 @@
 |[2631](https://github.com/lld4n/leetcode/tree/master/2631)|[link](https://leetcode.com/problems/group-by/description/)|28.10.23|3m|leetcode|musthave|
 |[2634](https://github.com/lld4n/leetcode/tree/master/2634)|[link](https://leetcode.com/problems/group-by/description/)|28.10.23|2m|leetcode|easy|
 |[2635](https://github.com/lld4n/leetcode/tree/master/2635)|[link](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/)|28.10.23|1m|leetcode|very easy|
-|[2637 [не решено]](https://github.com/lld4n/leetcode/tree/master/2637%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/promise-time-limit/description/)|28.10.23|0|leetcode|strange|
+|[2637](https://github.com/lld4n/leetcode/tree/master/2637)|[link](https://leetcode.com/problems/promise-time-limit/description/)|28.10.23|20m|leetcode|strange|
 |[2639](https://github.com/lld4n/leetcode/tree/master/2639)|[link](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/)|28.10.23|3m|leetcode|easy|
 |[2648](https://github.com/lld4n/leetcode/tree/master/2648)|[link](https://leetcode.com/problems/generate-fibonacci-sequence/description/)|28.10.23|9m|leetcode|good|
 |[2723](https://github.com/lld4n/leetcode/tree/master/2723)|[link](https://leetcode.com/problems/add-two-promises/description/)|29.10.23|1m|leetcode|very easy|
@@ -81,4 +81,4 @@
 |[743 [не решено]](https://github.com/lld4n/leetcode/tree/master/743%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/network-delay-time/description/?envType=list&envId=53js48ke)|30.10.23|0|leetcode||
 |[2](https://github.com/lld4n/leetcode/tree/master/2)|[link](https://leetcode.com/problems/two-sum/)|31.10.23|30m|leetcode|tilt|
 |[7](https://github.com/lld4n/leetcode/tree/master/7)|[link](https://leetcode.com/problems/reverse-integer/description/)|31.10.23|5m|leetcode|middle|
-|count: 76| | |13h1m| | | 
+|count: 76| | |13h21m| | | 
