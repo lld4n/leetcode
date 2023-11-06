@@ -30,6 +30,7 @@
 |[1535](https://github.com/lld4n/leetcode/tree/master/1535)|[link](https://leetcode.com/problems/container-with-most-water/description/)|05.11.23|10m|leetcode|good|
 |[1011](https://github.com/lld4n/leetcode/tree/master/1011)|[link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)|06.11.23|10m|leetcode|strange|
 |[1770](https://github.com/lld4n/leetcode/tree/master/1770)|[link](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/description/)|06.11.23|10m|leetcode|hard|
+|[2704](https://github.com/lld4n/leetcode/tree/master/2704)|[link](https://leetcode.com/problems/to-be-or-not-to-be/?envType=study-plan-v2&envId=30-days-of-javascript)|06.11.23|2m|leetcode|easy|
 |[410](https://github.com/lld4n/leetcode/tree/master/410)|[link](https://leetcode.com/problems/split-array-largest-sum/description/)|06.11.23|5m|leetcode|strange|
 |[2240](https://github.com/lld4n/leetcode/tree/master/2240)|[link](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/description/)|15.10.23|14m|leetcode|easy|
 |[1884](https://github.com/lld4n/leetcode/tree/master/1884)|[link](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/description/)|16.10.23|17m|leetcode|strange|
@@ -79,4 +80,4 @@
 |[743 [не решено]](https://github.com/lld4n/leetcode/tree/master/743%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/network-delay-time/description/?envType=list&envId=53js48ke)|30.10.23|0|leetcode||
 |[2](https://github.com/lld4n/leetcode/tree/master/2)|[link](https://leetcode.com/problems/two-sum/)|31.10.23|30m|leetcode|tilt|
 |[7](https://github.com/lld4n/leetcode/tree/master/7)|[link](https://leetcode.com/problems/reverse-integer/description/)|31.10.23|5m|leetcode|middle|
-|count: 74| | |12h54m| | | 
+|count: 75| | |12h56m| | | 
