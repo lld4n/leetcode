@@ -30,6 +30,7 @@
 |[1535](https://github.com/lld4n/leetcode/tree/master/1535)|[link](https://leetcode.com/problems/container-with-most-water/description/)|05.11.23|10m|leetcode|good|
 |[1011](https://github.com/lld4n/leetcode/tree/master/1011)|[link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)|06.11.23|10m|leetcode|strange|
 |[1770](https://github.com/lld4n/leetcode/tree/master/1770)|[link](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/description/)|06.11.23|10m|leetcode|hard|
+|[1845](https://github.com/lld4n/leetcode/tree/master/1845)|[link](https://leetcode.com/problems/function-composition/)|06.11.23|5m|leetcode|good|
 |[2627](https://github.com/lld4n/leetcode/tree/master/2627)|[link](https://leetcode.com/problems/debounce/description/?envType=study-plan-v2&envId=30-days-of-javascript)|06.11.23|5m|leetcode|strange|
 |[2704](https://github.com/lld4n/leetcode/tree/master/2704)|[link](https://leetcode.com/problems/to-be-or-not-to-be/?envType=study-plan-v2&envId=30-days-of-javascript)|06.11.23|2m|leetcode|easy|
 |[2715](https://github.com/lld4n/leetcode/tree/master/2715)|[link](https://leetcode.com/problems/timeout-cancellation/description/?envType=study-plan-v2&envId=30-days-of-javascript)|06.11.23|5m|leetcode|good|
@@ -83,4 +84,4 @@
 |[743 [не решено]](https://github.com/lld4n/leetcode/tree/master/743%20%5Bне%20решено%5D)|[link](https://leetcode.com/problems/network-delay-time/description/?envType=list&envId=53js48ke)|30.10.23|0|leetcode||
 |[2](https://github.com/lld4n/leetcode/tree/master/2)|[link](https://leetcode.com/problems/two-sum/)|31.10.23|30m|leetcode|tilt|
 |[7](https://github.com/lld4n/leetcode/tree/master/7)|[link](https://leetcode.com/problems/reverse-integer/description/)|31.10.23|5m|leetcode|middle|
-|count: 78| | |13h32m| | | 
+|count: 79| | |13h37m| | | 
