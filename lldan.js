@@ -72,7 +72,7 @@ let result =
 
 let time = [];
 for (let key1 in object) {
-  result += `# ${getMonth(key1)}\n`;
+  result += `# ${key1}\n`;
   for (let key2 in object[key1]) {
     result += `## ${key2}\n`;
     result += "|title|link|time|source|tag|\n|---|---|---|---|---|\n";
@@ -82,7 +82,7 @@ for (let key1 in object) {
     }
   }
 }
-
+console.log("Произошел рефакторинг");
 fs.writeFileSync("README.md", result);
 
 function getMonth(str) {
