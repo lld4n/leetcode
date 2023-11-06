@@ -1,1 +1,3 @@
-function strStr(haystack: string, needle: string): number {}
+function strStr(haystack: string, needle: string): number {
+  console.log();
+}

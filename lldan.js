@@ -1,31 +1,13 @@
 import fs from "fs";
 import matter from "gray-matter";
-import { exec } from "child_process";
+import { exec, spawnSync } from "child_process";
+
 const currentTimestamp = new Date().toLocaleString("en-US", {
   dateStyle: "medium",
   timeStyle: "short",
 });
-exec("git add .", (err, stdout, stderr) => {
-  if (err) {
-    console.error(err);
-    return;
-  }
-  console.log(stdout);
-});
-exec(`git commit -m "${currentTimestamp}"`, (err, stdout, stderr) => {
-  if (err) {
-    console.error(err);
-    return;
-  }
-  console.log(stdout);
-});
-exec("git push", (err, stdout, stderr) => {
-  if (err) {
-    console.error(err);
-    return;
-  }
-  console.log(stdout);
-});
+spawnSync("git", ["add", "."], { stdio: "inherit" });
+spawnSync("git", ["commit", "-m", `${currentTimestamp}`], { stdio: "inherit" });
 const throws = [
   "-1",
   ".git",
