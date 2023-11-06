@@ -13,7 +13,6 @@
     "typescript": "^5.2.2"
   },
   "dependencies": {
-    "gray-matter": "^4.0.3",
     "ts-node": "^10.9.1"
   }
 }

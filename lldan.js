@@ -1,5 +1,4 @@
 import fs from "fs";
-import matter from "gray-matter";
 import { spawnSync } from "child_process";
 
 const throws = [
