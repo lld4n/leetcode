@@ -5,6 +5,9 @@
   "author": "lldan",
   "license": "MIT",
   "type": "module",
+  "scripts": {
+    "deploy": "node lldan.js"
+  },
   "devDependencies": {
     "prettier": "3.0.3",
     "typescript": "^5.2.2"
