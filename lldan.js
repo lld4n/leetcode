@@ -8,6 +8,7 @@ const currentTimestamp = new Date().toLocaleString("en-US", {
 });
 spawnSync("git", ["add", "."], { stdio: "inherit" });
 spawnSync("git", ["commit", "-m", `${currentTimestamp}`], { stdio: "inherit" });
+spawnSync("git", ["push"], { stdio: "inherit" });
 const throws = [
   "-1",
   ".git",
