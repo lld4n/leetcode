@@ -3,26 +3,26 @@
 
 ⬆️ Здесь считается не только работа над кодом, но и файлы README и скрипты для создания общего README
 
-## октябрь.23
-### 15-10-23
+# октябрь.23
+## 15-10-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2240|[link](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/description/)|14m|leetcode|easy|
-### 16-10-23
+## 16-10-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1. Гвоздики [не решено]|[link](https://coderun.yandex.ru/problem/pin?currentPage=1&pageSize=10&rowNumber=1&compiler=nodejs)|∞|coderun|tilt|
 |1884|[link](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/description/)|17m|leetcode|strange|
-### 17-10-23
+## 17-10-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2. Самый дешевый путь|[link](https://coderun.yandex.ru/problem/cheapest-way?currentPage=1&pageSize=10&rowNumber=2&compiler=java)|39m|coderun|easy|
 |3. Вывести маршрут максимальной стоимости|[link](https://coderun.yandex.ru/problem/print-the-route-of-the-maximum-cost?currentPage=1&pageSize=10&rowNumber=3)|9m|coderun|very easy|
-### 18-10-23
+## 18-10-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |4. Ход конём|[link](https://coderun.yandex.ru/problem/knight-move?currentPage=1&pageSize=10&rowNumber=4)|16m|coderun|very easy|
-### 19-10-23
+## 19-10-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1|[link](https://leetcode.com/problems/two-sum/)|18m|leetcode|very easy|
@@ -32,41 +32,41 @@
 |3|[link](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|3m|leetcode|very easy|
 |4|[link](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|30m|leetcode|easy|
 |9|[link](https://leetcode.com/problems/palindrome-number/)|6m|leetcode|very easy|
-### 20-10-23
+## 20-10-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |5. Кафе [не решено]|[link](https://coderun.yandex.ru/problem/cafe?currentPage=1&pageSize=10&rowNumber=5)|0|coderun||
-### 22-10-23
+## 22-10-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2666|[link](https://leetcode.com/problems/allow-one-function-call/)|11m|leetcode|good|
 |891 [50 решено]|[link](https://leetcode.com/problems/sum-of-subsequence-widths/)|1h20m|leetcode||
-### 23-10-23
+## 23-10-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |152. Калькулятор|[link](https://coderun.yandex.ru/problem/calculator?currentPage=1&pageSize=10&tag=first_2023_frontend&rowNumber=1)|30m|coderun|hard|
 |218. Яндекс Суп [не решено]|[link](https://coderun.yandex.ru/problem/yandex-soup?currentPage=1&pageSize=10&tag=first_2023_frontend&rowNumber=7)|0|coderun||
 |236. Найти ошибки в коде|[link](https://coderun.yandex.ru/problem/find-bugs?currentPage=1&pageSize=10&tag=first_2023_frontend&rowNumber=9)|9m|coderun|easy|
 |244. Новый логотип Яндекс Такси|[link](https://coderun.yandex.ru/problem/picture-with-a-variation?currentPage=3&pageSize=10&tag=first_2023_frontend&rowNumber=24)|10m|coderun|good|
-### 24-10-23
+## 24-10-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1700|[link](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)|3m|leetcode|kaif|
 |320. Шифр подстановки|[link](https://coderun.yandex.ru/problem/substitution-code?currentPage=4&pageSize=10&tag=first_2023_frontend&rowNumber=38)|43m|coderun|kaif|
 |334. Инопланетный календарь [не решено]|[link](https://coderun.yandex.ru/problem/alien-calendar?currentPage=5&pageSize=10&tag=first_2023_frontend&rowNumber=42)|0|coderun|strange|
 |338. Сумма, кроме некоторых|[link](https://coderun.yandex.ru/problem/sum-except?currentPage=5&pageSize=10&tag=first_2023_frontend&rowNumber=43)|6m|coderun|easy|
-### 25-10-23
+## 25-10-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |166. Яндексформеры|[link](https://coderun.yandex.ru/problem/yandexformers?currentPage=2&pageSize=10&tag=first_2023_frontend&rowNumber=12)|0|coderun||
 |228. Поиск чисел в массиве с определённой суммой|[link](https://coderun.yandex.ru/problem/search-for-numbers?currentPage=1&pageSize=10&tag=first_2023_frontend&rowNumber=8)|0|coderun||
 |335. Вертлявые числа|[link](https://coderun.yandex.ru/problem/shuffling-numbers?currentPage=1&pageSize=10&search=%D0%B2%D0%B5%D1%80%D1%82%D0%BB%D1%8F%D0%B2%D1%8B%D0%B5&rowNumber=1)|0|coderun||
-### 26-10-23
+## 26-10-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2332 [не решено]|[link](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/description/)|0|leetcode|strange|
 |823|[link](https://leetcode.com/problems/binary-trees-with-factors/description/?envType=daily-question&envId=2023-10-26)|25m|leetcode|no tilt|
-### 27-10-23
+## 27-10-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |11|[link](https://leetcode.com/problems/container-with-most-water/description/)|4m|leetcode|good|
@@ -75,7 +75,7 @@
 |5|[link](https://leetcode.com/problems/longest-palindromic-substring/description/?envType=daily-question&envId=2023-10-27)|10m|leetcode|tilt|
 |779|[link](https://leetcode.com/problems/k-th-symbol-in-grammar/description/?envType=daily-question&envId=2023-10-25)|0|leetcode|strange|
 |79 [не решено]|[link](https://leetcode.com/problems/word-search/)|0|leetcode|strange|
-### 28-10-23
+## 28-10-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1220|[link](https://leetcode.com/problems/count-vowels-permutation/description/?envType=daily-question&envId=2023-10-28)|46m|leetcode|very good|
@@ -94,11 +94,11 @@
 |2637|[link](https://leetcode.com/problems/promise-time-limit/description/)|20m|leetcode|strange|
 |2639|[link](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/)|3m|leetcode|easy|
 |2648|[link](https://leetcode.com/problems/generate-fibonacci-sequence/description/)|9m|leetcode|good|
-### 29-10-23
+## 29-10-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2723|[link](https://leetcode.com/problems/add-two-promises/description/)|1m|leetcode|very easy|
-### 30-10-23
+## 30-10-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |101|[link](https://leetcode.com/problems/symmetric-tree/description/)|10m|leetcode|good|
@@ -109,37 +109,37 @@
 |116 [не решено]|[link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|0|leetcode||
 |1356|[link](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/?envType=daily-question&envId=2023-10-30)|5m|leetcode|easy|
 |743 [не решено]|[link](https://leetcode.com/problems/network-delay-time/description/?envType=list&envId=53js48ke)|0|leetcode||
-### 31-10-23
+## 31-10-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2|[link](https://leetcode.com/problems/two-sum/)|30m|leetcode|tilt|
 |7|[link](https://leetcode.com/problems/reverse-integer/description/)|5m|leetcode|middle|
-## ноябрь.23
-### 01-11-23
+# ноябрь.23
+## 01-11-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |501|[link](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/?envType=daily-question&envId=2023-11-01)|7m|leetcode|easy|
-### 02-11-23
+## 02-11-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2265|[link](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/?envType=daily-question&envId=2023-11-02)|18m|leetcode|strange|
 |2370|[link](https://leetcode.com/problems/longest-ideal-subsequence/description/)|5m|leetcode|good|
 |2625|[link](https://leetcode.com/problems/flatten-deeply-nested-array/)|11m|leetcode|good|
 |520|[link](https://leetcode.com/problems/detect-capital/)|5m|leetcode|good|
-### 03-11-23
+## 03-11-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1441|[link](https://leetcode.com/problems/container-with-most-water/description/)|3m|leetcode|very easy|
 |1960|[link](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/description/)|2h|leetcode|cringe|
-### 04-11-23
+## 04-11-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1503|[link](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/description/?envType=daily-question&envId=2023-11-04)|43m|leetcode|good|
-### 05-11-23
+## 05-11-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1535|[link](https://leetcode.com/problems/container-with-most-water/description/)|10m|leetcode|good|
-### 06-11-23
+## 06-11-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1011|[link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)|10m|leetcode|strange|
@@ -156,7 +156,7 @@
 |2726|[link](https://leetcode.com/problems/calculator-with-method-chaining/?envType=study-plan-v2&envId=30-days-of-javascript)|3m|leetcode|good|
 |410|[link](https://leetcode.com/problems/split-array-largest-sum/description/)|5m|leetcode|strange|
 |389|[link](https://leetcode.com/problems/find-the-difference/?envType=study-plan-v2&envId=programming-skills)|8m|leetcode|good|
-### 07-11-23
+## 07-11-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |28|[link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=programming-skills)|8m|leetcode|good|

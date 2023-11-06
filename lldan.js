@@ -72,9 +72,9 @@ let result =
 
 let time = [];
 for (let key1 in object) {
-  result += `## ${getMonth(key1)}\n`;
+  result += `# ${getMonth(key1)}\n`;
   for (let key2 in object[key1]) {
-    result += `### ${key2}\n`;
+    result += `## ${key2}\n`;
     result += "|title|link|time|source|tag|\n|---|---|---|---|---|\n";
     for (let element of object[key1][key2]) {
       time.push(element.time);
