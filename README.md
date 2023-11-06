@@ -3,7 +3,53 @@
 
 ⬆️ Здесь считается не только работа над кодом, но и файлы README и скрипты для создания общего README
 
-# -10-23
+# ноябрь.23
+## 01-11-23
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|501|[link](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/?envType=daily-question&envId=2023-11-01)|7m|leetcode|easy|
+## 02-11-23
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|2265|[link](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/?envType=daily-question&envId=2023-11-02)|18m|leetcode|strange|
+|2370|[link](https://leetcode.com/problems/longest-ideal-subsequence/description/)|5m|leetcode|good|
+|2625|[link](https://leetcode.com/problems/flatten-deeply-nested-array/)|11m|leetcode|good|
+|520|[link](https://leetcode.com/problems/detect-capital/)|5m|leetcode|good|
+## 03-11-23
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1441|[link](https://leetcode.com/problems/container-with-most-water/description/)|3m|leetcode|very easy|
+|1960|[link](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/description/)|2h|leetcode|cringe|
+## 04-11-23
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1503|[link](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/description/?envType=daily-question&envId=2023-11-04)|43m|leetcode|good|
+## 05-11-23
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1535|[link](https://leetcode.com/problems/container-with-most-water/description/)|10m|leetcode|good|
+## 06-11-23
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1011|[link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)|10m|leetcode|strange|
+|1768|[link](https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=programming-skills)|10m|leetcode|strange|
+|1770|[link](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/description/)|10m|leetcode|hard|
+|1845|[link](https://leetcode.com/problems/function-composition/)|5m|leetcode|good|
+|2627|[link](https://leetcode.com/problems/debounce/description/?envType=study-plan-v2&envId=30-days-of-javascript)|5m|leetcode|strange|
+|2694|[link](https://leetcode.com/problems/event-emitter/description/?envType=study-plan-v2&envId=30-days-of-javascript)|8m|leetcode|good|
+|2704|[link](https://leetcode.com/problems/to-be-or-not-to-be/?envType=study-plan-v2&envId=30-days-of-javascript)|2m|leetcode|easy|
+|2705|[link](https://leetcode.com/problems/compact-object/description/?envType=study-plan-v2&envId=30-days-of-javascript)|7m|leetcode|hard|
+|2715|[link](https://leetcode.com/problems/timeout-cancellation/description/?envType=study-plan-v2&envId=30-days-of-javascript)|5m|leetcode|good|
+|2721|[link](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/description/?envType=study-plan-v2&envId=30-days-of-javascript)|6m|leetcode|good|
+|2722|[link](https://leetcode.com/problems/join-two-arrays-by-id/description/?envType=study-plan-v2&envId=30-days-of-javascript)|14m|leetcode|medium|
+|2726|[link](https://leetcode.com/problems/calculator-with-method-chaining/?envType=study-plan-v2&envId=30-days-of-javascript)|3m|leetcode|good|
+|410|[link](https://leetcode.com/problems/split-array-largest-sum/description/)|5m|leetcode|strange|
+|389|[link](https://leetcode.com/problems/find-the-difference/?envType=study-plan-v2&envId=programming-skills)|8m|leetcode|good|
+## 07-11-23
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|28|[link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=programming-skills)|8m|leetcode|good|
+# октябрь.23
 ## 15-10-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
@@ -114,95 +160,3 @@
 |---|---|---|---|---|
 |2|[link](https://leetcode.com/problems/two-sum/)|30m|leetcode|tilt|
 |7|[link](https://leetcode.com/problems/reverse-integer/description/)|5m|leetcode|middle|
-# -11-23
-## 01-11-23
-|title|link|time|source|tag|
-|---|---|---|---|---|
-|501|[link](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/?envType=daily-question&envId=2023-11-01)|7m|leetcode|easy|
-## 02-11-23
-|title|link|time|source|tag|
-|---|---|---|---|---|
-|2265|[link](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/?envType=daily-question&envId=2023-11-02)|18m|leetcode|strange|
-|2370|[link](https://leetcode.com/problems/longest-ideal-subsequence/description/)|5m|leetcode|good|
-|2625|[link](https://leetcode.com/problems/flatten-deeply-nested-array/)|11m|leetcode|good|
-|520|[link](https://leetcode.com/problems/detect-capital/)|5m|leetcode|good|
-## 03-11-23
-|title|link|time|source|tag|
-|---|---|---|---|---|
-|1441|[link](https://leetcode.com/problems/container-with-most-water/description/)|3m|leetcode|very easy|
-|1960|[link](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/description/)|2h|leetcode|cringe|
-## 04-11-23
-|title|link|time|source|tag|
-|---|---|---|---|---|
-|1503|[link](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/description/?envType=daily-question&envId=2023-11-04)|43m|leetcode|good|
-## 05-11-23
-|title|link|time|source|tag|
-|---|---|---|---|---|
-|1535|[link](https://leetcode.com/problems/container-with-most-water/description/)|10m|leetcode|good|
-## 06-11-23
-|title|link|time|source|tag|
-|---|---|---|---|---|
-|1011|[link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)|10m|leetcode|strange|
-|1768|[link](https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=programming-skills)|10m|leetcode|strange|
-|1770|[link](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/description/)|10m|leetcode|hard|
-|1845|[link](https://leetcode.com/problems/function-composition/)|5m|leetcode|good|
-|2627|[link](https://leetcode.com/problems/debounce/description/?envType=study-plan-v2&envId=30-days-of-javascript)|5m|leetcode|strange|
-|2694|[link](https://leetcode.com/problems/event-emitter/description/?envType=study-plan-v2&envId=30-days-of-javascript)|8m|leetcode|good|
-|2704|[link](https://leetcode.com/problems/to-be-or-not-to-be/?envType=study-plan-v2&envId=30-days-of-javascript)|2m|leetcode|easy|
-|2705|[link](https://leetcode.com/problems/compact-object/description/?envType=study-plan-v2&envId=30-days-of-javascript)|7m|leetcode|hard|
-|2715|[link](https://leetcode.com/problems/timeout-cancellation/description/?envType=study-plan-v2&envId=30-days-of-javascript)|5m|leetcode|good|
-|2721|[link](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/description/?envType=study-plan-v2&envId=30-days-of-javascript)|6m|leetcode|good|
-|2722|[link](https://leetcode.com/problems/join-two-arrays-by-id/description/?envType=study-plan-v2&envId=30-days-of-javascript)|14m|leetcode|medium|
-|2726|[link](https://leetcode.com/problems/calculator-with-method-chaining/?envType=study-plan-v2&envId=30-days-of-javascript)|3m|leetcode|good|
-|410|[link](https://leetcode.com/problems/split-array-largest-sum/description/)|5m|leetcode|strange|
-|389|[link](https://leetcode.com/problems/find-the-difference/?envType=study-plan-v2&envId=programming-skills)|8m|leetcode|good|
-## 07-11-23
-|title|link|time|source|tag|
-|---|---|---|---|---|
-|28|[link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=programming-skills)|8m|leetcode|good|
-# ноябрь.23
-## 01-11-23
-|title|link|time|source|tag|
-|---|---|---|---|---|
-|501|[link](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/?envType=daily-question&envId=2023-11-01)|7m|leetcode|easy|
-## 02-11-23
-|title|link|time|source|tag|
-|---|---|---|---|---|
-|2265|[link](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/?envType=daily-question&envId=2023-11-02)|18m|leetcode|strange|
-|2370|[link](https://leetcode.com/problems/longest-ideal-subsequence/description/)|5m|leetcode|good|
-|2625|[link](https://leetcode.com/problems/flatten-deeply-nested-array/)|11m|leetcode|good|
-|520|[link](https://leetcode.com/problems/detect-capital/)|5m|leetcode|good|
-## 03-11-23
-|title|link|time|source|tag|
-|---|---|---|---|---|
-|1441|[link](https://leetcode.com/problems/container-with-most-water/description/)|3m|leetcode|very easy|
-|1960|[link](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/description/)|2h|leetcode|cringe|
-## 04-11-23
-|title|link|time|source|tag|
-|---|---|---|---|---|
-|1503|[link](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/description/?envType=daily-question&envId=2023-11-04)|43m|leetcode|good|
-## 05-11-23
-|title|link|time|source|tag|
-|---|---|---|---|---|
-|1535|[link](https://leetcode.com/problems/container-with-most-water/description/)|10m|leetcode|good|
-## 06-11-23
-|title|link|time|source|tag|
-|---|---|---|---|---|
-|1011|[link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)|10m|leetcode|strange|
-|1768|[link](https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=programming-skills)|10m|leetcode|strange|
-|1770|[link](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/description/)|10m|leetcode|hard|
-|1845|[link](https://leetcode.com/problems/function-composition/)|5m|leetcode|good|
-|2627|[link](https://leetcode.com/problems/debounce/description/?envType=study-plan-v2&envId=30-days-of-javascript)|5m|leetcode|strange|
-|2694|[link](https://leetcode.com/problems/event-emitter/description/?envType=study-plan-v2&envId=30-days-of-javascript)|8m|leetcode|good|
-|2704|[link](https://leetcode.com/problems/to-be-or-not-to-be/?envType=study-plan-v2&envId=30-days-of-javascript)|2m|leetcode|easy|
-|2705|[link](https://leetcode.com/problems/compact-object/description/?envType=study-plan-v2&envId=30-days-of-javascript)|7m|leetcode|hard|
-|2715|[link](https://leetcode.com/problems/timeout-cancellation/description/?envType=study-plan-v2&envId=30-days-of-javascript)|5m|leetcode|good|
-|2721|[link](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/description/?envType=study-plan-v2&envId=30-days-of-javascript)|6m|leetcode|good|
-|2722|[link](https://leetcode.com/problems/join-two-arrays-by-id/description/?envType=study-plan-v2&envId=30-days-of-javascript)|14m|leetcode|medium|
-|2726|[link](https://leetcode.com/problems/calculator-with-method-chaining/?envType=study-plan-v2&envId=30-days-of-javascript)|3m|leetcode|good|
-|410|[link](https://leetcode.com/problems/split-array-largest-sum/description/)|5m|leetcode|strange|
-|389|[link](https://leetcode.com/problems/find-the-difference/?envType=study-plan-v2&envId=programming-skills)|8m|leetcode|good|
-## 07-11-23
-|title|link|time|source|tag|
-|---|---|---|---|---|
-|28|[link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=programming-skills)|8m|leetcode|good|
