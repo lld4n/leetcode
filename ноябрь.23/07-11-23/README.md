@@ -98,3 +98,33 @@
 - `time` 2m
 - `source` leetcode
 - `tags` easy
+# 860
+- `url` [link](https://leetcode.com/problems/lemonade-change/?envType=study-plan-v2&envId=programming-skills)
+- `time` 5m
+- `source` leetcode
+- `tags` good
+# 976
+- `url` [link](https://leetcode.com/problems/largest-perimeter-triangle/?envType=study-plan-v2&envId=programming-skills)
+- `time` 2m
+- `source` leetcode
+- `tags` 
+# 1232 [скип]
+- `url` [link](https://leetcode.com/problems/check-if-it-is-a-straight-line/?envType=study-plan-v2&envId=programming-skills)
+- `time` 10m
+- `source` leetcode
+- `tags` tilt
+# 67
+- `url` [link](https://leetcode.com/problems/add-binary/description/?envType=study-plan-v2&envId=programming-skills)
+- `time` 8m
+- `source` leetcode
+- `tags` good
+# 43 [читы]
+- `url` [link](https://leetcode.com/problems/multiply-strings/description/?envType=study-plan-v2&envId=programming-skills)
+- `time` 0m
+- `source` leetcode
+- `tags` tilt
+# 21
+- `url` [link](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=study-plan-v2&envId=programming-skills)
+- `time` 4m
+- `source` leetcode
+- `tags` good
