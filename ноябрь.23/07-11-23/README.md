@@ -38,3 +38,13 @@
 - `time` 15m
 - `source` leetcode
 - `tags` good
+# 13
+- `url` [link](https://leetcode.com/problems/roman-to-integer/description/?envType=study-plan-v2&envId=programming-skills)
+- `time` 13m
+- `source` leetcode
+- `tags` medium
+# 58
+- `url` [link](https://leetcode.com/problems/length-of-last-word/description/?envType=study-plan-v2&envId=programming-skills)
+- `time` 3m
+- `source` leetcode
+- `tags` easy
