@@ -48,7 +48,7 @@
 ## 07-11-23
 |title|link|time|source|tag|
 |---|---|---|---|---|
-|28|[link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=programming-skills)|8m|leetcode|good|
+|28|[link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=programming-skills)|12m|leetcode|good|
 # октябрь.23
 ## 15-10-23
 |title|link|time|source|tag|
