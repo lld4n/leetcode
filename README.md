@@ -59,6 +59,9 @@
 |13|[link](https://leetcode.com/problems/roman-to-integer/description/?envType=study-plan-v2&envId=programming-skills)|13m|leetcode|medium|
 |58|[link](https://leetcode.com/problems/length-of-last-word/description/?envType=study-plan-v2&envId=programming-skills)|3m|leetcode|easy|
 |682|[link](https://leetcode.com/problems/baseball-game/description/?envType=study-plan-v2&envId=programming-skills)|3m|leetcode|good|
+|657|[link](https://leetcode.com/problems/robot-return-to-origin/description/?envType=study-plan-v2&envId=programming-skills)|3m|leetcode|easy|
+|1275|[link](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/?envType=study-plan-v2&envId=programming-skills)|17m|leetcode|good|
+|1041|[link](https://leetcode.com/problems/robot-bounded-in-circle/description/?envType=study-plan-v2&envId=programming-skills)|0|leetcode||
 # октябрь.23
 ## 15-10-23
 |title|link|time|source|tag|

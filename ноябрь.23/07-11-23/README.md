@@ -53,3 +53,18 @@
 - `time` 3m
 - `source` leetcode
 - `tags` good
+# 657
+- `url` [link](https://leetcode.com/problems/robot-return-to-origin/description/?envType=study-plan-v2&envId=programming-skills)
+- `time` 3m
+- `source` leetcode
+- `tags` easy
+# 1275
+- `url` [link](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/?envType=study-plan-v2&envId=programming-skills)
+- `time` 17m
+- `source` leetcode
+- `tags` good
+# 1041
+- `url` [link](https://leetcode.com/problems/robot-bounded-in-circle/description/?envType=study-plan-v2&envId=programming-skills)
+- `time` 0
+- `source` leetcode
+- `tags` 
