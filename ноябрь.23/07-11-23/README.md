@@ -13,3 +13,13 @@
 - `time` 4m
 - `source` leetcode
 - `tags` strange
+# 459
+- `url` [link](https://leetcode.com/problems/repeated-substring-pattern/description/?envType=study-plan-v2&envId=programming-skills)
+- `time` 7m
+- `source` leetcode
+- `tags` medium
+# 66
+- `url` [link](https://leetcode.com/problems/plus-one/description/?envType=study-plan-v2&envId=programming-skills)
+- `time` 0
+- `source` leetcode
+- `tags` 

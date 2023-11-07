@@ -51,6 +51,8 @@
 |28|[link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=programming-skills)|12m|leetcode|good|
 |1921|[link](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/description/?envType=daily-question&envId=2023-11-07)|42m|leetcode|very good|
 |242|[link](https://leetcode.com/problems/valid-anagram/?envType=study-plan-v2&envId=programming-skills)|4m|leetcode|strange|
+|459|[link](https://leetcode.com/problems/repeated-substring-pattern/description/?envType=study-plan-v2&envId=programming-skills)|7m|leetcode|medium|
+|66|[link](https://leetcode.com/problems/plus-one/description/?envType=study-plan-v2&envId=programming-skills)|0|leetcode||
 # октябрь.23
 ## 15-10-23
 |title|link|time|source|tag|
