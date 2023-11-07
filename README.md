@@ -45,7 +45,7 @@
 |2726|[link](https://leetcode.com/problems/calculator-with-method-chaining/?envType=study-plan-v2&envId=30-days-of-javascript)|3m|leetcode|good|
 |410|[link](https://leetcode.com/problems/split-array-largest-sum/description/)|5m|leetcode|strange|
 |389|[link](https://leetcode.com/problems/find-the-difference/?envType=study-plan-v2&envId=programming-skills)|8m|leetcode|good|
-## 07-11-23 [count 19]
+## 07-11-23 [count 20]
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |28|[link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=programming-skills)|12m|leetcode|good|
@@ -67,6 +67,7 @@
 |54 [противная задача]|[link](https://leetcode.com/problems/spiral-matrix/description/?envType=study-plan-v2&envId=programming-skills)|20m|leetcode|tilt|
 |73|[link](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=study-plan-v2&envId=programming-skills)|8m|leetcode|good|
 |1523|[link](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/?envType=study-plan-v2&envId=programming-skills)|1m|leetcode|easy|
+|1491|[link](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/?envType=study-plan-v2&envId=programming-skills)|2m|leetcode|easy|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|

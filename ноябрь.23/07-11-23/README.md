@@ -93,3 +93,8 @@
 - `time` 1m
 - `source` leetcode
 - `tags` easy
+# 1491
+- `url` [link](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/?envType=study-plan-v2&envId=programming-skills)
+- `time` 2m
+- `source` leetcode
+- `tags` easy
