@@ -48,3 +48,8 @@
 - `time` 3m
 - `source` leetcode
 - `tags` easy
+# 682
+- `url` [link](https://leetcode.com/problems/baseball-game/description/?envType=study-plan-v2&envId=programming-skills)
+- `time` 3m
+- `source` leetcode
+- `tags` good

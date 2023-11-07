@@ -58,6 +58,7 @@
 |896|[link](https://leetcode.com/problems/monotonic-array/description/?envType=study-plan-v2&envId=programming-skills)|15m|leetcode|good|
 |13|[link](https://leetcode.com/problems/roman-to-integer/description/?envType=study-plan-v2&envId=programming-skills)|13m|leetcode|medium|
 |58|[link](https://leetcode.com/problems/length-of-last-word/description/?envType=study-plan-v2&envId=programming-skills)|3m|leetcode|easy|
+|682|[link](https://leetcode.com/problems/baseball-game/description/?envType=study-plan-v2&envId=programming-skills)|3m|leetcode|good|
 # октябрь.23
 ## 15-10-23
 |title|link|time|source|tag|
