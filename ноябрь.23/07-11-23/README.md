@@ -88,3 +88,8 @@
 - `time` 8m
 - `source` leetcode
 - `tags` good
+# 1523
+- `url` [link](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/?envType=study-plan-v2&envId=programming-skills)
+- `time` 1m
+- `source` leetcode
+- `tags` easy
