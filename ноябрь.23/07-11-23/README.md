@@ -3,3 +3,8 @@
 - `time` 12m
 - `source` leetcode
 - `tags` good
+# 1921
+- `url` [link](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/description/?envType=daily-question&envId=2023-11-07)
+- `time` 42m
+- `source` leetcode
+- `tags` very good
