@@ -8,3 +8,8 @@
 - `time` 42m
 - `source` leetcode
 - `tags` very good
+# 242
+- `url` [link](https://leetcode.com/problems/valid-anagram/?envType=study-plan-v2&envId=programming-skills)
+- `time` 4m
+- `source` leetcode
+- `tags` strange
