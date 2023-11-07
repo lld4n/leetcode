@@ -63,8 +63,8 @@
 - `time` 17m
 - `source` leetcode
 - `tags` good
-# 1041
+# 1041 [нихуя не понял]
 - `url` [link](https://leetcode.com/problems/robot-bounded-in-circle/description/?envType=study-plan-v2&envId=programming-skills)
-- `time` 0
+- `time` 10m
 - `source` leetcode
-- `tags` 
+- `tags` strange
