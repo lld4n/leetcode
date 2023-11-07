@@ -138,3 +138,8 @@
 - `time` 3m
 - `source` leetcode
 - `tags` medium
+# 2693 [нихуя не понял]
+- `url` [link](https://leetcode.com/problems/call-function-with-custom-context/description/)
+- `time` 10m
+- `source` leetcode
+- `tags` strange

@@ -45,7 +45,7 @@
 |2726|[link](https://leetcode.com/problems/calculator-with-method-chaining/?envType=study-plan-v2&envId=30-days-of-javascript)|3m|leetcode|good|
 |410|[link](https://leetcode.com/problems/split-array-largest-sum/description/)|5m|leetcode|strange|
 |389|[link](https://leetcode.com/problems/find-the-difference/?envType=study-plan-v2&envId=programming-skills)|8m|leetcode|good|
-## 07-11-23 [count 28]
+## 07-11-23 [count 29]
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |28|[link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=programming-skills)|12m|leetcode|good|
@@ -76,6 +76,7 @@
 |21|[link](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=study-plan-v2&envId=programming-skills)|4m|leetcode|good|
 |206|[link](https://leetcode.com/problems/reverse-linked-list/description/?envType=study-plan-v2&envId=programming-skills)|4m|leetcode|good|
 |445|[link](https://leetcode.com/problems/add-two-numbers-ii/description/?envType=study-plan-v2&envId=programming-skills)|3m|leetcode|medium|
+|2693 [нихуя не понял]|[link](https://leetcode.com/problems/call-function-with-custom-context/description/)|10m|leetcode|strange|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
