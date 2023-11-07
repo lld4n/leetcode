@@ -83,3 +83,8 @@
 - `time` 20m
 - `source` leetcode
 - `tags` tilt
+# 73
+- `url` [link](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=study-plan-v2&envId=programming-skills)
+- `time` 8m
+- `source` leetcode
+- `tags` good

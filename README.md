@@ -45,7 +45,7 @@
 |2726|[link](https://leetcode.com/problems/calculator-with-method-chaining/?envType=study-plan-v2&envId=30-days-of-javascript)|3m|leetcode|good|
 |410|[link](https://leetcode.com/problems/split-array-largest-sum/description/)|5m|leetcode|strange|
 |389|[link](https://leetcode.com/problems/find-the-difference/?envType=study-plan-v2&envId=programming-skills)|8m|leetcode|good|
-## 07-11-23 [count 17]
+## 07-11-23 [count 18]
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |28|[link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=programming-skills)|12m|leetcode|good|
@@ -65,6 +65,7 @@
 |1672|[link](https://leetcode.com/problems/richest-customer-wealth/description/?envType=study-plan-v2&envId=programming-skills)|2m|leetcode|good|
 |1572|[link](https://leetcode.com/problems/matrix-diagonal-sum/description/?envType=study-plan-v2&envId=programming-skills)|1m|leetcode|good|
 |54 [противная задача]|[link](https://leetcode.com/problems/spiral-matrix/description/?envType=study-plan-v2&envId=programming-skills)|20m|leetcode|tilt|
+|73|[link](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=study-plan-v2&envId=programming-skills)|8m|leetcode|good|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
