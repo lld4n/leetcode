@@ -128,3 +128,13 @@
 - `time` 4m
 - `source` leetcode
 - `tags` good
+# 206
+- `url` [link](https://leetcode.com/problems/reverse-linked-list/description/?envType=study-plan-v2&envId=programming-skills)
+- `time` 4m
+- `source` leetcode
+- `tags` good
+# 445
+- `url` [link](https://leetcode.com/problems/add-two-numbers-ii/description/?envType=study-plan-v2&envId=programming-skills)
+- `time` 3m
+- `source` leetcode
+- `tags` medium
