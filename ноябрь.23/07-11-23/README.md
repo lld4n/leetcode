@@ -20,6 +20,16 @@
 - `tags` medium
 # 66
 - `url` [link](https://leetcode.com/problems/plus-one/description/?envType=study-plan-v2&envId=programming-skills)
-- `time` 0
+- `time` 1m
 - `source` leetcode
-- `tags` 
+- `tags` easy
+# 1822
+- `url` [link](https://leetcode.com/problems/sign-of-the-product-of-an-array/?envType=study-plan-v2&envId=programming-skills)
+- `time` 8m
+- `source` leetcode
+- `tags` easy
+# 1502
+- `url` [link](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/description/?envType=study-plan-v2&envId=programming-skills)
+- `time` 8m
+- `source` leetcode
+- `tags` easy

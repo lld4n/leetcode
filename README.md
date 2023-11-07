@@ -52,7 +52,9 @@
 |1921|[link](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/description/?envType=daily-question&envId=2023-11-07)|42m|leetcode|very good|
 |242|[link](https://leetcode.com/problems/valid-anagram/?envType=study-plan-v2&envId=programming-skills)|4m|leetcode|strange|
 |459|[link](https://leetcode.com/problems/repeated-substring-pattern/description/?envType=study-plan-v2&envId=programming-skills)|7m|leetcode|medium|
-|66|[link](https://leetcode.com/problems/plus-one/description/?envType=study-plan-v2&envId=programming-skills)|0|leetcode||
+|66|[link](https://leetcode.com/problems/plus-one/description/?envType=study-plan-v2&envId=programming-skills)|1m|leetcode|easy|
+|1822|[link](https://leetcode.com/problems/sign-of-the-product-of-an-array/?envType=study-plan-v2&envId=programming-skills)|8m|leetcode|easy|
+|1502|[link](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/description/?envType=study-plan-v2&envId=programming-skills)|8m|leetcode|easy|
 # октябрь.23
 ## 15-10-23
 |title|link|time|source|tag|
