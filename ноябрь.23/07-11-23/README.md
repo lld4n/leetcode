@@ -33,3 +33,8 @@
 - `time` 8m
 - `source` leetcode
 - `tags` easy
+# 896
+- `url` [link](https://leetcode.com/problems/monotonic-array/description/?envType=study-plan-v2&envId=programming-skills)
+- `time` 15m
+- `source` leetcode
+- `tags` good

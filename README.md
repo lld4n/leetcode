@@ -55,6 +55,7 @@
 |66|[link](https://leetcode.com/problems/plus-one/description/?envType=study-plan-v2&envId=programming-skills)|1m|leetcode|easy|
 |1822|[link](https://leetcode.com/problems/sign-of-the-product-of-an-array/?envType=study-plan-v2&envId=programming-skills)|8m|leetcode|easy|
 |1502|[link](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/description/?envType=study-plan-v2&envId=programming-skills)|8m|leetcode|easy|
+|896|[link](https://leetcode.com/problems/monotonic-array/description/?envType=study-plan-v2&envId=programming-skills)|15m|leetcode|good|
 # октябрь.23
 ## 15-10-23
 |title|link|time|source|tag|
