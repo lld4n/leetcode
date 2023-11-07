@@ -78,8 +78,8 @@
 - `time` 1m
 - `source` leetcode
 - `tags` good
-# 54
+# 54 [противная задача]
 - `url` [link](https://leetcode.com/problems/spiral-matrix/description/?envType=study-plan-v2&envId=programming-skills)
-- `time` 0
+- `time` 20m
 - `source` leetcode
-- `tags` 
+- `tags` tilt
