@@ -62,6 +62,9 @@
 |657|[link](https://leetcode.com/problems/robot-return-to-origin/description/?envType=study-plan-v2&envId=programming-skills)|3m|leetcode|easy|
 |1275|[link](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/?envType=study-plan-v2&envId=programming-skills)|17m|leetcode|good|
 |1041 [нихуя не понял]|[link](https://leetcode.com/problems/robot-bounded-in-circle/description/?envType=study-plan-v2&envId=programming-skills)|10m|leetcode|strange|
+|1672|[link](https://leetcode.com/problems/richest-customer-wealth/description/?envType=study-plan-v2&envId=programming-skills)|2m|leetcode|good|
+|1572|[link](https://leetcode.com/problems/matrix-diagonal-sum/description/?envType=study-plan-v2&envId=programming-skills)|1m|leetcode|good|
+|54|[link](https://leetcode.com/problems/spiral-matrix/description/?envType=study-plan-v2&envId=programming-skills)|0|leetcode||
 # октябрь.23
 ## 15-10-23
 |title|link|time|source|tag|

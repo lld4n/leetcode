@@ -68,3 +68,18 @@
 - `time` 10m
 - `source` leetcode
 - `tags` strange
+# 1672
+- `url` [link](https://leetcode.com/problems/richest-customer-wealth/description/?envType=study-plan-v2&envId=programming-skills)
+- `time` 2m
+- `source` leetcode
+- `tags` good
+# 1572
+- `url` [link](https://leetcode.com/problems/matrix-diagonal-sum/description/?envType=study-plan-v2&envId=programming-skills)
+- `time` 1m
+- `source` leetcode
+- `tags` good
+# 54
+- `url` [link](https://leetcode.com/problems/spiral-matrix/description/?envType=study-plan-v2&envId=programming-skills)
+- `time` 0
+- `source` leetcode
+- `tags` 
