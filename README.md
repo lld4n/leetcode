@@ -80,7 +80,7 @@
 ## 08-11-23 [count 1]
 |title|link|time|source|tag|
 |---|---|---|---|---|
-|2849|[link](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/description/?envType=daily-question&envId=2023-11-08)|0|leetcode||
+|2849|[link](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/description/?envType=daily-question&envId=2023-11-08)|10m|leetcode|easy|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
