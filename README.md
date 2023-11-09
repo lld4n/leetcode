@@ -105,7 +105,7 @@
 |1193|[link](https://leetcode.com/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
 |1174|[link](https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
 |550|[link](https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
-|1759|[link](https://leetcode.com/problems/count-number-of-homogenous-substrings/description/?envType=daily-question&envId=2023-11-09)|0|leetcode||
+|1759|[link](https://leetcode.com/problems/count-number-of-homogenous-substrings/description/?envType=daily-question&envId=2023-11-09)|3m|leetcode|good|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|

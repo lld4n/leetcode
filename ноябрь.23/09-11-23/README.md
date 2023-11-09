@@ -105,6 +105,6 @@
 - `tags` sql
 # 1759
 - `url` [link](https://leetcode.com/problems/count-number-of-homogenous-substrings/description/?envType=daily-question&envId=2023-11-09)
-- `time` 0
+- `time` 3m
 - `source` leetcode
-- `tags` 
+- `tags` good
