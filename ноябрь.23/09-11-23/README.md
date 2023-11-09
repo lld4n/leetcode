@@ -63,3 +63,8 @@
 - `time` 0
 - `source` leetcode
 - `tags` sql
+# 620
+- `url` [link](https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50)
+- `time` 0
+- `source` leetcode
+- `tags` sql
