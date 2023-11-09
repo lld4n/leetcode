@@ -38,3 +38,8 @@
 - `time` 0
 - `source` leetcode
 - `tags` sql
+# 1661
+- `url` [link](https://leetcode.com/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=top-sql-50)
+- `time` 0
+- `source` leetcode
+- `tags` sql
