@@ -13,3 +13,8 @@
 - `time` 0
 - `source` leetcode
 - `tags` sql
+# 1683
+- `url` [link](https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=top-sql-50)
+- `time` 0
+- `source` leetcode
+- `tags` sql
