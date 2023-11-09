@@ -43,3 +43,18 @@
 - `time` 0
 - `source` leetcode
 - `tags` sql
+# 577
+- `url` [link](https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50)
+- `time` 0
+- `source` leetcode
+- `tags` sql
+# 1280
+- `url` [link](https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50)
+- `time` 0
+- `source` leetcode
+- `tags` sql
+# 570
+- `url` [link](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/?envType=study-plan-v2&envId=top-sql-50)
+- `time` 0
+- `source` leetcode
+- `tags` sql

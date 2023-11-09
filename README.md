@@ -81,7 +81,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2849|[link](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/description/?envType=daily-question&envId=2023-11-08)|10m|leetcode|easy|
-## 09-11-23 [count 9]
+## 09-11-23 [count 12]
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |584|[link](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
@@ -93,6 +93,9 @@
 |1581|[link](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
 |197|[link](https://leetcode.com/problems/rising-temperature/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
 |1661|[link](https://leetcode.com/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
+|577|[link](https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
+|1280|[link](https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
+|570|[link](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
