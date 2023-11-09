@@ -81,7 +81,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2849|[link](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/description/?envType=daily-question&envId=2023-11-08)|10m|leetcode|easy|
-## 09-11-23 [count 18]
+## 09-11-23 [count 22]
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |584|[link](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
@@ -102,6 +102,10 @@
 |1075|[link](https://leetcode.com/problems/project-employees-i/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
 |1633|[link](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
 |1211|[link](https://leetcode.com/problems/queries-quality-and-percentage/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
+|1193|[link](https://leetcode.com/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
+|1174|[link](https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
+|550|[link](https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
+|1759|[link](https://leetcode.com/problems/count-number-of-homogenous-substrings/description/?envType=daily-question&envId=2023-11-09)|0|leetcode||
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|

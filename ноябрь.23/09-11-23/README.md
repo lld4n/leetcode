@@ -88,3 +88,23 @@
 - `time` 0
 - `source` leetcode
 - `tags` sql
+# 1193
+- `url` [link](https://leetcode.com/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=top-sql-50)
+- `time` 0
+- `source` leetcode
+- `tags` sql
+# 1174
+- `url` [link](https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50)
+- `time` 0
+- `source` leetcode
+- `tags` sql
+# 550
+- `url` [link](https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50)
+- `time` 0
+- `source` leetcode
+- `tags` sql
+# 1759
+- `url` [link](https://leetcode.com/problems/count-number-of-homogenous-substrings/description/?envType=daily-question&envId=2023-11-09)
+- `time` 0
+- `source` leetcode
+- `tags` 
