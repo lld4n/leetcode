@@ -68,3 +68,8 @@
 - `time` 0
 - `source` leetcode
 - `tags` sql
+# 1251
+- `url` [link](https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50)
+- `time` 0
+- `source` leetcode
+- `tags` sql
