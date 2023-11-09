@@ -81,13 +81,17 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2849|[link](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/description/?envType=daily-question&envId=2023-11-08)|10m|leetcode|easy|
-## 09-11-23 [count 4]
+## 09-11-23 [count 8]
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |584|[link](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
 |595|[link](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
 |1148|[link](https://leetcode.com/problems/article-views-i/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
 |1683|[link](https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
+|1378|[link](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
+|1068|[link](https://leetcode.com/problems/product-sales-analysis-i/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
+|1581|[link](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
+|197|[link](https://leetcode.com/problems/rising-temperature/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
