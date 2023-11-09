@@ -81,7 +81,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2849|[link](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/description/?envType=daily-question&envId=2023-11-08)|10m|leetcode|easy|
-## 09-11-23 [count 15]
+## 09-11-23 [count 18]
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |584|[link](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
@@ -99,6 +99,9 @@
 |1934|[link](https://leetcode.com/problems/confirmation-rate/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
 |620|[link](https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
 |1251|[link](https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
+|1075|[link](https://leetcode.com/problems/project-employees-i/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
+|1633|[link](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
+|1211|[link](https://leetcode.com/problems/queries-quality-and-percentage/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|

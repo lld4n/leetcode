@@ -73,3 +73,18 @@
 - `time` 0
 - `source` leetcode
 - `tags` sql
+# 1075
+- `url` [link](https://leetcode.com/problems/project-employees-i/description/?envType=study-plan-v2&envId=top-sql-50)
+- `time` 0
+- `source` leetcode
+- `tags` sql
+# 1633
+- `url` [link](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/?envType=study-plan-v2&envId=top-sql-50)
+- `time` 0
+- `source` leetcode
+- `tags` sql
+# 1211
+- `url` [link](https://leetcode.com/problems/queries-quality-and-percentage/description/?envType=study-plan-v2&envId=top-sql-50)
+- `time` 0
+- `source` leetcode
+- `tags` sql
