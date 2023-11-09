@@ -84,8 +84,8 @@
 ## 09-11-23 [count 2]
 |title|link|time|source|tag|
 |---|---|---|---|---|
-|584|[link](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50)|1m|leetcode|good|
-|595|[link](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50)|1m|leetcode|good|
+|584|[link](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
+|595|[link](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
