@@ -108,3 +108,13 @@
 - `time` 3m
 - `source` leetcode
 - `tags` good
+# 2356
+- `url` [link](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/?envType=study-plan-v2&envId=top-sql-50)
+- `time` 0
+- `source` leetcode
+- `tags` sql
+# 1141
+- `url` [link](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/?envType=study-plan-v2&envId=top-sql-50)
+- `time` 0
+- `source` leetcode
+- `tags` sql
