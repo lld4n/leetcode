@@ -114,10 +114,18 @@
 |619|[link](https://leetcode.com/problems/biggest-single-number/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
 |1045|[link](https://leetcode.com/problems/customers-who-bought-all-products/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
 |1731|[link](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
+## 1-11-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|2642 [читы]|[link](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/?envType=daily-question&envId=2023-11-11)|5m|leetcode|good|
 ## 11-11-23 [count 1]
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2642 [читы]|[link](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/?envType=daily-question&envId=2023-11-11)|5m|leetcode|good|
+## 12-11-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|815 [читы]|[link](https://leetcode.com/problems/bus-routes/description/?envType=daily-question&envId=2023-11-12)|5m|leetcode|strange|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
