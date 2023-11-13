@@ -126,6 +126,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |815 [читы]|[link](https://leetcode.com/problems/bus-routes/description/?envType=daily-question&envId=2023-11-12)|5m|leetcode|strange|
+## 13-11-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|2785|[link](https://leetcode.com/problems/sort-vowels-in-a-string/description/?envType=daily-question&envId=2023-11-13)|3m|leetcode|good|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
