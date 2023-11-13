@@ -1,13 +1,19 @@
 {
+  "exclude": ["node_modules"],
   "compilerOptions": {
-    "lib": [
-      "es2020",
-      "es2017",
-      "es2016",
-      "es2015",
-      "dom",
-      "es5",
-      "es2015.collection"
-    ]
+    "target": "ESNext",
+    "lib": ["ESNext"],
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "checkJs": true,
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "strict": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true
   }
 }
