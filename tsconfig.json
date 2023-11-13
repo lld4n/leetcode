@@ -8,8 +8,6 @@
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-    "checkJs": true,
-    "allowJs": true,
     "resolveJsonModule": true,
     "strict": true,
     "noImplicitReturns": true,
