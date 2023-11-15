@@ -134,6 +134,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1930|[link](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/?envType=daily-question&envId=2023-11-14)|3m|leetcode|good|
+## 15-11-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1846|[link](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/description/?envType=daily-question&envId=2023-11-15)|3m|leetcode|good|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
