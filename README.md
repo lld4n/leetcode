@@ -138,6 +138,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1846|[link](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/description/?envType=daily-question&envId=2023-11-15)|3m|leetcode|good|
+## 16-11-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1980|[link](https://leetcode.com/problems/find-unique-binary-string/description/?envType=daily-question&envId=2023-11-16)|32m|leetcode|strange|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
