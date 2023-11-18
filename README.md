@@ -146,6 +146,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1877|[link](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/?envType=daily-question&envId=2023-11-17)|3m|leetcode|easy|
+## 18-11-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1838 [читы]|[link](https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/?envType=daily-question&envId=2023-11-18)|0|leetcode|strange|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
