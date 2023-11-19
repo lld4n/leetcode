@@ -150,6 +150,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1838 [читы]|[link](https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/?envType=daily-question&envId=2023-11-18)|0|leetcode|strange|
+## 19-11-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1887|[link](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/description/?envType=daily-question&envId=2023-11-19)|10m|leetcode|good|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
