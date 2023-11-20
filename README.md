@@ -154,6 +154,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1887|[link](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/description/?envType=daily-question&envId=2023-11-19)|10m|leetcode|good|
+## 20-11-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|2391|[link](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/description/?envType=daily-question&envId=2023-11-20)|10m|leetcode|good|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
