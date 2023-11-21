@@ -158,6 +158,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2391|[link](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/description/?envType=daily-question&envId=2023-11-20)|10m|leetcode|good|
+## 21-11-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1814|[link](https://leetcode.com/problems/count-nice-pairs-in-an-array/description/?envType=daily-question&envId=2023-11-21)|20m|leetcode|very good|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
