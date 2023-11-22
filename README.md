@@ -162,6 +162,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1814|[link](https://leetcode.com/problems/count-nice-pairs-in-an-array/description/?envType=daily-question&envId=2023-11-21)|20m|leetcode|very good|
+## 22-11-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1424|[link](https://leetcode.com/problems/diagonal-traverse-ii/description/?envType=daily-question&envId=2023-11-22)|10m|leetcode|strange|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
