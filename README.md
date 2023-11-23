@@ -166,6 +166,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1424|[link](https://leetcode.com/problems/diagonal-traverse-ii/description/?envType=daily-question&envId=2023-11-22)|10m|leetcode|strange|
+## 23-11-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1630|[link](https://leetcode.com/problems/arithmetic-subarrays/description/?envType=daily-question&envId=2023-11-23)|5m|leetcode|easy|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
