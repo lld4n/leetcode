@@ -174,6 +174,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1561|[link](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/description/?envType=daily-question&envId=2023-11-24)|3m|leetcode|very easy|
+## 25-11-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1685|[link](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/description/?envType=daily-question&envId=2023-11-25)|10m|leetcode|good|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
