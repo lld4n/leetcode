@@ -178,6 +178,12 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1685|[link](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/description/?envType=daily-question&envId=2023-11-25)|10m|leetcode|good|
+## 26-11-23 [count 3]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|84|[link](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)|30m|leetcode|strange|
+|85|[link](https://leetcode.com/problems/maximal-rectangle/description/)|13m|leetcode|good|
+|1727|[link](https://leetcode.com/problems/largest-submatrix-with-rearrangements/description/?envType=daily-question&envId=2023-11-26)|3m|leetcode|easy|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
