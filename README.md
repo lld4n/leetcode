@@ -184,6 +184,10 @@
 |84|[link](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)|30m|leetcode|strange|
 |85|[link](https://leetcode.com/problems/maximal-rectangle/description/)|13m|leetcode|good|
 |1727|[link](https://leetcode.com/problems/largest-submatrix-with-rearrangements/description/?envType=daily-question&envId=2023-11-26)|3m|leetcode|easy|
+## 27-11-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|935|[link](https://leetcode.com/problems/knight-dialer/description/?envType=daily-question&envId=2023-11-27)|30m|leetcode|goood|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
