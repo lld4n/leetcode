@@ -188,7 +188,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |935|[link](https://leetcode.com/problems/knight-dialer/description/?envType=daily-question&envId=2023-11-27)|30m|leetcode|goood|
-## 28-11-23 [count 9]
+## 28-11-23 [count 10]
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2147|[link](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/description/?envType=daily-question&envId=2023-11-28)|20m|leetcode|norm|
@@ -200,6 +200,7 @@
 |1071 [не решено]|[link](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)|0|leetcode||
 |1431|[link](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75)|3m|leetcode|easy|
 |605|[link](https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75)|15m|leetcode|norm|
+|345|[link](https://leetcode.com/problems/reverse-vowels-of-a-string/description/?envType=study-plan-v2&envId=leetcode-75)|8m|leetcode|good|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
