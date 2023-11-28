@@ -53,3 +53,8 @@
 - `time` 3m
 - `source` leetcode
 - `tags` easy
+# 238
+- `url` [link](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=leetcode-75)
+- `time` 25m
+- `source` leetcode
+- `tags` non good
