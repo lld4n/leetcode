@@ -38,3 +38,8 @@
 - `time` 3m
 - `source` leetcode
 - `tags` easy
+# 605
+- `url` [link](https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75)
+- `time` 15m
+- `source` leetcode
+- `tags` norm
