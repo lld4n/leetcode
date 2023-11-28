@@ -33,3 +33,8 @@
 - `time` 0
 - `source` leetcode
 - `tags` 
+# 1431
+- `url` [link](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75)
+- `time` 3m
+- `source` leetcode
+- `tags` easy
