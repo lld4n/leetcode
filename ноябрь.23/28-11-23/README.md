@@ -58,3 +58,8 @@
 - `time` 25m
 - `source` leetcode
 - `tags` non good
+# 334 [читы]
+- `url` [link](https://leetcode.com/problems/increasing-triplet-subsequence/description/?envType=study-plan-v2&envId=leetcode-75)
+- `time` 20m
+- `source` leetcode
+- `tags` strange
