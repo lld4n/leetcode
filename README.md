@@ -188,11 +188,12 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |935|[link](https://leetcode.com/problems/knight-dialer/description/?envType=daily-question&envId=2023-11-27)|30m|leetcode|goood|
-## 28-11-23 [count 2]
+## 28-11-23 [count 3]
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2147|[link](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/description/?envType=daily-question&envId=2023-11-28)|20m|leetcode|norm|
 |2932|[link](https://leetcode.com/problems/maximum-strong-pair-xor-i/description/)|20m|leetcode|strange|
+|1876|[link](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)|10m|leetcode|good|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|

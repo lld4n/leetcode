@@ -8,3 +8,8 @@
 - `time` 20m
 - `source` leetcode
 - `tags` strange
+# 1876
+- `url` [link](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
+- `time` 10m
+- `source` leetcode
+- `tags` good
