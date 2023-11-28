@@ -3,3 +3,8 @@
 - `time` 20m
 - `source` leetcode
 - `tags` norm
+# 2932
+- `url` [link](https://leetcode.com/problems/maximum-strong-pair-xor-i/description/)
+- `time` 20m
+- `source` leetcode
+- `tags` strange
