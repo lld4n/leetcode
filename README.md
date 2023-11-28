@@ -188,7 +188,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |935|[link](https://leetcode.com/problems/knight-dialer/description/?envType=daily-question&envId=2023-11-27)|30m|leetcode|goood|
-## 28-11-23 [count 5]
+## 28-11-23 [count 7]
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2147|[link](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/description/?envType=daily-question&envId=2023-11-28)|20m|leetcode|norm|
@@ -196,6 +196,8 @@
 |1876|[link](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)|10m|leetcode|good|
 |1343|[link](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/)|5m|leetcode|norm|
 |377|[link](https://leetcode.com/problems/combination-sum-iv/description/)|1h20m|leetcode|pattern|
+|698 [не решено]|[link](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/)|0|leetcode||
+|1071 [не решено]|[link](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)|0|leetcode||
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|

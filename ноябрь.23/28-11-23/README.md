@@ -23,3 +23,13 @@
 - `time` 1h20m
 - `source` leetcode
 - `tags` pattern
+# 698 [не решено]
+- `url` [link](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/)
+- `time` 0
+- `source` leetcode
+- `tags` 
+# 1071 [не решено]
+- `url` [link](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)
+- `time` 0
+- `source` leetcode
+- `tags` 
