@@ -13,3 +13,8 @@
 - `time` 10m
 - `source` leetcode
 - `tags` good
+# 1343
+- `url` [link](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/)
+- `time` 5m
+- `source` leetcode
+- `tags` norm
