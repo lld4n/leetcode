@@ -188,6 +188,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |935|[link](https://leetcode.com/problems/knight-dialer/description/?envType=daily-question&envId=2023-11-27)|30m|leetcode|goood|
+## 28-11-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|2147|[link](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/description/?envType=daily-question&envId=2023-11-28)|20m|leetcode|norm|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
