@@ -204,6 +204,10 @@
 |151|[link](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=leetcode-75)|3m|leetcode|easy|
 |238|[link](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=leetcode-75)|25m|leetcode|non good|
 |334 [читы]|[link](https://leetcode.com/problems/increasing-triplet-subsequence/description/?envType=study-plan-v2&envId=leetcode-75)|20m|leetcode|strange|
+## 29-11-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|191|[link](https://leetcode.com/problems/number-of-1-bits/description/?envType=daily-question&envId=2023-11-29)|5m|leetcode|easy|
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
