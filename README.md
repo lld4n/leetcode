@@ -208,10 +208,11 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |191|[link](https://leetcode.com/problems/number-of-1-bits/description/?envType=daily-question&envId=2023-11-29)|5m|leetcode|easy|
-## 30-11-23 [count 1]
+## 30-11-23 [count 2]
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |643|[link](https://leetcode.com/problems/maximum-average-subarray-i/description/?envType=study-plan-v2&envId=leetcode-75)|5m|leetcode|easy|
+|443 [нихуя не понял]|[link](https://leetcode.com/problems/string-compression/description/?envType=study-plan-v2&envId=leetcode-75)|0|leetcode||
 # октябрь.23
 ## 15-10-23 [count 1]
 |title|link|time|source|tag|
