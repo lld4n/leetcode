@@ -13,3 +13,8 @@
 - `time` 1m
 - `source` leetcode
 - `tags` pattern
+# 217
+- `url` [link](https://leetcode.com/problems/contains-duplicate/description/)
+- `time` 1m
+- `source` leetcode
+- `tags` pattern 
