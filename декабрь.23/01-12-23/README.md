@@ -8,3 +8,8 @@
 - `time` 3m
 - `source` leetcode
 - `tags` pattern
+# 136
+- `url` [link](https://leetcode.com/problems/single-number/description/)
+- `time` 1m
+- `source` leetcode
+- `tags` pattern

@@ -4,11 +4,12 @@
 ⬆️ Здесь считается не только работа над кодом, но и файлы README и скрипты для создания общего README
 
 # декабрь.23
-## 01-12-23 [count 2]
+## 01-12-23 [count 3]
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1662|[link](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/?envType=daily-question&envId=2023-12-01)|1m|leetcode|wtf easy|
 |977|[link](https://leetcode.com/problems/squares-of-a-sorted-array/description/)|3m|leetcode|pattern|
+|136|[link](https://leetcode.com/problems/single-number/description/)|1m|leetcode|pattern|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
