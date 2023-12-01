@@ -4,7 +4,7 @@
 ⬆️ Здесь считается не только работа над кодом, но и файлы README и скрипты для создания общего README
 
 # декабрь.23
-## 01-12-23 [count 5]
+## 01-12-23 [count 6]
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1662|[link](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/?envType=daily-question&envId=2023-12-01)|1m|leetcode|wtf easy|
@@ -12,6 +12,7 @@
 |136|[link](https://leetcode.com/problems/single-number/description/)|1m|leetcode|pattern|
 |217|[link](https://leetcode.com/problems/contains-duplicate/description/)|1m|leetcode|pattern|
 |268|[link](https://leetcode.com/problems/missing-number/description/)|1m|leetcode|pattern|
+|448|[link](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)|2m|leetcode|pattern|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|

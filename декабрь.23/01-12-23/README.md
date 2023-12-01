@@ -23,3 +23,8 @@
 - `time` 1m
 - `source` leetcode
 - `tags` pattern 
+# 448
+- `url` [link](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
+- `time` 2m
+- `source` leetcode
+- `tags` pattern 
