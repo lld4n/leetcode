@@ -38,3 +38,8 @@
 - `time` 2m
 - `source` leetcode
 - `tags` pattern
+# 303
+- `url` [link](https://leetcode.com/problems/range-sum-query-immutable/description/)
+- `time` 3m
+- `source` leetcode
+- `tags` pattern
