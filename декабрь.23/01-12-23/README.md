@@ -43,3 +43,8 @@
 - `time` 3m
 - `source` leetcode
 - `tags` pattern
+# 287 [нихуя не понял]
+- `url` [link](https://leetcode.com/problems/find-the-duplicate-number/description/)
+- `time` 5m
+- `source` leetcode
+- `tags` pattern
