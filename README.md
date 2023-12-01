@@ -3,11 +3,17 @@
 
 ⬆️ Здесь считается не только работа над кодом, но и файлы README и скрипты для создания общего README
 
+# декабрь.23
+## 01-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1662|[link](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/?envType=daily-question&envId=2023-12-01)|1m|leetcode|wtf easy|
 # ноябрь.23
-## 01-11-23 [count 1]
+## 01-11-23 [count 2]
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |501|[link](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/?envType=daily-question&envId=2023-11-01)|7m|leetcode|easy|
+|2642 [читы]|[link](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/?envType=daily-question&envId=2023-11-11)|5m|leetcode|good|
 ## 02-11-23 [count 4]
 |title|link|time|source|tag|
 |---|---|---|---|---|
@@ -114,10 +120,6 @@
 |619|[link](https://leetcode.com/problems/biggest-single-number/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
 |1045|[link](https://leetcode.com/problems/customers-who-bought-all-products/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
 |1731|[link](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/?envType=study-plan-v2&envId=top-sql-50)|0|leetcode|sql|
-## 1-11-23 [count 1]
-|title|link|time|source|tag|
-|---|---|---|---|---|
-|2642 [читы]|[link](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/?envType=daily-question&envId=2023-11-11)|5m|leetcode|good|
 ## 11-11-23 [count 1]
 |title|link|time|source|tag|
 |---|---|---|---|---|
