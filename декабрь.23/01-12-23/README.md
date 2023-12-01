@@ -18,3 +18,8 @@
 - `time` 1m
 - `source` leetcode
 - `tags` pattern 
+# 268
+- `url` [link](https://leetcode.com/problems/missing-number/description/)
+- `time` 1m
+- `source` leetcode
+- `tags` pattern 
