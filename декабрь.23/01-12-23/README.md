@@ -28,3 +28,8 @@
 - `time` 2m
 - `source` leetcode
 - `tags` pattern 
+# 70
+- `url` [link](https://leetcode.com/problems/climbing-stairs/description/)
+- `time` 2m
+- `source` leetcode
+- `tags` pattern
