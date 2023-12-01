@@ -33,3 +33,8 @@
 - `time` 2m
 - `source` leetcode
 - `tags` pattern
+# 121
+- `url` [link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+- `time` 2m
+- `source` leetcode
+- `tags` pattern
