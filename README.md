@@ -17,6 +17,10 @@
 |121|[link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|2m|leetcode|pattern|
 |303|[link](https://leetcode.com/problems/range-sum-query-immutable/description/)|3m|leetcode|pattern|
 |287 [нихуя не понял]|[link](https://leetcode.com/problems/find-the-duplicate-number/description/)|5m|leetcode|pattern|
+## 02-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1160|[link](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/?envType=daily-question&envId=2023-12-02)|3m|leetcode|easy|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
