@@ -21,6 +21,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1160|[link](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/?envType=daily-question&envId=2023-12-02)|3m|leetcode|easy|
+## 03-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1266|[link](https://leetcode.com/problems/minimum-time-visiting-all-points/description/?envType=daily-question&envId=2023-12-03)|4m|leetcode|easy|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
