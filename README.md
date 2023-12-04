@@ -25,6 +25,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1266|[link](https://leetcode.com/problems/minimum-time-visiting-all-points/description/?envType=daily-question&envId=2023-12-03)|4m|leetcode|easy|
+## 04-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|2264|[link](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/?envType=daily-question&envId=2023-12-04)|2m|leetcode|easy|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
