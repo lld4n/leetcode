@@ -29,6 +29,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2264|[link](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/?envType=daily-question&envId=2023-12-04)|2m|leetcode|easy|
+## 05-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1688|[link](https://leetcode.com/problems/count-of-matches-in-tournament/?envType=daily-question&envId=2023-12-05)|2m|leetcode|easy|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
