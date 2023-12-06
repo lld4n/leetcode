@@ -33,6 +33,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1688|[link](https://leetcode.com/problems/count-of-matches-in-tournament/?envType=daily-question&envId=2023-12-05)|2m|leetcode|easy|
+## 06-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1716|[link](https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/?envType=daily-question&envId=2023-12-06)|1m|leetcode|very easy|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
