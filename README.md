@@ -37,6 +37,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1716|[link](https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/?envType=daily-question&envId=2023-12-06)|1m|leetcode|very easy|
+## 07-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1903|[link](https://leetcode.com/problems/largest-odd-number-in-string/description/?envType=daily-question&envId=2023-12-07)|2m|leetcode|easy|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
