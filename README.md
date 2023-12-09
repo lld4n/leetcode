@@ -45,6 +45,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |606|[link](https://leetcode.com/problems/construct-string-from-binary-tree/description/?envType=daily-question&envId=2023-12-08)|5m|leetcode|graph|
+## 09-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|94|[link](https://leetcode.com/problems/binary-tree-inorder-traversal/?envType=daily-question&envId=2023-12-09)|2m|leetcode|graph|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
