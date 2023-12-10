@@ -49,6 +49,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |94|[link](https://leetcode.com/problems/binary-tree-inorder-traversal/?envType=daily-question&envId=2023-12-09)|2m|leetcode|graph|
+## 10-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|867|[link](https://leetcode.com/problems/transpose-matrix/description/?envType=daily-question&envId=2023-12-10)|2m|leetcode|easy|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
