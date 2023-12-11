@@ -53,6 +53,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |867|[link](https://leetcode.com/problems/transpose-matrix/description/?envType=daily-question&envId=2023-12-10)|2m|leetcode|easy|
+## 11-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1287|[link](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description/?envType=daily-question&envId=2023-12-11)|0|leetcode||
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
