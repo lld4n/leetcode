@@ -56,7 +56,7 @@
 ## 11-12-23 [count 1]
 |title|link|time|source|tag|
 |---|---|---|---|---|
-|1287|[link](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description/?envType=daily-question&envId=2023-12-11)|0|leetcode||
+|1287|[link](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description/?envType=daily-question&envId=2023-12-11)|3m|leetcode|easy|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
