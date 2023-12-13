@@ -61,6 +61,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1464|[link](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/?envType=daily-question&envId=2023-12-12)|1m|leetcode|very easy|
+## 13-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1582|[link](https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/?envType=daily-question&envId=2023-12-13)|4m|leetcode|good|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
