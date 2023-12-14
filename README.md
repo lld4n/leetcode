@@ -65,6 +65,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1582|[link](https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/?envType=daily-question&envId=2023-12-13)|4m|leetcode|good|
+## 14-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|2482|[link](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/?envType=daily-question&envId=2023-12-14)|10m|leetcode|good|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
