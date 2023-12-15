@@ -21,8 +21,12 @@ let rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
 });
-rl.on("line", function (data) {
-  let answer = 0;
-  let n = Number(data) - 1;
-  if ()
+let a = [];
+rl.on("line", (data) => {
+  a.push(Number(data));
+});
+
+rl.on("close", () => {
+  console.log(a[0] + a[1]);
+  process.exit(0);
 });
