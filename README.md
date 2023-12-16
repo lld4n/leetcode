@@ -73,6 +73,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1436|[link](https://leetcode.com/problems/destination-city/description/?envType=daily-question&envId=2023-12-15)|3m|leetcode|good|
+## 16-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|242|[link](https://leetcode.com/problems/valid-anagram/description/?envType=daily-question&envId=2023-12-16)|0|leetcode|уже решал|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
