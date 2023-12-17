@@ -77,6 +77,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |242|[link](https://leetcode.com/problems/valid-anagram/description/?envType=daily-question&envId=2023-12-16)|0|leetcode|уже решал|
+## 17-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|2353 [читы]|[link](https://leetcode.com/problems/design-a-food-rating-system/?envType=daily-question&envId=2023-12-17)|10m|leetcode|_|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
