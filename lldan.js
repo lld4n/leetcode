@@ -16,7 +16,6 @@ const throws = [
   "yarn.lock",
   "index.json",
   ".prettierignore",
-  "отборочные",
 ];
 let object = {};
 const dirs = fs.readdirSync("./");

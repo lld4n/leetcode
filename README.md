@@ -403,3 +403,8 @@
 |---|---|---|---|---|
 |2|[link](https://leetcode.com/problems/two-sum/)|30m|leetcode|tilt|
 |7|[link](https://leetcode.com/problems/reverse-integer/description/)|5m|leetcode|middle|
+# отборочные
+## тинькофф.зима.23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1|[link](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/?envType=daily-question&envId=2023-12-01)|0|tinkoff|easy|
