@@ -404,8 +404,12 @@
 |2|[link](https://leetcode.com/problems/two-sum/)|30m|leetcode|tilt|
 |7|[link](https://leetcode.com/problems/reverse-integer/description/)|5m|leetcode|middle|
 # отборочные
-## тинькофф.зима.23 [count 2]
+## тинькофф.зима.23 [count 6]
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1|[link](https://github.com/lld4n/leetcode/blob/master/%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B5/%D1%82%D0%B8%D0%BD%D1%8C%D0%BA%D0%BE%D1%84%D1%84.%D0%B7%D0%B8%D0%BC%D0%B0.23/1.md)|0|tinkoff|easy|
-|2|[link]()|0|tinkoff|hard|
+|2|[link](https://github.com/lld4n/leetcode/blob/master/%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B5/%D1%82%D0%B8%D0%BD%D1%8C%D0%BA%D0%BE%D1%84%D1%84.%D0%B7%D0%B8%D0%BC%D0%B0.23/2.md)|0|tinkoff|hard|
+|3|[link](https://github.com/lld4n/leetcode/blob/master/%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B5/%D1%82%D0%B8%D0%BD%D1%8C%D0%BA%D0%BE%D1%84%D1%84.%D0%B7%D0%B8%D0%BC%D0%B0.23/3.md)|0|tinkoff|hard|
+|4|[link](https://github.com/lld4n/leetcode/blob/master/%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B5/%D1%82%D0%B8%D0%BD%D1%8C%D0%BA%D0%BE%D1%84%D1%84.%D0%B7%D0%B8%D0%BC%D0%B0.23/4.md)|0|tinkoff|hard|
+|5|[link](https://github.com/lld4n/leetcode/blob/master/%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B5/%D1%82%D0%B8%D0%BD%D1%8C%D0%BA%D0%BE%D1%84%D1%84.%D0%B7%D0%B8%D0%BC%D0%B0.23/5.md)|0|tinkoff|hard|
+|6|[link](https://github.com/lld4n/leetcode/blob/master/%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B5/%D1%82%D0%B8%D0%BD%D1%8C%D0%BA%D0%BE%D1%84%D1%84.%D0%B7%D0%B8%D0%BC%D0%B0.23/6.md)|0|tinkoff|very hard|
