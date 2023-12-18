@@ -81,6 +81,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2353 [читы]|[link](https://leetcode.com/problems/design-a-food-rating-system/?envType=daily-question&envId=2023-12-17)|10m|leetcode|_|
+## 18-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1913|[link](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/?envType=daily-question&envId=2023-12-18)|1m|leetcode|very easy|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
