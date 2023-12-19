@@ -85,6 +85,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1913|[link](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/?envType=daily-question&envId=2023-12-18)|1m|leetcode|very easy|
+## 19-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|661|[link](https://leetcode.com/problems/image-smoother/description/?envType=daily-question&envId=2023-12-19)|6m|leetcode|easy|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
