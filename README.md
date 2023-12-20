@@ -89,6 +89,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |661|[link](https://leetcode.com/problems/image-smoother/description/?envType=daily-question&envId=2023-12-19)|6m|leetcode|easy|
+## 20-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|2706|[link](https://leetcode.com/problems/buy-two-chocolates/description/?envType=daily-question&envId=2023-12-20)|1m|leetcode|very easy|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
