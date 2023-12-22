@@ -93,6 +93,14 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2706|[link](https://leetcode.com/problems/buy-two-chocolates/description/?envType=daily-question&envId=2023-12-20)|1m|leetcode|very easy|
+## 21-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1673|[link](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/?envType=daily-question&envId=2023-12-21)|1m|leetcode|very easy|
+## 22-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1422|[link](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/?envType=daily-question&envId=2023-12-22)|10m|leetcode|good|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
