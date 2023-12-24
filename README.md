@@ -105,6 +105,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1496|[link](https://leetcode.com/problems/path-crossing/description/?envType=daily-question&envId=2023-12-23)|5m|leetcode|good|
+## 24-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1758|[link](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description/?envType=daily-question&envId=2023-12-24)|4m|leetcode|good|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
