@@ -117,6 +117,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1155 [читы]|[link](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/?envType=daily-question&envId=2023-12-26)|30m|leetcode|hard|
+## 27-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1578|[link](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/?envType=daily-question&envId=2023-12-27)|5m|leetcode|good|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
