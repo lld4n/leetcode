@@ -121,6 +121,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1578|[link](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/?envType=daily-question&envId=2023-12-27)|5m|leetcode|good|
+## 28-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1531 [читы]|[link](https://leetcode.com/problems/string-compression-ii/description/?envType=daily-question&envId=2023-12-28)|1h|leetcode|hard|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
