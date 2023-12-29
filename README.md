@@ -125,6 +125,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1531 [читы]|[link](https://leetcode.com/problems/string-compression-ii/description/?envType=daily-question&envId=2023-12-28)|1h|leetcode|hard|
+## 29-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1335 [читы]|[link](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/?envType=daily-question&envId=2023-12-29)|0|leetcode||
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
