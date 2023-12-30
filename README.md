@@ -129,6 +129,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1335 [читы]|[link](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/?envType=daily-question&envId=2023-12-29)|0|leetcode||
+## 30-12-23 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1897|[link](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/description/?envType=daily-question&envId=2023-12-30)|5m|leetcode|very easy|
 # ноябрь.23
 ## 01-11-23 [count 2]
 |title|link|time|source|tag|
