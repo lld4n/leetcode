@@ -469,4 +469,4 @@
 ## 01-01-24 [count 1]
 |title|link|time|source|tag|
 |---|---|---|---|---|
-|455|[link](https://leetcode.com/problems/assign-cookies/description/?envType=daily-question&envId=2024-01-01)|0|leetcode||
+|455|[link](https://leetcode.com/problems/assign-cookies/description/?envType=daily-question&envId=2024-01-01)|10m|leetcode|easy|
