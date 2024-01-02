@@ -470,3 +470,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |455|[link](https://leetcode.com/problems/assign-cookies/description/?envType=daily-question&envId=2024-01-01)|10m|leetcode|easy|
+## 02-01-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|2610|[link](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/?envType=daily-question&envId=2024-01-02)|6m|leetcode|good|
