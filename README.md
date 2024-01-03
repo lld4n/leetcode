@@ -474,3 +474,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2610|[link](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/?envType=daily-question&envId=2024-01-02)|6m|leetcode|good|
+## 03-01-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|2125|[link](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/?envType=daily-question&envId=2024-01-03)|5m|leetcode|good|
