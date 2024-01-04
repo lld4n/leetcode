@@ -478,3 +478,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2125|[link](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/?envType=daily-question&envId=2024-01-03)|5m|leetcode|good|
+## 04-01-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|2870 [читы]|[link](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description/?envType=daily-question&envId=2024-01-04)|0|leetcode||
