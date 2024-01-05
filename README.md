@@ -482,3 +482,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2870 [читы]|[link](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description/?envType=daily-question&envId=2024-01-04)|0|leetcode||
+## 05-01-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|300|[link](https://leetcode.com/problems/longest-increasing-subsequence/description/?envType=daily-question&envId=2024-01-05)|10m|leetcode|good|
