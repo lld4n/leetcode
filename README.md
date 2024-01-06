@@ -486,3 +486,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |300|[link](https://leetcode.com/problems/longest-increasing-subsequence/description/?envType=daily-question&envId=2024-01-05)|10m|leetcode|good|
+## 06-01-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1235|[link](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/?envType=daily-question&envId=2024-01-06)|2h10m|leetcode|good|
