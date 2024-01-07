@@ -3,9 +3,9 @@
 - `time` 1h
 - `source` leetcode
 - `tags` good
-# 446
+# 446 [читы]
 - `url` [link](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/?envType=daily-question&envId=2024-01-07)
-- `time` 0
+- `time` 2h
 - `source` leetcode
-- `tags` 
+- `tags` hard
 

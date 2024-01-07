@@ -494,4 +494,4 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |413|[link](https://leetcode.com/problems/arithmetic-slices/description/)|1h|leetcode|good|
-|446|[link](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/?envType=daily-question&envId=2024-01-07)|0|leetcode||
+|446 [читы]|[link](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/?envType=daily-question&envId=2024-01-07)|2h|leetcode|hard|
