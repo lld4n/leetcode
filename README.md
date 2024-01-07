@@ -490,3 +490,8 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1235|[link](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/?envType=daily-question&envId=2024-01-06)|2h10m|leetcode|good|
+## 07-01-24 [count 2]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|413|[link](https://leetcode.com/problems/arithmetic-slices/description/)|1h|leetcode|good|
+|446|[link](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/?envType=daily-question&envId=2024-01-07)|0|leetcode||
