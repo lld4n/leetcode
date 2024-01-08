@@ -495,3 +495,7 @@
 |---|---|---|---|---|
 |413|[link](https://leetcode.com/problems/arithmetic-slices/description/)|1h|leetcode|good|
 |446 [читы]|[link](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/?envType=daily-question&envId=2024-01-07)|2h|leetcode|hard|
+## 08-01-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|938|[link](https://leetcode.com/problems/range-sum-of-bst/description/?envType=daily-question&envId=2024-01-08)|10m|leetcode|easy|
