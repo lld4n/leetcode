@@ -499,3 +499,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |938|[link](https://leetcode.com/problems/range-sum-of-bst/description/?envType=daily-question&envId=2024-01-08)|10m|leetcode|easy|
+## 09-01-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|872|[link](https://leetcode.com/problems/leaf-similar-trees/?envType=daily-question&envId=2024-01-09)|10m|leetcode|easy|
