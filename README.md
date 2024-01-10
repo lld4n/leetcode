@@ -503,3 +503,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |872|[link](https://leetcode.com/problems/leaf-similar-trees/?envType=daily-question&envId=2024-01-09)|10m|leetcode|easy|
+## 10-01-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|2385 [нихуя не понял]|[link](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/?envType=daily-question&envId=2024-01-10)|30m|leetcode|unclearly|
