@@ -507,3 +507,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2385 [нихуя не понял]|[link](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/?envType=daily-question&envId=2024-01-10)|30m|leetcode|unclearly|
+## 11-01-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1026 [читы]|[link](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/?envType=daily-question&envId=2024-01-11)|0|leetcode||
