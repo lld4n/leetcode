@@ -511,3 +511,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1026 [читы]|[link](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/?envType=daily-question&envId=2024-01-11)|0|leetcode||
+## 12-01-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1704|[link](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/?envType=daily-question&envId=2024-01-12)|10m|leetcode|easy|
