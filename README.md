@@ -527,3 +527,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2225|[link](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/?envType=daily-question&envId=2024-01-15)|10m|leetcode|easy|
+## 16-01-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|380|[link](https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=daily-question&envId=2024-01-16)|10m|leetcode|very good|
