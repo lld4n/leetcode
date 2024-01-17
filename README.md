@@ -531,3 +531,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |380|[link](https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=daily-question&envId=2024-01-16)|10m|leetcode|very good|
+## 17-01-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1207|[link](https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=daily-question&envId=2024-01-17)|2m|leetcode|easy|
