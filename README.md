@@ -535,3 +535,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1207|[link](https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=daily-question&envId=2024-01-17)|2m|leetcode|easy|
+## 18-01-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|70 [повтор]|[link](https://leetcode.com/problems/climbing-stairs/description/?envType=daily-question&envId=2024-01-18)|0|leetcode||
