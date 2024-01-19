@@ -539,3 +539,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |70 [повтор]|[link](https://leetcode.com/problems/climbing-stairs/description/?envType=daily-question&envId=2024-01-18)|0|leetcode||
+## 19-01-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|931|[link](https://leetcode.com/problems/minimum-falling-path-sum/description/?envType=daily-question&envId=2024-01-19)|10m|leetcode|good|
