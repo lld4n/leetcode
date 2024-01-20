@@ -543,3 +543,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |931|[link](https://leetcode.com/problems/minimum-falling-path-sum/description/?envType=daily-question&envId=2024-01-19)|10m|leetcode|good|
+## 20-01-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|907 [нихуя не понял]|[link](https://leetcode.com/problems/sum-of-subarray-minimums/description/?envType=daily-question&envId=2024-01-20)|0|leetcode||
