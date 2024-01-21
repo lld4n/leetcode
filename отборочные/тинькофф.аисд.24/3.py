@@ -5,9 +5,6 @@ mm = max(a) * (n - 1)
 total = 0
 
 
-def is_all_equal(arr):
-    return all(x == arr[0] for x in arr)
-
 
 def area(s, e):
     if s == e:
