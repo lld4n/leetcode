@@ -547,3 +547,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |907 [нихуя не понял]|[link](https://leetcode.com/problems/sum-of-subarray-minimums/description/?envType=daily-question&envId=2024-01-20)|0|leetcode||
+## 21-01-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|198|[link](https://leetcode.com/problems/house-robber/?envType=daily-question&envId=2024-01-21)|20m|leetcode|good|
