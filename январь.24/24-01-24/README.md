@@ -17,4 +17,9 @@
 - `url` [link](https://leetcode.com/problems/reducing-dishes/description/)
 - `time` 0
 - `source` leetcode
-- `tags` 
+- `tags`
+# 118
+- `url` [link](https://leetcode.com/problems/pascals-triangle/description/)
+- `time` 5m
+- `source` leetcode
+- `tags` easy
