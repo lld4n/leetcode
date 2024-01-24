@@ -13,3 +13,8 @@
 - `time` 10m
 - `source` leetcode
 - `tags` good
+# 1402 [встал, сел, ахуел]
+- `url` [link](https://leetcode.com/problems/reducing-dishes/description/)
+- `time` 0
+- `source` leetcode
+- `tags` 
