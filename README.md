@@ -567,7 +567,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1239|[link](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/?envType=daily-question&envId=2024-01-23)|30m|leetcode|good|
-## 24-01-24 [count 5]
+## 24-01-24 [count 6]
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1457 [читы]|[link](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/?envType=daily-question&envId=2024-01-24)|0|leetcode||
@@ -575,3 +575,4 @@
 |338|[link](https://leetcode.com/problems/counting-bits/description/)|10m|leetcode|good|
 |1402 [встал, сел, ахуел]|[link](https://leetcode.com/problems/reducing-dishes/description/)|0|leetcode||
 |118|[link](https://leetcode.com/problems/pascals-triangle/description/)|5m|leetcode|easy|
+|746|[link](https://leetcode.com/problems/min-cost-climbing-stairs/description/)|5m|leetcode|easy|

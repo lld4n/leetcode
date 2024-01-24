@@ -23,3 +23,8 @@
 - `time` 5m
 - `source` leetcode
 - `tags` easy
+# 746
+- `url` [link](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
+- `time` 5m
+- `source` leetcode
+- `tags` easy
