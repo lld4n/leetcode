@@ -8,3 +8,8 @@
 - `time` 10m
 - `source` leetcode
 - `tags` good
+# 338
+- `url` [link](https://leetcode.com/problems/counting-bits/description/)
+- `time` 10m
+- `source` leetcode
+- `tags` good
