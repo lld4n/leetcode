@@ -3,3 +3,8 @@
 - `time` 0
 - `source` leetcode
 - `tags` 
+# 1971
+- `url` [link](https://leetcode.com/problems/find-if-path-exists-in-graph/)
+- `time` 10m
+- `source` leetcode
+- `tags` 50/50
