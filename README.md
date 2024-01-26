@@ -580,3 +580,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1143 [уебищные подсказки]|[link](https://leetcode.com/problems/longest-common-subsequence/description/?envType=daily-question&envId=2024-01-25)|10m|leetcode|good|
+## 26-01-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|576 [неприятно, читы]|[link](https://leetcode.com/problems/out-of-boundary-paths/description/?envType=daily-question&envId=2024-01-26)|0|leetcode||
