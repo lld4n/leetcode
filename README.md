@@ -585,3 +585,7 @@
 |---|---|---|---|---|
 |576 [неприятно, читы]|[link](https://leetcode.com/problems/out-of-boundary-paths/description/?envType=daily-question&envId=2024-01-26)|0|leetcode||
 |1971|[link](https://leetcode.com/problems/find-if-path-exists-in-graph/)|10m|leetcode|50/50|
+## 27-01-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|629 [такое я наверное никогда не пойму]|[link](https://leetcode.com/problems/k-inverse-pairs-array/description/?envType=daily-question&envId=2024-01-27)|0|leetcode||
