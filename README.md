@@ -589,3 +589,8 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |629 [такое я наверное никогда не пойму]|[link](https://leetcode.com/problems/k-inverse-pairs-array/description/?envType=daily-question&envId=2024-01-27)|0|leetcode||
+## 28-01-24 [count 2]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1074|[link](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/?envType=daily-question&envId=2024-01-28)|20m|leetcode|good|
+|560|[link](https://leetcode.com/problems/subarray-sum-equals-k/description/)|10m|leetcode|good|
