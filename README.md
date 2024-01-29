@@ -594,3 +594,7 @@
 |---|---|---|---|---|
 |1074|[link](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/?envType=daily-question&envId=2024-01-28)|20m|leetcode|good|
 |560|[link](https://leetcode.com/problems/subarray-sum-equals-k/description/)|10m|leetcode|good|
+## 29-01-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|232|[link](https://leetcode.com/problems/implement-queue-using-stacks/description/?envType=daily-question&envId=2024-01-29)|10m|leetcode|good|
