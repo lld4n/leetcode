@@ -8,3 +8,8 @@
 - `time` 2m
 - `source` leetcode
 - `tags` easy
+# 1456
+- `url` [link](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/?envType=study-plan-v2&envId=leetcode-75)
+- `time` 5m
+- `source` leetcode
+- `tags` easy

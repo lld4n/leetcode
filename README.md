@@ -594,8 +594,9 @@
 |---|---|---|---|---|
 |1074|[link](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/?envType=daily-question&envId=2024-01-28)|20m|leetcode|good|
 |560|[link](https://leetcode.com/problems/subarray-sum-equals-k/description/)|10m|leetcode|good|
-## 29-01-24 [count 2]
+## 29-01-24 [count 3]
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |232|[link](https://leetcode.com/problems/implement-queue-using-stacks/description/?envType=daily-question&envId=2024-01-29)|1m|leetcode|easy|
 |14|[link](https://leetcode.com/problems/longest-common-prefix/description/)|2m|leetcode|easy|
+|1456|[link](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/?envType=study-plan-v2&envId=leetcode-75)|5m|leetcode|easy|
