@@ -600,3 +600,7 @@
 |232|[link](https://leetcode.com/problems/implement-queue-using-stacks/description/?envType=daily-question&envId=2024-01-29)|1m|leetcode|easy|
 |14|[link](https://leetcode.com/problems/longest-common-prefix/description/)|2m|leetcode|easy|
 |1456|[link](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/?envType=study-plan-v2&envId=leetcode-75)|5m|leetcode|easy|
+## 30-01-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|150|[link](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/?envType=daily-question&envId=2024-01-30)|5m|leetcode|rofl|
