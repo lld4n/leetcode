@@ -604,3 +604,7 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |150|[link](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/?envType=daily-question&envId=2024-01-30)|5m|leetcode|rofl|
+## 31-01-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|739|[link](https://leetcode.com/problems/daily-temperatures/description/?envType=daily-question&envId=2024-01-31)|15m|leetcode|strange|
