@@ -473,6 +473,11 @@
 |4|[link](https://github.com/lld4n/leetcode/blob/master/%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B5/%D1%82%D0%B8%D0%BD%D1%8C%D0%BA%D0%BE%D1%84%D1%84.%D0%B7%D0%B8%D0%BC%D0%B0.23/4.md)|0|tinkoff|hard|
 |5|[link](https://github.com/lld4n/leetcode/blob/master/%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B5/%D1%82%D0%B8%D0%BD%D1%8C%D0%BA%D0%BE%D1%84%D1%84.%D0%B7%D0%B8%D0%BC%D0%B0.23/5.md)|0|tinkoff|hard|
 |6|[link](https://github.com/lld4n/leetcode/blob/master/%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B5/%D1%82%D0%B8%D0%BD%D1%8C%D0%BA%D0%BE%D1%84%D1%84.%D0%B7%D0%B8%D0%BC%D0%B0.23/6.md)|0|tinkoff|very hard|
+# февраль.24
+## 01-02-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|2966|[link](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/?envType=daily-question&envId=2024-02-01)|3m|leetcode|easy|
 # январь.24
 ## 01-01-24 [count 1]
 |title|link|time|source|tag|
