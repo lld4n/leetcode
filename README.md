@@ -478,6 +478,10 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |2966|[link](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/?envType=daily-question&envId=2024-02-01)|3m|leetcode|easy|
+## 02-02-24 [count 1]
+|title|link|time|source|tag|
+|---|---|---|---|---|
+|1291|[link](https://leetcode.com/problems/sequential-digits/description/?envType=daily-question&envId=2024-02-02)|2m|leetcode|easy|
 # январь.24
 ## 01-01-24 [count 1]
 |title|link|time|source|tag|
