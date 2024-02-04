@@ -88,7 +88,7 @@ const currentTimestamp = new Date().toLocaleString("RU-ru", {
   day: "numeric",
   month: "short",
   year: "numeric",
-  hour: "numeric",
+  hour: "2-digit",
   minute: "numeric",
 });
 spawnSync("git", ["add", "."], { stdio: "inherit" });
