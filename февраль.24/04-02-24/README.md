@@ -18,3 +18,8 @@
 - `time` 1m
 - `source` leetcode
 - `tags` very easy
+# 3024
+- `url` [link](https://leetcode.com/problems/type-of-triangle-ii/)
+- `time` 5m
+- `source` leetcode
+- `tags` easy
