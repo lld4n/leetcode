@@ -9,7 +9,6 @@ const throws = [
   ".vscode",
   "README.md",
   "lldan.js",
-  "tinkoff.js",
   "node_modules",
   "package.json",
   "tsconfig.json",
