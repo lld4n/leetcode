@@ -87,8 +87,8 @@ fs.writeFileSync("README.md", result);
 const currentTimestamp = new Date().toLocaleString("RU-ru", {
   day: "numeric",
   month: "short",
-  year: "numeric",
-  hour: "2-digit",
+  year: "2-digit",
+  hour: "numeric",
   minute: "numeric",
 });
 spawnSync("git", ["add", "."], { stdio: "inherit" });
