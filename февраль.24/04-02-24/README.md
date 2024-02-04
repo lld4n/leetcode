@@ -3,4 +3,8 @@
 - `time` 15m
 - `source` leetcode
 - `tags` like
-
+# 1128
+- `url` [link](https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/)
+- `time` 5m
+- `source` leetcode
+- `tags` easy
