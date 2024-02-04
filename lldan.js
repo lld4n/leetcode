@@ -87,7 +87,7 @@ fs.writeFileSync("README.md", result);
 const currentTimestamp = new Date().toLocaleString("RU-ru", {
   day: "numeric",
   month: "short",
-  year: "2-digit",
+  year: "numeric",
   hour: "numeric",
   minute: "numeric",
 });
