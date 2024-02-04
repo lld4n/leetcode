@@ -8,3 +8,8 @@
 - `time` 5m
 - `source` leetcode
 - `tags` easy
+# 1507
+- `url` [link](https://leetcode.com/problems/reformat-date/)
+- `time` 5m
+- `source` leetcode
+- `tags` cringe
