@@ -23,13 +23,13 @@ function containsOnlyDigits(str) {
 const user = await leetcode.user("lldan");
 
 result +=
-  "![wakatime](https://wakatime.com/badge/user/018afba7-2ebc-4282-8545-d0250012991b/project/018b347c-0b9d-4d3e-9cc5-745948186d06.svg) ";
+  "![wakatime](https://wakatime.com/badge/user/018afba7-2ebc-4282-8545-d0250012991b/project/018b347c-0b9d-4d3e-9cc5-745948186d06.svg)  ";
 
 for (const badge of user.matchedUser.badges) {
   if (badge.icon.includes("http")) {
-    result += `<img src="${badge.icon}" width="30" height="30"> `;
+    result += `<img src="${badge.icon}" width="30" height="30">  `;
   } else {
-    result += `<img src="https://leetcode.com/${badge.icon}" width="30" height="30"> `;
+    result += `<img src="https://leetcode.com/${badge.icon}" width="30" height="30">  `;
   }
 }
 
