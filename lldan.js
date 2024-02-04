@@ -69,13 +69,15 @@ fs.writeFileSync("problem.json", JSON.stringify(content));
 
 const map = JSON.parse(fs.readFileSync("./index.json").toString());
 for (const item of content) {
-  result += `- \`${new Date(item.birth).toLocaleString("RU-ru", {
+  result += `- [${item.id}](https://leetcode.com/problems/${
+    map[item.id]
+  })\t\t\t\`${new Date(item.birth).toLocaleString("RU-ru", {
     day: "numeric",
     month: "short",
     year: "2-digit",
     hour: "numeric",
     minute: "numeric",
-  })}\` [${item.id}](https://leetcode.com/problems/${map[item.id]})  \n`;
+  })}\`\n`;
 }
 fs.writeFileSync("README.md", result);
 
