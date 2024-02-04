@@ -1,133 +1,90 @@
 import fs from "fs";
 import { spawnSync } from "child_process";
+import { LeetCode } from "leetcode-query";
+const leetcode = new LeetCode();
 
-const throws = [
-  ".DS_Store",
-  ".git",
-  ".gitignore",
-  ".idea",
-  ".vscode",
-  "README.md",
-  "lldan.js",
-  "node_modules",
-  "package.json",
-  "tsconfig.json",
-  "yarn.lock",
-  "index.json",
-  ".prettierignore",
-  "venv",
+let result = "# Неважно, возможно ли это\n";
+async function generateMap() {
+  const totalCount = (await leetcode.problems({ limit: 1 })).total;
+  const map = {};
+  for (let i = 1; i <= totalCount; i += 10) {
+    const problem = await leetcode.problems({ limit: 10, offset: i });
+    for (const item of problem.questions) {
+      map[item.questionFrontendId] = item.titleSlug;
+    }
+    console.log(i);
+  }
+  fs.writeFileSync("index.json", JSON.stringify(map));
+}
+function containsOnlyDigits(str) {
+  return /^\d+$/.test(str);
+}
+
+const user = await leetcode.user("lldan");
+
+result +=
+  "![wakatime](https://wakatime.com/badge/user/018afba7-2ebc-4282-8545-d0250012991b/project/018b347c-0b9d-4d3e-9cc5-745948186d06.svg) ";
+
+for (const badge of user.matchedUser.badges) {
+  if (badge.icon.includes("http")) {
+    result += `<img src="${badge.icon}" width="30" height="30"> `;
+  } else {
+    result += `<img src="https://leetcode.com/${badge.icon}" width="30" height="30"> `;
+  }
+}
+
+result +=
+  "\n![stats](https://leetcode-stats-six.vercel.app/?username=lldan&theme=dark)\n";
+
+const folders = [
+  "октябрь.23",
+  "ноябрь.23",
+  "декабрь.23",
+  "январь.24",
+  "февраль.24",
 ];
-let object = {};
-const dirs = fs.readdirSync("./");
-for (let element of dirs) {
-  if (!throws.includes(element)) {
-    object[element] = {};
-    const dirs2 = fs.readdirSync("./" + element);
-    for (let elem of dirs2) {
-      if (elem !== ".DS_Store") {
-        const readme = fs.readFileSync(
-          "./" + element + "/" + elem + "/README.md",
-        );
-        object[element][elem] = parseReadme(String(readme).split("\n"));
+let content = [];
+for (const folder of folders) {
+  const folderDir = fs.readdirSync("./" + folder);
+  for (const f of folderDir) {
+    if (f !== ".DS_Store") {
+      const problems = fs.readdirSync("./" + folder + "/" + f);
+      for (const p of problems) {
+        const stat = fs.statSync("./" + folder + "/" + f + "/" + p);
+        if (!containsOnlyDigits(p.split(".")[0])) {
+          console.log(folder + "/" + f + "/" + p);
+        } else {
+          content.push({
+            birth: stat.birthtimeMs,
+            path: folder + "/" + f + "/" + p,
+            id: p.split(".")[0],
+          });
+        }
       }
     }
   }
 }
-fs.writeFileSync("index.json", JSON.stringify(object));
+content = content.sort((a, b) => b.birth - a.birth);
+fs.writeFileSync("problem.json", JSON.stringify(content));
 
-function parseReadme(lines) {
-  const list = [];
-  let buffer = {};
-  for (let elem of lines) {
-    if (elem[0] === "#") {
-      if (Object.values(buffer).length > 0) {
-        list.push(buffer);
-        buffer = {};
-      }
-      buffer.title = elem.replace("# ", "").trim();
-    } else if (elem.includes("url")) {
-      buffer.url = elem.replace("- `url`", "").trim();
-    } else if (elem.includes("time")) {
-      buffer.time = elem.replace("- `time`", "").trim();
-    } else if (elem.includes("source")) {
-      buffer.source = elem.replace("- `source`", "").trim();
-    } else if (elem.includes("tags")) {
-      buffer.tags = elem.replace("- `tags`", "").trim();
-    }
-  }
-  if (Object.values(buffer).length > 0) {
-    list.push(buffer);
-  }
-  return list;
+const map = JSON.parse(fs.readFileSync("./index.json").toString());
+for (const item of content) {
+  result += `- \`${new Date(item.birth).toLocaleString("RU-ru", {
+    day: "numeric",
+    month: "short",
+    year: "2-digit",
+    hour: "numeric",
+    minute: "numeric",
+  })}\` [${item.id}](https://leetcode.com/problems/${map[item.id]})  \n`;
 }
-
-let result =
-  "# Неважно, возможно ли это\n[![wakatime](https://wakatime.com/badge/user/018afba7-2ebc-4282-8545-d0250012991b/project/018b347c-0b9d-4d3e-9cc5-745948186d06.svg)](https://wakatime.com/badge/user/018afba7-2ebc-4282-8545-d0250012991b/project/018b347c-0b9d-4d3e-9cc5-745948186d06)\n\n⬆️ Здесь считается не только работа над кодом, но и файлы README и скрипты для создания общего README\n\n";
-
-let time = [];
-for (let key1 in object) {
-  result += `# ${key1}\n`;
-  for (let key2 in object[key1]) {
-    result += `## ${key2} [count ${object[key1][key2].length}]\n`;
-    result += "|title|link|time|source|tag|\n|---|---|---|---|---|\n";
-    for (let element of object[key1][key2]) {
-      time.push(element.time);
-      result += `|${element.title}|${element.url}|${element.time}|${element.source}|${element.tags}|\n`;
-    }
-  }
-}
-console.log("Произошел рефакторинг");
 fs.writeFileSync("README.md", result);
 
-function getMonth(str) {
-  const strSplit = str.split("-");
-  const month = strSplit[1];
-  let monthStr = "";
-  switch (month) {
-    case "1":
-      monthStr = "январь";
-      break;
-    case "2":
-      monthStr = "февраль";
-      break;
-    case "3":
-      monthStr = "март";
-      break;
-    case "4":
-      monthStr = "апрель";
-      break;
-    case "5":
-      monthStr = "май";
-      break;
-    case "6":
-      monthStr = "июнь";
-      break;
-    case "7":
-      monthStr = "июль";
-      break;
-    case "8":
-      monthStr = "август";
-      break;
-    case "9":
-      monthStr = "сентябрь";
-      break;
-    case "10":
-      monthStr = "октябрь";
-      break;
-    case "11":
-      monthStr = "ноябрь";
-      break;
-    case "12":
-      monthStr = "декабрь";
-      break;
-  }
-
-  return monthStr + "." + strSplit[2];
-}
-
-const currentTimestamp = new Date().toLocaleString("en-US", {
-  dateStyle: "medium",
-  timeStyle: "short",
+const currentTimestamp = new Date().toLocaleString("RU-ru", {
+  day: "numeric",
+  month: "short",
+  year: "2-digit",
+  hour: "numeric",
+  minute: "numeric",
 });
 spawnSync("git", ["add", "."], { stdio: "inherit" });
 spawnSync("git", ["commit", "-m", `${currentTimestamp}`], { stdio: "inherit" });
