@@ -1,235 +1,235 @@
 # Неважно, возможно ли это
 ![wakatime](https://wakatime.com/badge/user/018afba7-2ebc-4282-8545-d0250012991b/project/018b347c-0b9d-4d3e-9cc5-745948186d06.svg)  <img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width="30" height="30">  <img src="https://leetcode.com//static/images/badges/dcc-2024-1.png" width="30" height="30">  <img src="https://leetcode.com//static/images/badges/dcc-2023-12.png" width="30" height="30">  <img src="https://leetcode.com//static/images/badges/dcc-2023-11.png" width="30" height="30">  
 ![stats](https://leetcode-stats-six.vercel.app/?username=lldan&theme=dark)
-- [3024](https://leetcode.com/problems/type-of-triangle-ii)			`4 февр. 24 г., 14:15`
-- [3028](https://leetcode.com/problems/ant-on-the-boundary)			`4 февр. 24 г., 14:01`
-- [1128](https://leetcode.com/problems/number-of-equivalent-domino-pairs)			`4 февр. 24 г., 4:27`
-- [1507](https://leetcode.com/problems/reformat-date)			`4 февр. 24 г., 4:27`
-- [76](https://leetcode.com/problems/minimum-window-substring)			`3 февр. 24 г., 4:39`
-- [1043](https://leetcode.com/problems/partition-array-for-maximum-sum)			`2 февр. 24 г., 4:06`
-- [1291](https://leetcode.com/problems/sequential-digits)			`1 февр. 24 г., 6:00`
-- [739](https://leetcode.com/problems/daily-temperatures)			`30 янв. 24 г., 7:47`
-- [1456](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)			`29 янв. 24 г., 20:05`
-- [14](https://leetcode.com/problems/longest-common-prefix)			`29 янв. 24 г., 19:08`
-- [560](https://leetcode.com/problems/subarray-sum-equals-k)			`28 янв. 24 г., 18:14`
-- [1074](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target)			`27 янв. 24 г., 16:59`
-- [232](https://leetcode.com/problems/implement-queue-using-stacks)			`27 янв. 24 г., 16:59`
-- [150](https://leetcode.com/problems/evaluate-reverse-polish-notation)			`27 янв. 24 г., 16:59`
-- [1971](https://leetcode.com/problems/find-if-path-exists-in-graph)			`26 янв. 24 г., 15:43`
-- [629](https://leetcode.com/problems/k-inverse-pairs-array)			`25 янв. 24 г., 12:16`
-- [746](https://leetcode.com/problems/min-cost-climbing-stairs)			`24 янв. 24 г., 19:20`
-- [118](https://leetcode.com/problems/pascals-triangle)			`24 янв. 24 г., 17:45`
-- [1402](https://leetcode.com/problems/reducing-dishes)			`24 янв. 24 г., 16:12`
-- [1641](https://leetcode.com/problems/count-sorted-vowel-strings)			`24 янв. 24 г., 16:12`
-- [338](https://leetcode.com/problems/counting-bits)			`24 янв. 24 г., 16:12`
-- [1143](https://leetcode.com/problems/longest-common-subsequence)			`23 янв. 24 г., 11:57`
-- [1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters)			`22 янв. 24 г., 11:30`
-- [645](https://leetcode.com/problems/set-mismatch)			`21 янв. 24 г., 11:41`
-- [198](https://leetcode.com/problems/house-robber)			`20 янв. 24 г., 15:29`
-- [907](https://leetcode.com/problems/sum-of-subarray-minimums)			`19 янв. 24 г., 6:47`
-- [931](https://leetcode.com/problems/minimum-falling-path-sum)			`17 янв. 24 г., 4:19`
-- [1207](https://leetcode.com/problems/unique-number-of-occurrences)			`16 янв. 24 г., 4:43`
-- [380](https://leetcode.com/problems/insert-delete-getrandom-o1)			`15 янв. 24 г., 3:46`
-- [2225](https://leetcode.com/problems/find-players-with-zero-or-one-losses)			`14 янв. 24 г., 3:17`
-- [1657](https://leetcode.com/problems/determine-if-two-strings-are-close)			`13 янв. 24 г., 5:31`
-- [1347](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram)			`12 янв. 24 г., 3:18`
-- [1704](https://leetcode.com/problems/determine-if-string-halves-are-alike)			`11 янв. 24 г., 19:30`
-- [2385](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected)			`10 янв. 24 г., 12:28`
-- [872](https://leetcode.com/problems/leaf-similar-trees)			`8 янв. 24 г., 18:59`
-- [938](https://leetcode.com/problems/range-sum-of-bst)			`7 янв. 24 г., 19:27`
-- [413](https://leetcode.com/problems/arithmetic-slices)			`7 янв. 24 г., 17:45`
-- [1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling)			`5 янв. 24 г., 15:33`
-- [300](https://leetcode.com/problems/longest-increasing-subsequence)			`4 янв. 24 г., 19:27`
-- [2125](https://leetcode.com/problems/number-of-laser-beams-in-a-bank)			`2 янв. 24 г., 11:58`
-- [2610](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions)			`1 янв. 24 г., 15:41`
-- [2966](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference)			`1 янв. 24 г., 15:41`
-- [455](https://leetcode.com/problems/assign-cookies)			`31 дек. 23 г., 11:47`
-- [1624](https://leetcode.com/problems/largest-substring-between-two-equal-characters)			`30 дек. 23 г., 10:55`
-- [1897](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal)			`29 дек. 23 г., 9:00`
-- [1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful)			`26 дек. 23 г., 13:29`
-- [91](https://leetcode.com/problems/decode-ways)			`24 дек. 23 г., 5:43`
-- [1758](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string)			`23 дек. 23 г., 13:46`
-- [1496](https://leetcode.com/problems/path-crossing)			`22 дек. 23 г., 11:55`
-- [1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string)			`21 дек. 23 г., 9:11`
-- [1673](https://leetcode.com/problems/find-the-most-competitive-subsequence)			`20 дек. 23 г., 14:02`
-- [2706](https://leetcode.com/problems/buy-two-chocolates)			`19 дек. 23 г., 11:37`
-- [661](https://leetcode.com/problems/image-smoother)			`18 дек. 23 г., 9:11`
-- [1913](https://leetcode.com/problems/maximum-product-difference-between-two-pairs)			`17 дек. 23 г., 12:13`
-- [242](https://leetcode.com/problems/valid-anagram)			`15 дек. 23 г., 13:36`
-- [1436](https://leetcode.com/problems/destination-city)			`14 дек. 23 г., 16:07`
-- [2482](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)			`13 дек. 23 г., 3:51`
-- [1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix)			`12 дек. 23 г., 16:27`
-- [1464](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)			`11 дек. 23 г., 11:17`
-- [1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)			`10 дек. 23 г., 17:25`
-- [867](https://leetcode.com/problems/transpose-matrix)			`9 дек. 23 г., 14:51`
-- [94](https://leetcode.com/problems/binary-tree-inorder-traversal)			`8 дек. 23 г., 14:09`
-- [606](https://leetcode.com/problems/construct-string-from-binary-tree)			`7 дек. 23 г., 18:51`
-- [1903](https://leetcode.com/problems/largest-odd-number-in-string)			`6 дек. 23 г., 11:03`
-- [1716](https://leetcode.com/problems/calculate-money-in-leetcode-bank)			`5 дек. 23 г., 13:56`
-- [1688](https://leetcode.com/problems/count-of-matches-in-tournament)			`4 дек. 23 г., 18:16`
-- [2264](https://leetcode.com/problems/largest-3-same-digit-number-in-string)			`3 дек. 23 г., 19:34`
-- [1266](https://leetcode.com/problems/minimum-time-visiting-all-points)			`2 дек. 23 г., 14:54`
-- [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)			`1 дек. 23 г., 14:21`
-- [136](https://leetcode.com/problems/single-number)			`1 дек. 23 г., 14:21`
-- [217](https://leetcode.com/problems/contains-duplicate)			`1 дек. 23 г., 14:21`
-- [268](https://leetcode.com/problems/missing-number)			`1 дек. 23 г., 14:21`
-- [287](https://leetcode.com/problems/find-the-duplicate-number)			`1 дек. 23 г., 14:21`
-- [303](https://leetcode.com/problems/range-sum-query-immutable)			`1 дек. 23 г., 14:21`
-- [448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)			`1 дек. 23 г., 14:21`
-- [70](https://leetcode.com/problems/climbing-stairs)			`1 дек. 23 г., 14:21`
-- [977](https://leetcode.com/problems/squares-of-a-sorted-array)			`1 дек. 23 г., 14:21`
-- [1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)			`1 дек. 23 г., 14:20`
-- [443](https://leetcode.com/problems/string-compression)			`30 нояб. 23 г., 13:17`
-- [643](https://leetcode.com/problems/maximum-average-subarray-i)			`29 нояб. 23 г., 6:53`
-- [151](https://leetcode.com/problems/reverse-words-in-a-string)			`28 нояб. 23 г., 18:35`
-- [238](https://leetcode.com/problems/product-of-array-except-self)			`28 нояб. 23 г., 18:35`
-- [1071](https://leetcode.com/problems/greatest-common-divisor-of-strings)			`28 нояб. 23 г., 17:24`
-- [1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)			`28 нояб. 23 г., 16:23`
-- [345](https://leetcode.com/problems/reverse-vowels-of-a-string)			`28 нояб. 23 г., 16:23`
-- [605](https://leetcode.com/problems/can-place-flowers)			`28 нояб. 23 г., 16:23`
-- [698](https://leetcode.com/problems/partition-to-k-equal-sum-subsets)			`28 нояб. 23 г., 16:23`
-- [1343](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold)			`28 нояб. 23 г., 8:31`
-- [1876](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters)			`28 нояб. 23 г., 8:31`
-- [2932](https://leetcode.com/problems/maximum-strong-pair-xor-i)			`28 нояб. 23 г., 8:31`
-- [377](https://leetcode.com/problems/combination-sum-iv)			`28 нояб. 23 г., 8:31`
-- [2147](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor)			`27 нояб. 23 г., 8:47`
-- [191](https://leetcode.com/problems/number-of-1-bits)			`27 нояб. 23 г., 8:47`
-- [935](https://leetcode.com/problems/knight-dialer)			`26 нояб. 23 г., 13:13`
-- [1727](https://leetcode.com/problems/largest-submatrix-with-rearrangements)			`26 нояб. 23 г., 13:04`
-- [85](https://leetcode.com/problems/maximal-rectangle)			`26 нояб. 23 г., 12:50`
-- [84](https://leetcode.com/problems/largest-rectangle-in-histogram)			`25 нояб. 23 г., 11:18`
-- [1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array)			`24 нояб. 23 г., 8:08`
-- [1561](https://leetcode.com/problems/maximum-number-of-coins-you-can-get)			`23 нояб. 23 г., 17:16`
-- [1630](https://leetcode.com/problems/arithmetic-subarrays)			`22 нояб. 23 г., 11:50`
-- [1424](https://leetcode.com/problems/diagonal-traverse-ii)			`21 нояб. 23 г., 13:51`
-- [1814](https://leetcode.com/problems/count-nice-pairs-in-an-array)			`20 нояб. 23 г., 12:35`
-- [2391](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage)			`19 нояб. 23 г., 13:56`
-- [1887](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal)			`18 нояб. 23 г., 11:07`
-- [1877](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array)			`16 нояб. 23 г., 10:22`
-- [1980](https://leetcode.com/problems/find-unique-binary-string)			`15 нояб. 23 г., 10:18`
-- [1846](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging)			`14 нояб. 23 г., 8:04`
-- [1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences)			`13 нояб. 23 г., 8:29`
-- [2785](https://leetcode.com/problems/sort-vowels-in-a-string)			`12 нояб. 23 г., 6:37`
-- [1160](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)			`11 нояб. 23 г., 16:54`
-- [1731](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee)			`9 нояб. 23 г., 13:07`
-- [1045](https://leetcode.com/problems/customers-who-bought-all-products)			`9 нояб. 23 г., 13:03`
-- [619](https://leetcode.com/problems/biggest-single-number)			`9 нояб. 23 г., 12:59`
-- [1729](https://leetcode.com/problems/find-followers-count)			`9 нояб. 23 г., 12:55`
-- [596](https://leetcode.com/problems/classes-more-than-5-students)			`9 нояб. 23 г., 12:51`
-- [1070](https://leetcode.com/problems/product-sales-analysis-iii)			`9 нояб. 23 г., 12:46`
-- [1141](https://leetcode.com/problems/user-activity-for-the-past-30-days-i)			`9 нояб. 23 г., 12:41`
-- [2356](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher)			`9 нояб. 23 г., 12:25`
-- [1759](https://leetcode.com/problems/count-number-of-homogenous-substrings)			`9 нояб. 23 г., 12:13`
-- [550](https://leetcode.com/problems/game-play-analysis-iv)			`9 нояб. 23 г., 11:56`
-- [1174](https://leetcode.com/problems/immediate-food-delivery-ii)			`9 нояб. 23 г., 10:24`
-- [1193](https://leetcode.com/problems/monthly-transactions-i)			`9 нояб. 23 г., 10:12`
-- [1211](https://leetcode.com/problems/queries-quality-and-percentage)			`9 нояб. 23 г., 9:50`
-- [1633](https://leetcode.com/problems/percentage-of-users-attended-a-contest)			`9 нояб. 23 г., 8:00`
-- [1075](https://leetcode.com/problems/project-employees-i)			`9 нояб. 23 г., 7:57`
-- [1251](https://leetcode.com/problems/average-selling-price)			`9 нояб. 23 г., 7:46`
-- [620](https://leetcode.com/problems/not-boring-movies)			`9 нояб. 23 г., 6:37`
-- [1934](https://leetcode.com/problems/confirmation-rate)			`9 нояб. 23 г., 5:35`
-- [570](https://leetcode.com/problems/managers-with-at-least-5-direct-reports)			`9 нояб. 23 г., 5:22`
-- [1280](https://leetcode.com/problems/students-and-examinations)			`9 нояб. 23 г., 5:06`
-- [577](https://leetcode.com/problems/employee-bonus)			`9 нояб. 23 г., 5:02`
-- [1661](https://leetcode.com/problems/average-time-of-process-per-machine)			`9 нояб. 23 г., 4:50`
-- [197](https://leetcode.com/problems/rising-temperature)			`9 нояб. 23 г., 3:35`
-- [1581](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions)			`9 нояб. 23 г., 3:28`
-- [1068](https://leetcode.com/problems/product-sales-analysis-i)			`9 нояб. 23 г., 3:26`
-- [1378](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier)			`9 нояб. 23 г., 3:23`
-- [1148](https://leetcode.com/problems/article-views-i)			`9 нояб. 23 г., 2:58`
-- [1683](https://leetcode.com/problems/invalid-tweets)			`9 нояб. 23 г., 2:58`
-- [595](https://leetcode.com/problems/big-countries)			`9 нояб. 23 г., 2:58`
-- [584](https://leetcode.com/problems/find-customer-referee)			`9 нояб. 23 г., 2:54`
-- [1523](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range)			`7 нояб. 23 г., 8:59`
-- [73](https://leetcode.com/problems/set-matrix-zeroes)			`7 нояб. 23 г., 8:59`
-- [54](https://leetcode.com/problems/spiral-matrix)			`7 нояб. 23 г., 8:21`
-- [1041](https://leetcode.com/problems/robot-bounded-in-circle)			`7 нояб. 23 г., 6:50`
-- [1672](https://leetcode.com/problems/richest-customer-wealth)			`7 нояб. 23 г., 6:50`
-- [1491](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary)			`7 нояб. 23 г., 6:21`
-- [1572](https://leetcode.com/problems/matrix-diagonal-sum)			`7 нояб. 23 г., 5:10`
-- [1232](https://leetcode.com/problems/check-if-it-is-a-straight-line)			`7 нояб. 23 г., 5:01`
-- [67](https://leetcode.com/problems/add-binary)			`7 нояб. 23 г., 4:50`
-- [1275](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game)			`7 нояб. 23 г., 4:27`
-- [206](https://leetcode.com/problems/reverse-linked-list)			`7 нояб. 23 г., 4:27`
-- [2693](https://leetcode.com/problems/call-function-with-custom-context)			`7 нояб. 23 г., 4:27`
-- [445](https://leetcode.com/problems/add-two-numbers-ii)			`7 нояб. 23 г., 4:27`
-- [13](https://leetcode.com/problems/roman-to-integer)			`7 нояб. 23 г., 3:40`
-- [1502](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence)			`7 нояб. 23 г., 3:40`
-- [1822](https://leetcode.com/problems/sign-of-the-product-of-an-array)			`7 нояб. 23 г., 3:40`
-- [1921](https://leetcode.com/problems/eliminate-maximum-number-of-monsters)			`7 нояб. 23 г., 3:40`
-- [21](https://leetcode.com/problems/merge-two-sorted-lists)			`7 нояб. 23 г., 3:40`
-- [242](https://leetcode.com/problems/valid-anagram)			`7 нояб. 23 г., 3:40`
-- [459](https://leetcode.com/problems/repeated-substring-pattern)			`7 нояб. 23 г., 3:40`
-- [58](https://leetcode.com/problems/length-of-last-word)			`7 нояб. 23 г., 3:40`
-- [657](https://leetcode.com/problems/robot-return-to-origin)			`7 нояб. 23 г., 3:40`
-- [66](https://leetcode.com/problems/plus-one)			`7 нояб. 23 г., 3:40`
-- [682](https://leetcode.com/problems/baseball-game)			`7 нояб. 23 г., 3:40`
-- [860](https://leetcode.com/problems/lemonade-change)			`7 нояб. 23 г., 3:40`
-- [896](https://leetcode.com/problems/monotonic-array)			`7 нояб. 23 г., 3:40`
-- [976](https://leetcode.com/problems/largest-perimeter-triangle)			`7 нояб. 23 г., 3:40`
-- [2849](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time)			`7 нояб. 23 г., 3:40`
-- [28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)			`7 нояб. 23 г., 1:51`
-- [389](https://leetcode.com/problems/find-the-difference)			`7 нояб. 23 г., 1:09`
-- [1768](https://leetcode.com/problems/merge-strings-alternately)			`6 нояб. 23 г., 22:55`
-- [2726](https://leetcode.com/problems/calculator-with-method-chaining)			`6 нояб. 23 г., 22:35`
-- [2694](https://leetcode.com/problems/event-emitter)			`6 нояб. 23 г., 22:27`
-- [2705](https://leetcode.com/problems/compact-object)			`6 нояб. 23 г., 20:55`
-- [2722](https://leetcode.com/problems/join-two-arrays-by-id)			`6 нояб. 23 г., 19:21`
-- [1845](https://leetcode.com/problems/seat-reservation-manager)			`6 нояб. 23 г., 18:52`
-- [2721](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel)			`6 нояб. 23 г., 5:26`
-- [2627](https://leetcode.com/problems/debounce)			`6 нояб. 23 г., 5:17`
-- [2715](https://leetcode.com/problems/timeout-cancellation)			`6 нояб. 23 г., 4:54`
-- [2704](https://leetcode.com/problems/to-be-or-not-to-be)			`6 нояб. 23 г., 4:39`
-- [1770](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations)			`6 нояб. 23 г., 4:30`
-- [410](https://leetcode.com/problems/split-array-largest-sum)			`6 нояб. 23 г., 2:23`
-- [1011](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)			`6 нояб. 23 г., 2:07`
-- [1535](https://leetcode.com/problems/find-the-winner-of-an-array-game)			`5 нояб. 23 г., 3:23`
-- [1503](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank)			`4 нояб. 23 г., 6:23`
-- [1960](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings)			`4 нояб. 23 г., 4:12`
-- [1441](https://leetcode.com/problems/build-an-array-with-stack-operations)			`3 нояб. 23 г., 3:43`
-- [520](https://leetcode.com/problems/detect-capital)			`2 нояб. 23 г., 17:33`
-- [2265](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree)			`2 нояб. 23 г., 15:18`
-- [2370](https://leetcode.com/problems/longest-ideal-subsequence)			`2 нояб. 23 г., 0:42`
-- [501](https://leetcode.com/problems/find-mode-in-binary-search-tree)			`1 нояб. 23 г., 10:01`
-- [15](https://leetcode.com/problems/3sum)			`30 окт. 23 г., 9:48`
-- [1356](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits)			`30 окт. 23 г., 2:19`
-- [107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)			`30 окт. 23 г., 2:17`
-- [103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)			`30 окт. 23 г., 1:46`
-- [102](https://leetcode.com/problems/binary-tree-level-order-traversal)			`30 окт. 23 г., 1:23`
-- [101](https://leetcode.com/problems/symmetric-tree)			`30 окт. 23 г., 0:56`
-- [2723](https://leetcode.com/problems/add-two-promises)			`28 окт. 23 г., 19:48`
-- [2648](https://leetcode.com/problems/generate-fibonacci-sequence)			`28 окт. 23 г., 19:28`
-- [2639](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid)			`28 окт. 23 г., 19:13`
-- [2637](https://leetcode.com/problems/promise-time-limit)			`28 окт. 23 г., 19:03`
-- [2635](https://leetcode.com/problems/apply-transform-over-each-element-in-array)			`28 окт. 23 г., 18:09`
-- [2634](https://leetcode.com/problems/filter-elements-from-array)			`28 окт. 23 г., 18:00`
-- [2631](https://leetcode.com/problems/group-by)			`28 окт. 23 г., 17:46`
-- [2629](https://leetcode.com/problems/function-composition)			`28 окт. 23 г., 17:35`
-- [2626](https://leetcode.com/problems/array-reduce-transformation)			`28 окт. 23 г., 17:29`
-- [2625](https://leetcode.com/problems/flatten-deeply-nested-array)			`28 окт. 23 г., 17:29`
-- [2624](https://leetcode.com/problems/snail-traversal)			`28 окт. 23 г., 15:12`
-- [2623](https://leetcode.com/problems/memoize)			`28 окт. 23 г., 14:58`
-- [2622](https://leetcode.com/problems/cache-with-time-limit)			`28 окт. 23 г., 2:10`
-- [2621](https://leetcode.com/problems/sleep)			`28 окт. 23 г., 2:04`
-- [2620](https://leetcode.com/problems/counter)			`28 окт. 23 г., 1:59`
-- [2618](https://leetcode.com/problems/check-if-object-instance-of-class)			`27 окт. 23 г., 16:48`
-- [7](https://leetcode.com/problems/reverse-integer)			`27 окт. 23 г., 16:48`
-- [11](https://leetcode.com/problems/container-with-most-water)			`27 окт. 23 г., 1:22`
-- [1220](https://leetcode.com/problems/count-vowels-permutation)			`26 окт. 23 г., 22:47`
-- [823](https://leetcode.com/problems/binary-trees-with-factors)			`24 окт. 23 г., 18:07`
-- [2619](https://leetcode.com/problems/array-prototype-last)			`22 окт. 23 г., 17:31`
-- [2666](https://leetcode.com/problems/allow-one-function-call)			`22 окт. 23 г., 17:17`
-- [2458](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries)			`19 окт. 23 г., 19:29`
-- [1700](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch)			`19 окт. 23 г., 19:29`
-- [4](https://leetcode.com/problems/median-of-two-sorted-arrays)			`19 окт. 23 г., 13:28`
-- [3](https://leetcode.com/problems/longest-substring-without-repeating-characters)			`19 окт. 23 г., 13:17`
-- [20](https://leetcode.com/problems/valid-parentheses)			`19 окт. 23 г., 11:25`
-- [5](https://leetcode.com/problems/longest-palindromic-substring)			`19 окт. 23 г., 11:18`
-- [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array)			`19 окт. 23 г., 11:00`
-- [2](https://leetcode.com/problems/add-two-numbers)			`19 окт. 23 г., 10:52`
-- [1](https://leetcode.com/problems/two-sum)			`19 окт. 23 г., 10:39`
-- [9](https://leetcode.com/problems/palindrome-number)			`19 окт. 23 г., 10:29`
-- [1884](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors)			`16 окт. 23 г., 8:36`
-- [779](https://leetcode.com/problems/k-th-symbol-in-grammar)			`15 окт. 23 г., 21:26`
-- [2240](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils)			`15 окт. 23 г., 21:12`
+[3024](https://leetcode.com/problems/type-of-triangle-ii)		`4 февр. 24 г., 14:15`
+[3028](https://leetcode.com/problems/ant-on-the-boundary)		`4 февр. 24 г., 14:01`
+[1128](https://leetcode.com/problems/number-of-equivalent-domino-pairs)		`4 февр. 24 г., 4:27`
+[1507](https://leetcode.com/problems/reformat-date)		`4 февр. 24 г., 4:27`
+[76](https://leetcode.com/problems/minimum-window-substring)		`3 февр. 24 г., 4:39`
+[1043](https://leetcode.com/problems/partition-array-for-maximum-sum)		`2 февр. 24 г., 4:06`
+[1291](https://leetcode.com/problems/sequential-digits)		`1 февр. 24 г., 6:00`
+[739](https://leetcode.com/problems/daily-temperatures)		`30 янв. 24 г., 7:47`
+[1456](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)		`29 янв. 24 г., 20:05`
+[14](https://leetcode.com/problems/longest-common-prefix)		`29 янв. 24 г., 19:08`
+[560](https://leetcode.com/problems/subarray-sum-equals-k)		`28 янв. 24 г., 18:14`
+[1074](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target)		`27 янв. 24 г., 16:59`
+[232](https://leetcode.com/problems/implement-queue-using-stacks)		`27 янв. 24 г., 16:59`
+[150](https://leetcode.com/problems/evaluate-reverse-polish-notation)		`27 янв. 24 г., 16:59`
+[1971](https://leetcode.com/problems/find-if-path-exists-in-graph)		`26 янв. 24 г., 15:43`
+[629](https://leetcode.com/problems/k-inverse-pairs-array)		`25 янв. 24 г., 12:16`
+[746](https://leetcode.com/problems/min-cost-climbing-stairs)		`24 янв. 24 г., 19:20`
+[118](https://leetcode.com/problems/pascals-triangle)		`24 янв. 24 г., 17:45`
+[1402](https://leetcode.com/problems/reducing-dishes)		`24 янв. 24 г., 16:12`
+[1641](https://leetcode.com/problems/count-sorted-vowel-strings)		`24 янв. 24 г., 16:12`
+[338](https://leetcode.com/problems/counting-bits)		`24 янв. 24 г., 16:12`
+[1143](https://leetcode.com/problems/longest-common-subsequence)		`23 янв. 24 г., 11:57`
+[1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters)		`22 янв. 24 г., 11:30`
+[645](https://leetcode.com/problems/set-mismatch)		`21 янв. 24 г., 11:41`
+[198](https://leetcode.com/problems/house-robber)		`20 янв. 24 г., 15:29`
+[907](https://leetcode.com/problems/sum-of-subarray-minimums)		`19 янв. 24 г., 6:47`
+[931](https://leetcode.com/problems/minimum-falling-path-sum)		`17 янв. 24 г., 4:19`
+[1207](https://leetcode.com/problems/unique-number-of-occurrences)		`16 янв. 24 г., 4:43`
+[380](https://leetcode.com/problems/insert-delete-getrandom-o1)		`15 янв. 24 г., 3:46`
+[2225](https://leetcode.com/problems/find-players-with-zero-or-one-losses)		`14 янв. 24 г., 3:17`
+[1657](https://leetcode.com/problems/determine-if-two-strings-are-close)		`13 янв. 24 г., 5:31`
+[1347](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram)		`12 янв. 24 г., 3:18`
+[1704](https://leetcode.com/problems/determine-if-string-halves-are-alike)		`11 янв. 24 г., 19:30`
+[2385](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected)		`10 янв. 24 г., 12:28`
+[872](https://leetcode.com/problems/leaf-similar-trees)		`8 янв. 24 г., 18:59`
+[938](https://leetcode.com/problems/range-sum-of-bst)		`7 янв. 24 г., 19:27`
+[413](https://leetcode.com/problems/arithmetic-slices)		`7 янв. 24 г., 17:45`
+[1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling)		`5 янв. 24 г., 15:33`
+[300](https://leetcode.com/problems/longest-increasing-subsequence)		`4 янв. 24 г., 19:27`
+[2125](https://leetcode.com/problems/number-of-laser-beams-in-a-bank)		`2 янв. 24 г., 11:58`
+[2610](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions)		`1 янв. 24 г., 15:41`
+[2966](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference)		`1 янв. 24 г., 15:41`
+[455](https://leetcode.com/problems/assign-cookies)		`31 дек. 23 г., 11:47`
+[1624](https://leetcode.com/problems/largest-substring-between-two-equal-characters)		`30 дек. 23 г., 10:55`
+[1897](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal)		`29 дек. 23 г., 9:00`
+[1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful)		`26 дек. 23 г., 13:29`
+[91](https://leetcode.com/problems/decode-ways)		`24 дек. 23 г., 5:43`
+[1758](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string)		`23 дек. 23 г., 13:46`
+[1496](https://leetcode.com/problems/path-crossing)		`22 дек. 23 г., 11:55`
+[1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string)		`21 дек. 23 г., 9:11`
+[1673](https://leetcode.com/problems/find-the-most-competitive-subsequence)		`20 дек. 23 г., 14:02`
+[2706](https://leetcode.com/problems/buy-two-chocolates)		`19 дек. 23 г., 11:37`
+[661](https://leetcode.com/problems/image-smoother)		`18 дек. 23 г., 9:11`
+[1913](https://leetcode.com/problems/maximum-product-difference-between-two-pairs)		`17 дек. 23 г., 12:13`
+[242](https://leetcode.com/problems/valid-anagram)		`15 дек. 23 г., 13:36`
+[1436](https://leetcode.com/problems/destination-city)		`14 дек. 23 г., 16:07`
+[2482](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)		`13 дек. 23 г., 3:51`
+[1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix)		`12 дек. 23 г., 16:27`
+[1464](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)		`11 дек. 23 г., 11:17`
+[1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)		`10 дек. 23 г., 17:25`
+[867](https://leetcode.com/problems/transpose-matrix)		`9 дек. 23 г., 14:51`
+[94](https://leetcode.com/problems/binary-tree-inorder-traversal)		`8 дек. 23 г., 14:09`
+[606](https://leetcode.com/problems/construct-string-from-binary-tree)		`7 дек. 23 г., 18:51`
+[1903](https://leetcode.com/problems/largest-odd-number-in-string)		`6 дек. 23 г., 11:03`
+[1716](https://leetcode.com/problems/calculate-money-in-leetcode-bank)		`5 дек. 23 г., 13:56`
+[1688](https://leetcode.com/problems/count-of-matches-in-tournament)		`4 дек. 23 г., 18:16`
+[2264](https://leetcode.com/problems/largest-3-same-digit-number-in-string)		`3 дек. 23 г., 19:34`
+[1266](https://leetcode.com/problems/minimum-time-visiting-all-points)		`2 дек. 23 г., 14:54`
+[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)		`1 дек. 23 г., 14:21`
+[136](https://leetcode.com/problems/single-number)		`1 дек. 23 г., 14:21`
+[217](https://leetcode.com/problems/contains-duplicate)		`1 дек. 23 г., 14:21`
+[268](https://leetcode.com/problems/missing-number)		`1 дек. 23 г., 14:21`
+[287](https://leetcode.com/problems/find-the-duplicate-number)		`1 дек. 23 г., 14:21`
+[303](https://leetcode.com/problems/range-sum-query-immutable)		`1 дек. 23 г., 14:21`
+[448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)		`1 дек. 23 г., 14:21`
+[70](https://leetcode.com/problems/climbing-stairs)		`1 дек. 23 г., 14:21`
+[977](https://leetcode.com/problems/squares-of-a-sorted-array)		`1 дек. 23 г., 14:21`
+[1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)		`1 дек. 23 г., 14:20`
+[443](https://leetcode.com/problems/string-compression)		`30 нояб. 23 г., 13:17`
+[643](https://leetcode.com/problems/maximum-average-subarray-i)		`29 нояб. 23 г., 6:53`
+[151](https://leetcode.com/problems/reverse-words-in-a-string)		`28 нояб. 23 г., 18:35`
+[238](https://leetcode.com/problems/product-of-array-except-self)		`28 нояб. 23 г., 18:35`
+[1071](https://leetcode.com/problems/greatest-common-divisor-of-strings)		`28 нояб. 23 г., 17:24`
+[1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)		`28 нояб. 23 г., 16:23`
+[345](https://leetcode.com/problems/reverse-vowels-of-a-string)		`28 нояб. 23 г., 16:23`
+[605](https://leetcode.com/problems/can-place-flowers)		`28 нояб. 23 г., 16:23`
+[698](https://leetcode.com/problems/partition-to-k-equal-sum-subsets)		`28 нояб. 23 г., 16:23`
+[1343](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold)		`28 нояб. 23 г., 8:31`
+[1876](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters)		`28 нояб. 23 г., 8:31`
+[2932](https://leetcode.com/problems/maximum-strong-pair-xor-i)		`28 нояб. 23 г., 8:31`
+[377](https://leetcode.com/problems/combination-sum-iv)		`28 нояб. 23 г., 8:31`
+[2147](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor)		`27 нояб. 23 г., 8:47`
+[191](https://leetcode.com/problems/number-of-1-bits)		`27 нояб. 23 г., 8:47`
+[935](https://leetcode.com/problems/knight-dialer)		`26 нояб. 23 г., 13:13`
+[1727](https://leetcode.com/problems/largest-submatrix-with-rearrangements)		`26 нояб. 23 г., 13:04`
+[85](https://leetcode.com/problems/maximal-rectangle)		`26 нояб. 23 г., 12:50`
+[84](https://leetcode.com/problems/largest-rectangle-in-histogram)		`25 нояб. 23 г., 11:18`
+[1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array)		`24 нояб. 23 г., 8:08`
+[1561](https://leetcode.com/problems/maximum-number-of-coins-you-can-get)		`23 нояб. 23 г., 17:16`
+[1630](https://leetcode.com/problems/arithmetic-subarrays)		`22 нояб. 23 г., 11:50`
+[1424](https://leetcode.com/problems/diagonal-traverse-ii)		`21 нояб. 23 г., 13:51`
+[1814](https://leetcode.com/problems/count-nice-pairs-in-an-array)		`20 нояб. 23 г., 12:35`
+[2391](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage)		`19 нояб. 23 г., 13:56`
+[1887](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal)		`18 нояб. 23 г., 11:07`
+[1877](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array)		`16 нояб. 23 г., 10:22`
+[1980](https://leetcode.com/problems/find-unique-binary-string)		`15 нояб. 23 г., 10:18`
+[1846](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging)		`14 нояб. 23 г., 8:04`
+[1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences)		`13 нояб. 23 г., 8:29`
+[2785](https://leetcode.com/problems/sort-vowels-in-a-string)		`12 нояб. 23 г., 6:37`
+[1160](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)		`11 нояб. 23 г., 16:54`
+[1731](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee)		`9 нояб. 23 г., 13:07`
+[1045](https://leetcode.com/problems/customers-who-bought-all-products)		`9 нояб. 23 г., 13:03`
+[619](https://leetcode.com/problems/biggest-single-number)		`9 нояб. 23 г., 12:59`
+[1729](https://leetcode.com/problems/find-followers-count)		`9 нояб. 23 г., 12:55`
+[596](https://leetcode.com/problems/classes-more-than-5-students)		`9 нояб. 23 г., 12:51`
+[1070](https://leetcode.com/problems/product-sales-analysis-iii)		`9 нояб. 23 г., 12:46`
+[1141](https://leetcode.com/problems/user-activity-for-the-past-30-days-i)		`9 нояб. 23 г., 12:41`
+[2356](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher)		`9 нояб. 23 г., 12:25`
+[1759](https://leetcode.com/problems/count-number-of-homogenous-substrings)		`9 нояб. 23 г., 12:13`
+[550](https://leetcode.com/problems/game-play-analysis-iv)		`9 нояб. 23 г., 11:56`
+[1174](https://leetcode.com/problems/immediate-food-delivery-ii)		`9 нояб. 23 г., 10:24`
+[1193](https://leetcode.com/problems/monthly-transactions-i)		`9 нояб. 23 г., 10:12`
+[1211](https://leetcode.com/problems/queries-quality-and-percentage)		`9 нояб. 23 г., 9:50`
+[1633](https://leetcode.com/problems/percentage-of-users-attended-a-contest)		`9 нояб. 23 г., 8:00`
+[1075](https://leetcode.com/problems/project-employees-i)		`9 нояб. 23 г., 7:57`
+[1251](https://leetcode.com/problems/average-selling-price)		`9 нояб. 23 г., 7:46`
+[620](https://leetcode.com/problems/not-boring-movies)		`9 нояб. 23 г., 6:37`
+[1934](https://leetcode.com/problems/confirmation-rate)		`9 нояб. 23 г., 5:35`
+[570](https://leetcode.com/problems/managers-with-at-least-5-direct-reports)		`9 нояб. 23 г., 5:22`
+[1280](https://leetcode.com/problems/students-and-examinations)		`9 нояб. 23 г., 5:06`
+[577](https://leetcode.com/problems/employee-bonus)		`9 нояб. 23 г., 5:02`
+[1661](https://leetcode.com/problems/average-time-of-process-per-machine)		`9 нояб. 23 г., 4:50`
+[197](https://leetcode.com/problems/rising-temperature)		`9 нояб. 23 г., 3:35`
+[1581](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions)		`9 нояб. 23 г., 3:28`
+[1068](https://leetcode.com/problems/product-sales-analysis-i)		`9 нояб. 23 г., 3:26`
+[1378](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier)		`9 нояб. 23 г., 3:23`
+[1148](https://leetcode.com/problems/article-views-i)		`9 нояб. 23 г., 2:58`
+[1683](https://leetcode.com/problems/invalid-tweets)		`9 нояб. 23 г., 2:58`
+[595](https://leetcode.com/problems/big-countries)		`9 нояб. 23 г., 2:58`
+[584](https://leetcode.com/problems/find-customer-referee)		`9 нояб. 23 г., 2:54`
+[1523](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range)		`7 нояб. 23 г., 8:59`
+[73](https://leetcode.com/problems/set-matrix-zeroes)		`7 нояб. 23 г., 8:59`
+[54](https://leetcode.com/problems/spiral-matrix)		`7 нояб. 23 г., 8:21`
+[1041](https://leetcode.com/problems/robot-bounded-in-circle)		`7 нояб. 23 г., 6:50`
+[1672](https://leetcode.com/problems/richest-customer-wealth)		`7 нояб. 23 г., 6:50`
+[1491](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary)		`7 нояб. 23 г., 6:21`
+[1572](https://leetcode.com/problems/matrix-diagonal-sum)		`7 нояб. 23 г., 5:10`
+[1232](https://leetcode.com/problems/check-if-it-is-a-straight-line)		`7 нояб. 23 г., 5:01`
+[67](https://leetcode.com/problems/add-binary)		`7 нояб. 23 г., 4:50`
+[1275](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game)		`7 нояб. 23 г., 4:27`
+[206](https://leetcode.com/problems/reverse-linked-list)		`7 нояб. 23 г., 4:27`
+[2693](https://leetcode.com/problems/call-function-with-custom-context)		`7 нояб. 23 г., 4:27`
+[445](https://leetcode.com/problems/add-two-numbers-ii)		`7 нояб. 23 г., 4:27`
+[13](https://leetcode.com/problems/roman-to-integer)		`7 нояб. 23 г., 3:40`
+[1502](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence)		`7 нояб. 23 г., 3:40`
+[1822](https://leetcode.com/problems/sign-of-the-product-of-an-array)		`7 нояб. 23 г., 3:40`
+[1921](https://leetcode.com/problems/eliminate-maximum-number-of-monsters)		`7 нояб. 23 г., 3:40`
+[21](https://leetcode.com/problems/merge-two-sorted-lists)		`7 нояб. 23 г., 3:40`
+[242](https://leetcode.com/problems/valid-anagram)		`7 нояб. 23 г., 3:40`
+[459](https://leetcode.com/problems/repeated-substring-pattern)		`7 нояб. 23 г., 3:40`
+[58](https://leetcode.com/problems/length-of-last-word)		`7 нояб. 23 г., 3:40`
+[657](https://leetcode.com/problems/robot-return-to-origin)		`7 нояб. 23 г., 3:40`
+[66](https://leetcode.com/problems/plus-one)		`7 нояб. 23 г., 3:40`
+[682](https://leetcode.com/problems/baseball-game)		`7 нояб. 23 г., 3:40`
+[860](https://leetcode.com/problems/lemonade-change)		`7 нояб. 23 г., 3:40`
+[896](https://leetcode.com/problems/monotonic-array)		`7 нояб. 23 г., 3:40`
+[976](https://leetcode.com/problems/largest-perimeter-triangle)		`7 нояб. 23 г., 3:40`
+[2849](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time)		`7 нояб. 23 г., 3:40`
+[28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)		`7 нояб. 23 г., 1:51`
+[389](https://leetcode.com/problems/find-the-difference)		`7 нояб. 23 г., 1:09`
+[1768](https://leetcode.com/problems/merge-strings-alternately)		`6 нояб. 23 г., 22:55`
+[2726](https://leetcode.com/problems/calculator-with-method-chaining)		`6 нояб. 23 г., 22:35`
+[2694](https://leetcode.com/problems/event-emitter)		`6 нояб. 23 г., 22:27`
+[2705](https://leetcode.com/problems/compact-object)		`6 нояб. 23 г., 20:55`
+[2722](https://leetcode.com/problems/join-two-arrays-by-id)		`6 нояб. 23 г., 19:21`
+[1845](https://leetcode.com/problems/seat-reservation-manager)		`6 нояб. 23 г., 18:52`
+[2721](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel)		`6 нояб. 23 г., 5:26`
+[2627](https://leetcode.com/problems/debounce)		`6 нояб. 23 г., 5:17`
+[2715](https://leetcode.com/problems/timeout-cancellation)		`6 нояб. 23 г., 4:54`
+[2704](https://leetcode.com/problems/to-be-or-not-to-be)		`6 нояб. 23 г., 4:39`
+[1770](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations)		`6 нояб. 23 г., 4:30`
+[410](https://leetcode.com/problems/split-array-largest-sum)		`6 нояб. 23 г., 2:23`
+[1011](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)		`6 нояб. 23 г., 2:07`
+[1535](https://leetcode.com/problems/find-the-winner-of-an-array-game)		`5 нояб. 23 г., 3:23`
+[1503](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank)		`4 нояб. 23 г., 6:23`
+[1960](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings)		`4 нояб. 23 г., 4:12`
+[1441](https://leetcode.com/problems/build-an-array-with-stack-operations)		`3 нояб. 23 г., 3:43`
+[520](https://leetcode.com/problems/detect-capital)		`2 нояб. 23 г., 17:33`
+[2265](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree)		`2 нояб. 23 г., 15:18`
+[2370](https://leetcode.com/problems/longest-ideal-subsequence)		`2 нояб. 23 г., 0:42`
+[501](https://leetcode.com/problems/find-mode-in-binary-search-tree)		`1 нояб. 23 г., 10:01`
+[15](https://leetcode.com/problems/3sum)		`30 окт. 23 г., 9:48`
+[1356](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits)		`30 окт. 23 г., 2:19`
+[107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)		`30 окт. 23 г., 2:17`
+[103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)		`30 окт. 23 г., 1:46`
+[102](https://leetcode.com/problems/binary-tree-level-order-traversal)		`30 окт. 23 г., 1:23`
+[101](https://leetcode.com/problems/symmetric-tree)		`30 окт. 23 г., 0:56`
+[2723](https://leetcode.com/problems/add-two-promises)		`28 окт. 23 г., 19:48`
+[2648](https://leetcode.com/problems/generate-fibonacci-sequence)		`28 окт. 23 г., 19:28`
+[2639](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid)		`28 окт. 23 г., 19:13`
+[2637](https://leetcode.com/problems/promise-time-limit)		`28 окт. 23 г., 19:03`
+[2635](https://leetcode.com/problems/apply-transform-over-each-element-in-array)		`28 окт. 23 г., 18:09`
+[2634](https://leetcode.com/problems/filter-elements-from-array)		`28 окт. 23 г., 18:00`
+[2631](https://leetcode.com/problems/group-by)		`28 окт. 23 г., 17:46`
+[2629](https://leetcode.com/problems/function-composition)		`28 окт. 23 г., 17:35`
+[2626](https://leetcode.com/problems/array-reduce-transformation)		`28 окт. 23 г., 17:29`
+[2625](https://leetcode.com/problems/flatten-deeply-nested-array)		`28 окт. 23 г., 17:29`
+[2624](https://leetcode.com/problems/snail-traversal)		`28 окт. 23 г., 15:12`
+[2623](https://leetcode.com/problems/memoize)		`28 окт. 23 г., 14:58`
+[2622](https://leetcode.com/problems/cache-with-time-limit)		`28 окт. 23 г., 2:10`
+[2621](https://leetcode.com/problems/sleep)		`28 окт. 23 г., 2:04`
+[2620](https://leetcode.com/problems/counter)		`28 окт. 23 г., 1:59`
+[2618](https://leetcode.com/problems/check-if-object-instance-of-class)		`27 окт. 23 г., 16:48`
+[7](https://leetcode.com/problems/reverse-integer)		`27 окт. 23 г., 16:48`
+[11](https://leetcode.com/problems/container-with-most-water)		`27 окт. 23 г., 1:22`
+[1220](https://leetcode.com/problems/count-vowels-permutation)		`26 окт. 23 г., 22:47`
+[823](https://leetcode.com/problems/binary-trees-with-factors)		`24 окт. 23 г., 18:07`
+[2619](https://leetcode.com/problems/array-prototype-last)		`22 окт. 23 г., 17:31`
+[2666](https://leetcode.com/problems/allow-one-function-call)		`22 окт. 23 г., 17:17`
+[2458](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries)		`19 окт. 23 г., 19:29`
+[1700](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch)		`19 окт. 23 г., 19:29`
+[4](https://leetcode.com/problems/median-of-two-sorted-arrays)		`19 окт. 23 г., 13:28`
+[3](https://leetcode.com/problems/longest-substring-without-repeating-characters)		`19 окт. 23 г., 13:17`
+[20](https://leetcode.com/problems/valid-parentheses)		`19 окт. 23 г., 11:25`
+[5](https://leetcode.com/problems/longest-palindromic-substring)		`19 окт. 23 г., 11:18`
+[26](https://leetcode.com/problems/remove-duplicates-from-sorted-array)		`19 окт. 23 г., 11:00`
+[2](https://leetcode.com/problems/add-two-numbers)		`19 окт. 23 г., 10:52`
+[1](https://leetcode.com/problems/two-sum)		`19 окт. 23 г., 10:39`
+[9](https://leetcode.com/problems/palindrome-number)		`19 окт. 23 г., 10:29`
+[1884](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors)		`16 окт. 23 г., 8:36`
+[779](https://leetcode.com/problems/k-th-symbol-in-grammar)		`15 окт. 23 г., 21:26`
+[2240](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils)		`15 окт. 23 г., 21:12`

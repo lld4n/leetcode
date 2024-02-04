@@ -69,9 +69,9 @@ fs.writeFileSync("problem.json", JSON.stringify(content));
 
 const map = JSON.parse(fs.readFileSync("./index.json").toString());
 for (const item of content) {
-  result += `- [${item.id}](https://leetcode.com/problems/${
+  result += `[${item.id}](https://leetcode.com/problems/${
     map[item.id]
-  })\t\t\t\`${new Date(item.birth).toLocaleString("RU-ru", {
+  })\t\t\`${new Date(item.birth).toLocaleString("RU-ru", {
     day: "numeric",
     month: "short",
     year: "2-digit",
