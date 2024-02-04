@@ -486,12 +486,13 @@
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |1043 [i hate dp]|[link](https://leetcode.com/problems/partition-array-for-maximum-sum/description/?envType=daily-question&envId=2024-02-03)|0|leetcode||
-## 04-02-24 [count 3]
+## 04-02-24 [count 4]
 |title|link|time|source|tag|
 |---|---|---|---|---|
 |76|[link](https://leetcode.com/problems/minimum-window-substring/description/?envType=daily-question&envId=2024-02-04)|15m|leetcode|like|
 |1128|[link](https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/)|5m|leetcode|easy|
 |1507|[link](https://leetcode.com/problems/reformat-date/)|5m|leetcode|cringe|
+|3028|[link](https://leetcode.com/problems/ant-on-the-boundary/)|1m|leetcode|very easy|
 # январь.24
 ## 01-01-24 [count 1]
 |title|link|time|source|tag|

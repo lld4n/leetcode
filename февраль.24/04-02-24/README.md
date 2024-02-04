@@ -13,3 +13,8 @@
 - `time` 5m
 - `source` leetcode
 - `tags` cringe
+# 3028
+- `url` [link](https://leetcode.com/problems/ant-on-the-boundary/)
+- `time` 1m
+- `source` leetcode
+- `tags` very easy
