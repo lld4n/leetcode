@@ -34,7 +34,7 @@ for (const badge of user.matchedUser.badges) {
 }
 
 result +=
-  "\n![stats](https://leetcode-stats-six.vercel.app/?username=lldan&theme=dark)\n";
+  "\n![stats](https://leetcode-stats-six.vercel.app/?username=lldan&theme=dark)  \n";
 
 const folders = [
   "октябрь.23",
@@ -71,13 +71,16 @@ const map = JSON.parse(fs.readFileSync("./index.json").toString());
 for (const item of content) {
   result += `[${item.id}](https://leetcode.com/problems/${
     map[item.id]
-  })\t\t\`${new Date(item.birth).toLocaleString("RU-ru", {
-    day: "numeric",
-    month: "short",
-    year: "2-digit",
-    hour: "numeric",
-    minute: "numeric",
-  })}\`\n`;
+  })&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\`${new Date(item.birth).toLocaleString(
+    "RU-ru",
+    {
+      day: "numeric",
+      month: "short",
+      year: "2-digit",
+      hour: "numeric",
+      minute: "numeric",
+    },
+  )}\`  \n`;
 }
 fs.writeFileSync("README.md", result);
 
