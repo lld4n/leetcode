@@ -94,7 +94,8 @@ for (const item of content) {
 console.log(
   Object.entries(DateToIds)
     .map((el) => [el[0], el[1].length])
-    .sort((a, b) => b[1] - a[1]),
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 6),
 );
 
 const map = JSON.parse(fs.readFileSync("./index.json").toString());
