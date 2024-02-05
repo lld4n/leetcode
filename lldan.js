@@ -4,6 +4,7 @@ import { LeetCode } from "leetcode-query";
 const leetcode = new LeetCode();
 
 let result = "# Неважно, возможно ли это\n";
+result += "**Статистика ✨**  \n";
 async function generateMap() {
   const totalCount = (await leetcode.problems({ limit: 1 })).total;
   const map = {};
@@ -91,7 +92,8 @@ for (const item of content) {
     DateToIds[dat] = [item.id];
   }
 }
-result += "```text\nРекорды в один день\n";
+result += "**Рекорды в один день 🚀**\n";
+result += "```text\n";
 Object.entries(DateToIds)
   .map((el) => [el[0], el[1].length])
   .sort((a, b) => b[1] - a[1])
@@ -100,6 +102,7 @@ Object.entries(DateToIds)
     result += `${el[0]}\t\t${el[1]}\n`;
   });
 result += "```  \n";
+result += "**Список решенных задач ✅**  \n";
 
 const map = JSON.parse(fs.readFileSync("./index.json").toString());
 for (const item of content) {
