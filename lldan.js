@@ -49,14 +49,13 @@ for (const folder of folders) {
   for (const f of folderDir) {
     if (f !== ".DS_Store") {
       const problems = fs.readdirSync("./" + folder + "/" + f);
-      console.log("./" + folder + "/" + f);
       for (const p of problems) {
         const stat = fs.statSync("./" + folder + "/" + f + "/" + p);
         if (!containsOnlyDigits(p.split(".")[0])) {
           console.log(folder + "/" + f + "/" + p);
         } else {
           content.push({
-            birth: stat.birthtimeMs,
+            birth: stat.mtimeMs,
             path: folder + "/" + f + "/" + p,
             id: p.split(".")[0],
           });
