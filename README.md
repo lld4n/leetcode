@@ -1,6 +1,8 @@
 # Неважно, возможно ли это
 ![wakatime](https://wakatime.com/badge/user/018afba7-2ebc-4282-8545-d0250012991b/project/018b347c-0b9d-4d3e-9cc5-745948186d06.svg)  <img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width="30" height="30">  <img src="https://leetcode.com//static/images/badges/dcc-2024-1.png" width="30" height="30">  <img src="https://leetcode.com//static/images/badges/dcc-2023-12.png" width="30" height="30">  <img src="https://leetcode.com//static/images/badges/dcc-2023-11.png" width="30" height="30">  
 ![stats](https://leetcode-stats-six.vercel.app/?username=lldan&theme=dark)  
+[2970](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`5 февр. 24 г., 15:34`  
+[2974](https://leetcode.com/problems/minimum-number-game)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`5 февр. 24 г., 13:23`  
 [2980](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`5 февр. 24 г., 12:35`  
 [2996](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`5 февр. 24 г., 12:14`  
 [3000](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`5 февр. 24 г., 11:55`  

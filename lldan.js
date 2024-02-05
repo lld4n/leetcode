@@ -16,6 +16,18 @@ async function generateMap() {
   }
   fs.writeFileSync("index.json", JSON.stringify(map));
 }
+
+function findDuplicates(arr) {
+  let duplicates = [];
+  arr.sort();
+  for (let i = 0; i < arr.length - 1; i++) {
+    if (arr[i] === arr[i + 1] && !duplicates.includes(arr[i])) {
+      duplicates.push(arr[i]);
+    }
+  }
+  return duplicates;
+}
+
 function containsOnlyDigits(str) {
   return /^\d+$/.test(str);
 }
@@ -65,7 +77,8 @@ for (const folder of folders) {
   }
 }
 content = content.sort((a, b) => b.birth - a.birth);
-// fs.writeFileSync("problem.json", JSON.stringify(content));
+
+console.log(content.map((e) => e.id));
 
 const map = JSON.parse(fs.readFileSync("./index.json").toString());
 for (const item of content) {
