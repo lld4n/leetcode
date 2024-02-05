@@ -6,6 +6,7 @@
 [1128](https://leetcode.com/problems/number-of-equivalent-domino-pairs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`4 февр. 24 г., 4:27`  
 [1507](https://leetcode.com/problems/reformat-date)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`4 февр. 24 г., 4:27`  
 [76](https://leetcode.com/problems/minimum-window-substring)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`3 февр. 24 г., 4:39`  
+[387](https://leetcode.com/problems/first-unique-character-in-a-string)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`3 февр. 24 г., 4:39`  
 [1043](https://leetcode.com/problems/partition-array-for-maximum-sum)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`2 февр. 24 г., 4:06`  
 [1291](https://leetcode.com/problems/sequential-digits)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`1 февр. 24 г., 6:00`  
 [739](https://leetcode.com/problems/daily-temperatures)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`30 янв. 24 г., 7:47`  
