@@ -8,12 +8,14 @@
 ```text
 7 нояб. 23 г.		31
 9 нояб. 23 г.		30
-5 февр. 24 г.		15
+5 февр. 24 г.		17
 6 нояб. 23 г.		15
 28 окт. 23 г.		15
 ```  
 **Список решенных задач ✅**  
 
+[2937](https://leetcode.com/problems/make-three-strings-equal)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`5 февр. 24 г., 19:12`  
+[2942](https://leetcode.com/problems/find-words-containing-character)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`5 февр. 24 г., 19:05`  
 [2946](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`5 февр. 24 г., 19:03`  
 [2951](https://leetcode.com/problems/find-the-peaks)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`5 февр. 24 г., 16:34`  
 [2956](https://leetcode.com/problems/find-common-elements-between-two-arrays)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`5 февр. 24 г., 16:29`  
