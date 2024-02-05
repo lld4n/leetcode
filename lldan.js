@@ -78,7 +78,7 @@ for (const folder of folders) {
 }
 content = content.sort((a, b) => b.birth - a.birth);
 
-console.log(content.map((e) => e.id));
+console.log(findDuplicates(content.map((e) => e.id)));
 
 const map = JSON.parse(fs.readFileSync("./index.json").toString());
 for (const item of content) {
