@@ -91,7 +91,11 @@ for (const item of content) {
     DateToIds[dat] = [item.id];
   }
 }
-console.log(Object.entries(DateToIds).map((el) => [el[0], el[1].length]));
+console.log(
+  Object.entries(DateToIds)
+    .map((el) => [el[0], el[1].length])
+    .sort((a, b) => b[1] - a[1]),
+);
 
 const map = JSON.parse(fs.readFileSync("./index.json").toString());
 for (const item of content) {
