@@ -66,7 +66,6 @@
 [2706](https://leetcode.com/problems/buy-two-chocolates)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`20 дек. 23 г., 14:02`  
 [661](https://leetcode.com/problems/image-smoother)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`19 дек. 23 г., 11:37`  
 [1913](https://leetcode.com/problems/maximum-product-difference-between-two-pairs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`18 дек. 23 г., 9:11`  
-[242](https://leetcode.com/problems/valid-anagram)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`16 дек. 23 г., 16:30`  
 [1436](https://leetcode.com/problems/destination-city)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`15 дек. 23 г., 13:36`  
 [2482](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`14 дек. 23 г., 16:07`  
 [1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`13 дек. 23 г., 3:51`  
