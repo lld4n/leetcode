@@ -78,7 +78,20 @@ for (const folder of folders) {
 }
 content = content.sort((a, b) => b.birth - a.birth);
 
-console.log(findDuplicates(content.map((e) => e.id)));
+const DateToIds = {};
+for (const item of content) {
+  const dat = new Date(item.birth).toLocaleString("RU-ru", {
+    day: "numeric",
+    month: "short",
+    year: "2-digit",
+  });
+  if (DateToIds[dat]) {
+    DateToIds[dat].push(item.id);
+  } else {
+    DateToIds[dat] = [item.id];
+  }
+}
+console.log(DateToIds);
 
 const map = JSON.parse(fs.readFileSync("./index.json").toString());
 for (const item of content) {
