@@ -65,7 +65,7 @@ for (const folder of folders) {
   }
 }
 content = content.sort((a, b) => b.birth - a.birth);
-fs.writeFileSync("problem.json", JSON.stringify(content));
+// fs.writeFileSync("problem.json", JSON.stringify(content));
 
 const map = JSON.parse(fs.readFileSync("./index.json").toString());
 for (const item of content) {
