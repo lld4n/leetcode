@@ -1,6 +1,7 @@
 # Неважно, возможно ли это
 ![wakatime](https://wakatime.com/badge/user/018afba7-2ebc-4282-8545-d0250012991b/project/018b347c-0b9d-4d3e-9cc5-745948186d06.svg)  <img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width="30" height="30">  <img src="https://leetcode.com//static/images/badges/dcc-2024-1.png" width="30" height="30">  <img src="https://leetcode.com//static/images/badges/dcc-2023-12.png" width="30" height="30">  <img src="https://leetcode.com//static/images/badges/dcc-2023-11.png" width="30" height="30">  
 ![stats](https://leetcode-stats-six.vercel.app/?username=lldan&theme=dark)  
+[3014](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`5 февр. 24 г., 11:08`  
 [3019](https://leetcode.com/problems/number-of-changing-keys)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`5 февр. 24 г., 10:58`  
 [387](https://leetcode.com/problems/first-unique-character-in-a-string)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`5 февр. 24 г., 10:34`  
 [3024](https://leetcode.com/problems/type-of-triangle-ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`4 февр. 24 г., 14:23`  
