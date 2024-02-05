@@ -10,10 +10,12 @@
 9 нояб. 23 г.		30
 6 нояб. 23 г.		15
 28 окт. 23 г.		15
-28 нояб. 23 г.		12
+5 февр. 24 г.		13
 ```  
 **Список решенных задач ✅**  
 
+[2956](https://leetcode.com/problems/find-common-elements-between-two-arrays)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`5 февр. 24 г., 16:29`  
+[2960](https://leetcode.com/problems/count-tested-devices-after-test-operations)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`5 февр. 24 г., 16:23`  
 [2965](https://leetcode.com/problems/find-missing-and-repeated-values)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`5 февр. 24 г., 15:59`  
 [2970](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`5 февр. 24 г., 15:34`  
 [2974](https://leetcode.com/problems/minimum-number-game)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`5 февр. 24 г., 13:23`  
