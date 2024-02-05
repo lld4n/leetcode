@@ -91,7 +91,7 @@ for (const item of content) {
     DateToIds[dat] = [item.id];
   }
 }
-result += "```text\nДата\t\tКоличество задач\n";
+result += "```text\nРекорды в один день\n";
 Object.entries(DateToIds)
   .map((el) => [el[0], el[1].length])
   .sort((a, b) => b[1] - a[1])
