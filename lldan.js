@@ -91,12 +91,15 @@ for (const item of content) {
     DateToIds[dat] = [item.id];
   }
 }
-console.log(
-  Object.entries(DateToIds)
-    .map((el) => [el[0], el[1].length])
-    .sort((a, b) => b[1] - a[1])
-    .slice(0, 6),
-);
+result += "```text\n";
+Object.entries(DateToIds)
+  .map((el) => [el[0], el[1].length])
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 5)
+  .forEach((el) => {
+    result += `${el[0]}\t\t\t${el[1]}\n`;
+  });
+result += "```  \n";
 
 const map = JSON.parse(fs.readFileSync("./index.json").toString());
 for (const item of content) {
