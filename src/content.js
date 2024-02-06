@@ -42,6 +42,7 @@ function generateList(content) {
         month: "short",
         year: "2-digit",
     });
+    res += "<code>".concat(date, "</code><br>");
     for (var _i = 0, content_1 = content; _i < content_1.length; _i++) {
         var item = content_1[_i];
         var curDate = new Date(item.birth).toLocaleString("RU-ru", {
@@ -50,7 +51,7 @@ function generateList(content) {
             year: "2-digit",
         });
         if (curDate !== date) {
-            res += "<code>".concat(curDate, "</code><br>");
+            res += "<br><code>".concat(curDate, "</code><br>");
             date = curDate;
         }
         res += "<a href=\"https://leetcode.com/problems/".concat(map[item.id], "\">").concat(item.id, "</a><br>");
