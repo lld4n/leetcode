@@ -43,7 +43,7 @@ export function generateList(content: contentType[]) {
       year: "2-digit",
     });
     if (curDate !== date) {
-      res += "<br>";
+      res += `<code>${curDate}</code><br>`;
       date = curDate;
     }
     res += `<a href="https://leetcode.com/problems/${map[item.id]}">${

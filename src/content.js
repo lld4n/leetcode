@@ -50,7 +50,7 @@ function generateList(content) {
             year: "2-digit",
         });
         if (curDate !== date) {
-            res += "<br>";
+            res += "<code>".concat(curDate, "</code><br>");
             date = curDate;
         }
         res += "<a href=\"https://leetcode.com/problems/".concat(map[item.id], "\">").concat(item.id, "</a><br>");
