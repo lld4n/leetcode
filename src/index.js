@@ -4,10 +4,12 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var stats_1 = require("./stats");
 var fs = require("fs");
 var child_process_1 = require("child_process");
+var content_1 = require("./content");
 var result = "<p align=\"center\">\u043D\u0435\u0432\u0430\u0436\u043D\u043E, \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E \u044D\u0442\u043E \u0438\u043B\u0438 \u043D\u0435\u0442</p>";
-result += "<p align=\"center\">\u044F \u044D\u0442\u043E \u0441\u0434\u0435\u043B\u0430\u044E, \u043F\u043E\u0442\u043E\u043C\u0443 \u0447\u0442\u043E \u0445\u043E\u0447\u0443 \u0441\u0434\u0435\u043B\u0430\u0442\u044C</p>";
-result += "<div align=\"center\"><code>\u30E2\u30F3\u30AD\u30FC\uFF65D\uFF65\u30EB\u30D5\u30A3</code></div><br><input type=\"text\">";
+result += "<div align=\"center\"><code>\u30E2\u30F3\u30AD\u30FC\uFF65D\uFF65\u30EB\u30D5\u30A3</code></div><br>";
 result += (0, stats_1.generateStats)();
+var content = (0, content_1.generateContent)();
+console.log(content.length);
 fs.writeFileSync("README.md", result);
 var currentTimestamp = new Date().toLocaleString("RU-ru", {
     day: "numeric",

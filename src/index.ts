@@ -2,11 +2,14 @@
 import { generateStats } from "./stats";
 import * as fs from "fs";
 import { spawnSync } from "child_process";
+import { generateContent } from "./content";
 
 let result = `<p align="center">неважно, возможно это или нет</p>`;
-result += `<p align="center">я это сделаю, потому что хочу сделать</p>`;
-result += `<div align="center"><code>モンキー･D･ルフィ</code></div><br><input type="text">`;
+result += `<div align="center"><code>モンキー･D･ルフィ</code></div><br>`;
 result += generateStats();
+
+const content = generateContent();
+console.log(content.length);
 fs.writeFileSync("README.md", result);
 const currentTimestamp = new Date().toLocaleString("RU-ru", {
   day: "numeric",
