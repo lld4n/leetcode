@@ -14,6 +14,7 @@
 ```  
 **Список решенных задач ✅**  
 
+[49](https://leetcode.com/problems/group-anagrams)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`6 февр. 24 г., 8:07`  
 [2928](https://leetcode.com/problems/distribute-candies-among-children-i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`5 февр. 24 г., 19:18`  
 [2937](https://leetcode.com/problems/make-three-strings-equal)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`5 февр. 24 г., 19:12`  
 [2942](https://leetcode.com/problems/find-words-containing-character)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`5 февр. 24 г., 19:05`  
