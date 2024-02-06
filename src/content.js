@@ -37,20 +37,26 @@ exports.generateContent = generateContent;
 function generateList(content) {
     var res = "<div align='center'>";
     var map = JSON.parse(fs.readFileSync("./src/map.json").toString());
+    var date = new Date(content[0].birth).toLocaleString("RU-ru", {
+        day: "numeric",
+        month: "short",
+        year: "2-digit",
+    });
     for (var _i = 0, content_1 = content; _i < content_1.length; _i++) {
         var item = content_1[_i];
+        var curDate = new Date(item.birth).toLocaleString("RU-ru", {
+            day: "numeric",
+            month: "short",
+            year: "2-digit",
+        });
+        if (curDate !== date) {
+            res += "<br>";
+            date = curDate;
+        }
         res += "<a href=\"https://leetcode.com/problems/".concat(map[item.id], "\">").concat(item.id, "</a><br>");
     }
     // for (const item of content) {
-    //   res += `[${item.id}]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\`${new Date(
-    //     item.birth,
-    //   ).toLocaleString("RU-ru", {
-    //     day: "numeric",
-    //     month: "short",
-    //     year: "2-digit",
-    //     hour: "numeric",
-    //     minute: "numeric",
-    //   })}\`  \n`;
+    //   res += `[${item.id}]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\`${)}\`  \n`;
     // }
     res += "</div>";
     return res;

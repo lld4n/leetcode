@@ -31,21 +31,27 @@ export function generateContent() {
 export function generateList(content: contentType[]) {
   let res = "<div align='center'>";
   const map = JSON.parse(fs.readFileSync("./src/map.json").toString());
+  let date = new Date(content[0].birth).toLocaleString("RU-ru", {
+    day: "numeric",
+    month: "short",
+    year: "2-digit",
+  });
   for (const item of content) {
+    const curDate = new Date(item.birth).toLocaleString("RU-ru", {
+      day: "numeric",
+      month: "short",
+      year: "2-digit",
+    });
+    if (curDate !== date) {
+      res += "<br>";
+      date = curDate;
+    }
     res += `<a href="https://leetcode.com/problems/${map[item.id]}">${
       item.id
     }</a><br>`;
   }
   // for (const item of content) {
-  //   res += `[${item.id}]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\`${new Date(
-  //     item.birth,
-  //   ).toLocaleString("RU-ru", {
-  //     day: "numeric",
-  //     month: "short",
-  //     year: "2-digit",
-  //     hour: "numeric",
-  //     minute: "numeric",
-  //   })}\`  \n`;
+  //   res += `[${item.id}]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\`${)}\`  \n`;
   // }
   res += "</div>";
   return res;
