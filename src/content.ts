@@ -40,8 +40,8 @@ export function generateList(content: contentType[]) {
   for (const item of content) {
     const curDate = new Date(item.birth).toLocaleString("RU-ru", {
       day: "numeric",
-      month: "short",
-      year: "2-digit",
+      month: "long",
+      year: "numeric",
     });
     if (curDate !== date) {
       res += `<br><code>${curDate}</code><br>`;
@@ -51,9 +51,6 @@ export function generateList(content: contentType[]) {
       item.id
     }</a><br>`;
   }
-  // for (const item of content) {
-  //   res += `[${item.id}]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\`${)}\`  \n`;
-  // }
   res += "</div>";
   return res;
 }
