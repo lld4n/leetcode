@@ -9,7 +9,7 @@ function generateStats() {
         var badge = _a[_i];
         res += "<img src=\"".concat(badge, "\" width=\"50\" height=\"50\">  ");
     }
-    res += "<br><br><img src=\"".concat(constants_1.stats.leetcode, "\"></div>");
+    res += "<br><br><img src=\"".concat(constants_1.stats.leetcode, "\"></div><br>");
     return res;
 }
 exports.generateStats = generateStats;
