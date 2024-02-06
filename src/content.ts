@@ -33,8 +33,8 @@ export function generateList(content: contentType[]) {
   const map = JSON.parse(fs.readFileSync("./src/map.json").toString());
   let date = new Date(content[0].birth).toLocaleString("RU-ru", {
     day: "numeric",
-    month: "short",
-    year: "2-digit",
+    month: "long",
+    year: "numeric",
   });
   res += `<code>${date}</code><br>`;
   for (const item of content) {

@@ -39,8 +39,8 @@ function generateList(content) {
     var map = JSON.parse(fs.readFileSync("./src/map.json").toString());
     var date = new Date(content[0].birth).toLocaleString("RU-ru", {
         day: "numeric",
-        month: "short",
-        year: "2-digit",
+        month: "long",
+        year: "numeric",
     });
     res += "<code>".concat(date, "</code><br>");
     for (var _i = 0, content_1 = content; _i < content_1.length; _i++) {
