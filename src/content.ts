@@ -34,7 +34,7 @@ export function generateList(content: contentType[]) {
   for (const item of content) {
     res += `<a href="https://leetcode.com/problems/${map[item.id]}">${
       item.id
-    }</a>`;
+    }</a><br>`;
   }
   // for (const item of content) {
   //   res += `[${item.id}]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\`${new Date(
