@@ -3,9 +3,9 @@ import { generateStats } from "./stats";
 import * as fs from "fs";
 import { spawnSync } from "child_process";
 
-let result = `<p align="center" style="font-size: 120px">неважно, возможно это или нет</p>`;
+let result = `<p align="center">неважно, возможно это или нет</p>`;
 result += `<p align="center">я это сделаю, потому что хочу сделать</p>`;
-result += `<div align="center"><code>モンキー･D･ルフィ</code></div>`;
+result += `<div align="center"><code>モンキー･D･ルフィ</code></div><br><input type="text">`;
 result += generateStats();
 fs.writeFileSync("README.md", result);
 const currentTimestamp = new Date().toLocaleString("RU-ru", {
