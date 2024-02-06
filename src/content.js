@@ -39,14 +39,19 @@ function generateList(content) {
     var map = JSON.parse(fs.readFileSync("./src/map.json").toString());
     for (var _i = 0, content_1 = content; _i < content_1.length; _i++) {
         var item = content_1[_i];
-        res += "[".concat(item.id, "](https://leetcode.com/problems/").concat(map[item.id], ")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`").concat(new Date(item.birth).toLocaleString("RU-ru", {
-            day: "numeric",
-            month: "short",
-            year: "2-digit",
-            hour: "numeric",
-            minute: "numeric",
-        }), "`  \n");
+        res += "<a href=\"https://leetcode.com/problems/".concat(map[item.id], "\">").concat(item.id, "</a>");
     }
+    // for (const item of content) {
+    //   res += `[${item.id}]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\`${new Date(
+    //     item.birth,
+    //   ).toLocaleString("RU-ru", {
+    //     day: "numeric",
+    //     month: "short",
+    //     year: "2-digit",
+    //     hour: "numeric",
+    //     minute: "numeric",
+    //   })}\`  \n`;
+    // }
     res += "</div>";
     return res;
 }
