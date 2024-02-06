@@ -1,6 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-// import { constants } from "./constants";
 var stats_1 = require("./stats");
 var fs = require("fs");
 var child_process_1 = require("child_process");
@@ -9,7 +8,7 @@ var result = "<p align=\"center\">\u043D\u0435\u0432\u0430\u0436\u043D\u043E, \u
 result += "<div align=\"center\"><code>\u30E2\u30F3\u30AD\u30FC\uFF65D\uFF65\u30EB\u30D5\u30A3</code></div><br>";
 result += (0, stats_1.generateStats)();
 var content = (0, content_1.generateContent)();
-console.log(content.length);
+result += (0, content_1.generateList)(content);
 fs.writeFileSync("README.md", result);
 var currentTimestamp = new Date().toLocaleString("RU-ru", {
     day: "numeric",

@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.generateContent = void 0;
+exports.generateList = exports.generateContent = void 0;
 var fs = require("fs");
 var constants_1 = require("./constants");
 var utils_1 = require("./utils");
@@ -34,3 +34,20 @@ function generateContent() {
     return content;
 }
 exports.generateContent = generateContent;
+function generateList(content) {
+    var res = "<div align='center'>";
+    var map = JSON.parse(fs.readFileSync("./src/map.json").toString());
+    for (var _i = 0, content_1 = content; _i < content_1.length; _i++) {
+        var item = content_1[_i];
+        res += "[".concat(item.id, "](https://leetcode.com/problems/").concat(map[item.id], ")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`").concat(new Date(item.birth).toLocaleString("RU-ru", {
+            day: "numeric",
+            month: "short",
+            year: "2-digit",
+            hour: "numeric",
+            minute: "numeric",
+        }), "`  \n");
+    }
+    res += "</div>";
+    return res;
+}
+exports.generateList = generateList;

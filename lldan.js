@@ -107,24 +107,3 @@ function findDuplicates(arr) {
   }
   return duplicates;
 }
-
-function generateList() {
-  let res = "";
-  res += "**Список решенных задач ✅**  \n\n";
-  const map = JSON.parse(fs.readFileSync("./map.json").toString());
-  for (const item of content) {
-    res += `[${item.id}](https://leetcode.com/problems/${
-      map[item.id]
-    })&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\`${new Date(item.birth).toLocaleString(
-      "RU-ru",
-      {
-        day: "numeric",
-        month: "short",
-        year: "2-digit",
-        hour: "numeric",
-        minute: "numeric",
-      },
-    )}\`  \n`;
-  }
-  return res;
-}
