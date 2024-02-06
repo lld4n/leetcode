@@ -4,11 +4,11 @@
   "main": "index.js",
   "author": "lldan",
   "license": "MIT",
-  "type": "module",
   "scripts": {
-    "deploy": "node lldan.js"
+    "deploy": "tsc src/index.ts && node src/index.js"
   },
   "devDependencies": {
+    "@types/node": "^20.11.16",
     "prettier": "3.0.3",
     "typescript": "^5.2.2"
   },
