@@ -13,7 +13,7 @@ const leetcode = new LeetCode();
 let result = "# Неважно, возможно ли это\n";
 result += await generateStats();
 const content = generateContent();
-result += generateRecords();
+result += generateRecords(content);
 result += generateList();
 pushReadme();
 
@@ -34,7 +34,7 @@ function pushReadme() {
   spawnSync("git", ["push"], { stdio: "inherit" });
 }
 
-function generateRecords() {
+function generateRecords(content) {
   let res = "";
   const DateToIds = {};
   for (const item of content) {
