@@ -42,7 +42,7 @@ function generateList(content) {
         month: "long",
         year: "numeric",
     });
-    res += "<tr><th colspan=\"2\"><code>".concat(date, "</code></th></tr>");
+    res += "<tr><th colspan=\"2\"><b>".concat(date, "</b></th></tr>");
     for (var _i = 0, content_1 = content; _i < content_1.length; _i++) {
         var item = content_1[_i];
         var curDate = new Date(item.birth).toLocaleString("RU-ru", {
@@ -55,10 +55,10 @@ function generateList(content) {
             minute: "2-digit",
         });
         if (curDate !== date) {
-            res += "<tr><th colspan=\"2\"><code>".concat(curDate, "</code></th></tr>");
+            res += "<tr><th colspan=\"2\"><b>".concat(curDate, "</b></th></tr>");
             date = curDate;
         }
-        res += "<tr><th><a href=\"https://leetcode.com/problems/".concat(map[item.id], "\">").concat(item.id, "</a></th><th><code>").concat(time, "</code></th></tr>");
+        res += "<tr><th><a href=\"https://leetcode.com/problems/".concat(map[item.id], "\">").concat(item.id, "</a></th><th><i>").concat(time, "</i></th></tr>");
     }
     res += "</tbody></table></div>";
     return res;
