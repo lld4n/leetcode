@@ -29,6 +29,9 @@ export function generateContent() {
 }
 
 export function generateList(content: contentType[]) {
+  const unique = content.map((e) => e.id);
+  if (new Set(unique).size !== unique.length)
+    console.log("ЕСТЬ ПОВТОРЯЮЩИЕСЯ ЗАДАЧИ");
   let res = "<div align='center'><table><tbody>";
   const map = JSON.parse(fs.readFileSync("./src/map.json").toString());
   let date = new Date(content[0].birth).toLocaleString("RU-ru", {
@@ -58,25 +61,3 @@ export function generateList(content: contentType[]) {
   res += "</tbody></table></div>";
   return res;
 }
-
-// <table>
-//   <thead>
-//     <tr>
-//       <th colspan="2"></th>
-//   </tr>
-//   </thead>
-//   <tbody>
-//   <tr>
-//     <td></td>
-//   <td></td>
-//   </tr>
-//   <tr>
-//   <td></td>
-//   <td></td>
-//   </tr>
-//   <tr>
-//   <td></td>
-//   <td></td>
-//   </tr>
-//   </tbody>
-//   </table>
