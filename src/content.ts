@@ -53,7 +53,7 @@ export function generateList(content: contentType[]) {
     }
     res += `<tr><th><a href="https://leetcode.com/problems/${map[item.id]}">${
       item.id
-    }</a></th><th><i>${time}</i></th></tr>`;
+    }</a></th><th><sub>${time}</sub></th></tr>`;
   }
   res += "</tbody></table></div>";
   return res;
