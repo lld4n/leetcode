@@ -8,11 +8,13 @@
     "deploy": "tsc src/index.ts && node src/index.js"
   },
   "devDependencies": {
+    "@types/lodash": "^4.14.202",
     "@types/node": "^20.11.16",
     "prettier": "3.0.3",
     "typescript": "^5.2.2"
   },
   "dependencies": {
-    "leetcode-query": "^0.2.7"
+    "leetcode-query": "^0.2.7",
+    "lodash": "^4.17.21"
   }
 }
