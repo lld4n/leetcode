@@ -43,13 +43,17 @@ export function generateList(content: contentType[]) {
       month: "long",
       year: "numeric",
     });
+    const time = new Date(item.birth).toLocaleString("RU-ru", {
+      hour: "numeric",
+      minute: "numeric",
+    });
     if (curDate !== date) {
       res += `<br><code>${curDate}</code><br>`;
       date = curDate;
     }
     res += `<a href="https://leetcode.com/problems/${map[item.id]}">${
       item.id
-    }</a><br>`;
+    }</a> <code>${time}</code><br>`;
   }
   res += "</div>";
   return res;

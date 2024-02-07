@@ -50,11 +50,15 @@ function generateList(content) {
             month: "long",
             year: "numeric",
         });
+        var time = new Date(item.birth).toLocaleString("RU-ru", {
+            hour: "numeric",
+            minute: "numeric",
+        });
         if (curDate !== date) {
             res += "<br><code>".concat(curDate, "</code><br>");
             date = curDate;
         }
-        res += "<a href=\"https://leetcode.com/problems/".concat(map[item.id], "\">").concat(item.id, "</a><br>");
+        res += "<a href=\"https://leetcode.com/problems/".concat(map[item.id], "\">").concat(item.id, "</a> <code>").concat(time, "</code><br>");
     }
     res += "</div>";
     return res;
