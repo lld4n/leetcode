@@ -58,7 +58,7 @@ function generateList(content) {
             res += "<br><code>".concat(curDate, "</code><br>");
             date = curDate;
         }
-        res += "<a href=\"https://leetcode.com/problems/".concat(map[item.id], "\">").concat(item.id, "</a>&nbsp;&nbsp;&nbsp;&nbsp;<code>").concat(time, "</code><br>");
+        res += "<a href=\"https://leetcode.com/problems/".concat(map[item.id], "\">").concat(item.id, "</a>&#09;<code>").concat(time, "</code><br>");
     }
     res += "</div>";
     return res;
