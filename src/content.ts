@@ -44,8 +44,8 @@ export function generateList(content: contentType[]) {
       year: "numeric",
     });
     const time = new Date(item.birth).toLocaleString("RU-ru", {
-      hour: "numeric",
-      minute: "numeric",
+      hour: "2-digit",
+      minute: "2-digit",
     });
     if (curDate !== date) {
       res += `<br><code>${curDate}</code><br>`;

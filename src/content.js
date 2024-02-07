@@ -51,8 +51,8 @@ function generateList(content) {
             year: "numeric",
         });
         var time = new Date(item.birth).toLocaleString("RU-ru", {
-            hour: "numeric",
-            minute: "numeric",
+            hour: "2-digit",
+            minute: "2-digit",
         });
         if (curDate !== date) {
             res += "<br><code>".concat(curDate, "</code><br>");
