@@ -53,7 +53,7 @@ export function generateList(content: contentType[]) {
     }
     res += `<a href="https://leetcode.com/problems/${map[item.id]}">${
       item.id
-    }</a> <code>${time}</code><br>`;
+    }</a>    <code>${time}</code><br>`;
   }
   res += "</div>";
   return res;
