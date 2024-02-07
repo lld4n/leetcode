@@ -29,14 +29,14 @@ export function generateContent() {
 }
 
 export function generateList(content: contentType[]) {
-  let res = "<div align='center'>";
+  let res = "<div align='center'><table><tbody>";
   const map = JSON.parse(fs.readFileSync("./src/map.json").toString());
   let date = new Date(content[0].birth).toLocaleString("RU-ru", {
     day: "numeric",
     month: "long",
     year: "numeric",
   });
-  res += `<code>${date}</code><br>`;
+  res += `<tr><th colspan="2"><code>${date}</code></th></tr>`;
   for (const item of content) {
     const curDate = new Date(item.birth).toLocaleString("RU-ru", {
       day: "numeric",
@@ -48,13 +48,35 @@ export function generateList(content: contentType[]) {
       minute: "2-digit",
     });
     if (curDate !== date) {
-      res += `<br><code>${curDate}</code><br>`;
+      res += `<tr><th colspan="2"><code>${curDate}</code></th></tr>`;
       date = curDate;
     }
-    res += `<a href="https://leetcode.com/problems/${map[item.id]}">${
+    res += `<tr><th><a href="https://leetcode.com/problems/${map[item.id]}">${
       item.id
-    }</a>&#09;<code>${time}</code><br>`;
+    }</a></th><th><code>${time}</code></th></tr>`;
   }
-  res += "</div>";
+  res += "</tbody></table></div>";
   return res;
 }
+
+// <table>
+//   <thead>
+//     <tr>
+//       <th colspan="2"></th>
+//   </tr>
+//   </thead>
+//   <tbody>
+//   <tr>
+//     <td></td>
+//   <td></td>
+//   </tr>
+//   <tr>
+//   <td></td>
+//   <td></td>
+//   </tr>
+//   <tr>
+//   <td></td>
+//   <td></td>
+//   </tr>
+//   </tbody>
+//   </table>

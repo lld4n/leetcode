@@ -35,14 +35,14 @@ function generateContent() {
 }
 exports.generateContent = generateContent;
 function generateList(content) {
-    var res = "<div align='center'>";
+    var res = "<div align='center'><table><tbody>";
     var map = JSON.parse(fs.readFileSync("./src/map.json").toString());
     var date = new Date(content[0].birth).toLocaleString("RU-ru", {
         day: "numeric",
         month: "long",
         year: "numeric",
     });
-    res += "<code>".concat(date, "</code><br>");
+    res += "<tr><th colspan=\"2\"><code>".concat(date, "</code></th></tr>");
     for (var _i = 0, content_1 = content; _i < content_1.length; _i++) {
         var item = content_1[_i];
         var curDate = new Date(item.birth).toLocaleString("RU-ru", {
@@ -55,12 +55,33 @@ function generateList(content) {
             minute: "2-digit",
         });
         if (curDate !== date) {
-            res += "<br><code>".concat(curDate, "</code><br>");
+            res += "<tr><th colspan=\"2\"><code>".concat(curDate, "</code></th></tr>");
             date = curDate;
         }
-        res += "<a href=\"https://leetcode.com/problems/".concat(map[item.id], "\">").concat(item.id, "</a>&#09;<code>").concat(time, "</code><br>");
+        res += "<tr><th><a href=\"https://leetcode.com/problems/".concat(map[item.id], "\">").concat(item.id, "</a></th><th><code>").concat(time, "</code></th></tr>");
     }
-    res += "</div>";
+    res += "</tbody></table></div>";
     return res;
 }
 exports.generateList = generateList;
+// <table>
+//   <thead>
+//     <tr>
+//       <th colspan="2"></th>
+//   </tr>
+//   </thead>
+//   <tbody>
+//   <tr>
+//     <td></td>
+//   <td></td>
+//   </tr>
+//   <tr>
+//   <td></td>
+//   <td></td>
+//   </tr>
+//   <tr>
+//   <td></td>
+//   <td></td>
+//   </tr>
+//   </tbody>
+//   </table>
