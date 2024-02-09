@@ -40,7 +40,7 @@ export function generateList(content: contentType[]) {
     const curDate = getColspanDate(content[i].birth);
     const time = getClock(content[i].birth);
     if (curDate !== date) {
-      res += `<tr><th colspan="2"><b>${curDate}</b></th></tr>`;
+      res += `<tr><th colspan="2"></th></tr><tr><th colspan="2"><b>${curDate}</b></th></tr>`;
       date = curDate;
     }
     res += `<tr><th><a href="https://leetcode.com/problems/${
