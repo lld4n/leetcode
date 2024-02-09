@@ -67,8 +67,9 @@ function getDiv(before, after) {
 }
 function getColspanDate(birth) {
     return new Date(birth).toLocaleString("RU-ru", {
-        hour: "2-digit",
-        minute: "2-digit",
+        day: "numeric",
+        month: "long",
+        year: "numeric",
     });
 }
 function getClock(birth) {
