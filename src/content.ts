@@ -54,8 +54,8 @@ export function generateList(content: contentType[]) {
     let div;
     if (i !== 0) {
       div = new Date(
-        new Date(content[i].birth).getTime() -
-          new Date(content[i - 1].birth).getTime(),
+        new Date(content[i - 1].birth).getTime() -
+          new Date(content[i].birth).getTime(),
       ).toLocaleString("RU-ru", {
         hour: "2-digit",
         minute: "2-digit",
