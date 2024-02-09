@@ -57,7 +57,7 @@ function getDiv(before: contentType, after: contentType) {
   const beforeTime = new Date(before.birth).getTime();
   const afterTime = new Date(after.birth).getTime();
 
-  return Math.floor(beforeTime - afterTime / 60000);
+  return Math.floor((beforeTime - afterTime) / 60000);
 }
 
 function getColspanDate(birth: number) {
