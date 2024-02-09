@@ -29,48 +29,46 @@ export function generateContent() {
 }
 
 export function generateList(content: contentType[]) {
-  const unique = content.map((e) => e.id);
-  if (new Set(unique).size !== unique.length)
-    console.log("ЕСТЬ ПОВТОРЯЮЩИЕСЯ ЗАДАЧИ");
+  const map = JSON.parse(fs.readFileSync("./src/map.json").toString());
+  let date = getColspanDate(content[0].birth);
+
+  console.log(getDiv(content[0], content[1]));
 
   let res = "<div align='center'><table><tbody>";
-  const map = JSON.parse(fs.readFileSync("./src/map.json").toString());
-  let date = new Date(content[0].birth).toLocaleString("RU-ru", {
-    day: "numeric",
-    month: "long",
-    year: "numeric",
-  });
   res += `<tr><th colspan="2"><b>${date}</b></th></tr>`;
   for (let i = 0; i < content.length; i++) {
-    const curDate = new Date(content[i].birth).toLocaleString("RU-ru", {
-      day: "numeric",
-      month: "long",
-      year: "numeric",
-    });
-    const time = new Date(content[i].birth).toLocaleString("RU-ru", {
-      hour: "2-digit",
-      minute: "2-digit",
-    });
-    let div;
-    if (i !== 0) {
-      div = new Date(
-        new Date(content[i - 1].birth).getTime() -
-          new Date(content[i].birth).getTime(),
-      ).toLocaleString("RU-ru", {
-        hour: "2-digit",
-        minute: "2-digit",
-      });
-    }
+    const curDate = getColspanDate(content[i].birth);
+    const time = getClock(content[i].birth);
+
     if (curDate !== date) {
       res += `<tr><th colspan="2"><b>${curDate}</b></th></tr>`;
       date = curDate;
     }
     res += `<tr><th><a href="https://leetcode.com/problems/${
       map[content[i].id]
-    }">${
-      content[i].id
-    }</a></th><th><sub>${time}</sub><sup>${div}</sup></th></tr>`;
+    }">${content[i].id}</a></th><th><sub>${time}</sub><sup></sup>`;
+    res += "</th></tr>";
   }
   res += "</tbody></table></div>";
   return res;
+}
+
+function getDiv(before: contentType, after: contentType) {
+  const beforeTime = new Date(before.birth).getTime();
+  const afterTime = new Date(after.birth).getTime();
+  return afterTime - beforeTime;
+}
+
+function getColspanDate(birth: number) {
+  return new Date(birth).toLocaleString("RU-ru", {
+    hour: "2-digit",
+    minute: "2-digit",
+  });
+}
+
+function getClock(birth: number) {
+  return new Date(birth).toLocaleString("RU-ru", {
+    hour: "2-digit",
+    minute: "2-digit",
+  });
 }
