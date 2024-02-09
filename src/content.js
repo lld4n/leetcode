@@ -60,7 +60,7 @@ function getDiv(before, after) {
     var beforeTime = new Date(before.birth).getTime();
     var afterTime = new Date(after.birth).getTime();
     var minute = Math.floor((beforeTime - afterTime) / 60000);
-    if (minute > 400) {
+    if (minute > 100) {
         return "";
     }
     return "+".concat(minute, "m");

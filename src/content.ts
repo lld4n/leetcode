@@ -59,7 +59,7 @@ function getDiv(before: contentType, after: contentType) {
   const beforeTime = new Date(before.birth).getTime();
   const afterTime = new Date(after.birth).getTime();
   const minute = Math.floor((beforeTime - afterTime) / 60000);
-  if (minute > 400) {
+  if (minute > 100) {
     return "";
   }
   return `+${minute}m`;
