@@ -43,12 +43,11 @@ function generateList(content) {
     for (var i = 0; i < content.length; i++) {
         var curDate = getColspanDate(content[i].birth);
         var time = getClock(content[i].birth);
-        var div = getDiv(content[i], content[i + 1]);
         if (curDate !== date) {
             res += "<tr><th colspan=\"2\"><b>".concat(curDate, "</b></th></tr>");
             date = curDate;
         }
-        res += "<tr><th><a href=\"https://leetcode.com/problems/".concat(map[content[i].id], "\">").concat(content[i].id, "</a></th><th><sub>").concat(time, "</sub><sup>").concat(div, "</sup></th></tr>");
+        res += "<tr><th><a href=\"https://leetcode.com/problems/".concat(map[content[i].id], "\">").concat(content[i].id, "</a></th><th><sub>").concat(time, "</sub></th></tr>");
     }
     res += "</tbody></table></div>";
     return res;

@@ -39,16 +39,13 @@ export function generateList(content: contentType[]) {
   for (let i = 0; i < content.length; i++) {
     const curDate = getColspanDate(content[i].birth);
     const time = getClock(content[i].birth);
-    const div = getDiv(content[i], content[i + 1]);
     if (curDate !== date) {
       res += `<tr><th colspan="2"><b>${curDate}</b></th></tr>`;
       date = curDate;
     }
     res += `<tr><th><a href="https://leetcode.com/problems/${
       map[content[i].id]
-    }">${
-      content[i].id
-    }</a></th><th><sub>${time}</sub><sup>${div}</sup></th></tr>`;
+    }">${content[i].id}</a></th><th><sub>${time}</sub></th></tr>`;
   }
   res += "</tbody></table></div>";
   return res;
