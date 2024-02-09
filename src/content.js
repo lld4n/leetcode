@@ -57,7 +57,7 @@ exports.generateList = generateList;
 function getDiv(before, after) {
     var beforeTime = new Date(before.birth).getTime();
     var afterTime = new Date(after.birth).getTime();
-    return afterTime - beforeTime;
+    return beforeTime - afterTime;
 }
 function getColspanDate(birth) {
     return new Date(birth).toLocaleString("RU-ru", {
