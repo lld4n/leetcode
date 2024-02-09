@@ -56,7 +56,8 @@ export function generateList(content: contentType[]) {
 function getDiv(before: contentType, after: contentType) {
   const beforeTime = new Date(before.birth).getTime();
   const afterTime = new Date(after.birth).getTime();
-  return beforeTime - afterTime;
+
+  return Math.floor(beforeTime - afterTime / 60000);
 }
 
 function getColspanDate(birth: number) {
