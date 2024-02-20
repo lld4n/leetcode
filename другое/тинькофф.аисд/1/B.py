@@ -3,25 +3,28 @@ arr = list(map(int, input().split()))
 questions = list(map(int, input().split()))
 
 
-def binary_search(lst, target):
-    low = 0
-    high = len(lst) - 1
-
-    while low <= high:
-        mid = (low + high) // 2
-        if lst[mid] == target:
-            return target
-        elif lst[mid] < target:
-            low = mid + 1
+def closest_element(a, x):
+    left = 0
+    right = len(a) - 1
+    while left <= right:
+        mid = (left + right) // 2
+        if a[mid] == x:
+            return a[mid]
+        elif a[mid] < x:
+            left = mid + 1
         else:
-            high = mid - 1
-    if abs(lst[low] - target) < abs(lst[high] - target):
-        return lst[low]
-    elif abs(lst[low] - target) > abs(lst[high] - target):
-        return lst[high]
+            right = mid - 1
+
+    if right < 0:
+        return a[left]
+    if left >= len(a):
+        return a[right]
+
+    if abs(a[left] - x) < abs(a[right] - x):
+        return a[left]
     else:
-        return min(lst[low], lst[high])
+        return a[right]
 
 
 for q in questions:
-    print(binary_search(arr, q))
+    print(closest_element(arr, q))
