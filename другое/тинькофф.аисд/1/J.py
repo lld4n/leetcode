@@ -1,73 +1,120 @@
-n = int(input())
+import math
+
+ln = int(input())
 
 arr = []
 
-for _ in range(n):
+for _ in range(ln):
     line = input().strip()
     arr.append(list(map(int, line.split())))
 
 
-def solve_quadratic_equation(A, B, C):
-    discriminant = B * B - 4 * A * C
-    if discriminant < 0:
-        return None
-    else:
-        x1 = (-B + discriminant ** 0.5) // (2 * A)
-        x2 = (-B - discriminant ** 0.5) // (2 * A)
-        if x1 <= 0 and x2 <= 0:
-            return None
-        elif x1 <= 0:
-            return [x2]
-        elif x2 <= 0:
-            return [x1]
+def L(n, m, k):
+    return (((n - 1) * m * n + (k + 1) * n) * k) / 2
+
+
+def R(n, m, k):
+    return (((n - 1) * m * n + (k + 1 + m) * n) * (m - k)) / 2
+
+
+def U(n, m, k):
+    return ((k * m ** 2 + m) * k) / 2
+
+
+def D(n, m, k):
+    return (((k + n) * m ** 2 + m) * (n - k)) / 2
+
+
+def horizontal(n, m):
+    def binary():
+        low = 1
+        high = n
+        while low <= high:
+            mid = (low + high) // 2
+            if U(n, m, mid) <= D(n, m, mid):
+                low = mid + 1
+            else:
+                high = mid - 1
+        return low - 1
+
+    roots = findRoots(2 * m ** 2, 2 * m, -(n ** 2 * m ** 2) - n * m)
+    if len(roots) == 1 and roots[0] < n:
+        k = int(roots[0])
+        div1 = abs(D(n, m, k) - U(n, m, k))
+        div2 = abs(U(n, m, k + 1) - D(n, m, k + 1))
+        if div1 < div2:
+            return [k, div1]
         else:
-            return [x1, x2]
+            return [k + 1, div2]
+    else:
+        k = binary()
+        div1 = abs(D(n, m, k) - U(n, m, k))
+        div2 = abs(U(n, m, k + 1) - D(n, m, k + 1))
+        if div1 < div2:
+            return [k, div1]
+        else:
+            return [k + 1, div2]
+
+
+def vertical(n, m):
+    def binary():
+        low = 1
+        high = m
+        while low <= high:
+            mid = (low + high) // 2
+            if L(n, m, mid) <= R(n, m, mid):
+                low = mid + 1
+            else:
+                high = mid - 1
+        return low - 1
+
+    roots = findRoots(-2 * n, 2 * m * n - 2 * m * n ** 2 - 2 * n, m ** 2 * n ** 2 + m * n)
+    if len(roots) == 1 and roots[0] < m:
+        k = int(roots[0])
+        div1 = abs(L(n, m, k) - R(n, m, k))
+        div2 = abs(L(n, m, k + 1) - R(n, m, k + 1))
+        if div1 < div2:
+            return [k, div1]
+        else:
+            return [k + 1, div2]
+    else:
+        k = binary()
+        div1 = abs(L(n, m, k) - R(n, m, k))
+        div2 = abs(L(n, m, k + 1) - R(n, m, k + 1))
+        if div1 < div2:
+            return [k, div1]
+        else:
+            return [k + 1, div2]
+
+
+def findRoots(A, B, C):
+    discriminant = B ** 2 - 4 * A * C
+    if discriminant > 0:
+        root1 = (-B + math.sqrt(discriminant)) / (2 * A)
+        root2 = (-B - math.sqrt(discriminant)) / (2 * A)
+        if root1 < 0 and root2 < 0:
+            return []
+        elif root1 < 0:
+            return [root2]
+        elif root2 < 0:
+            return [root1]
+        else:
+            return [root1, root2]
+    elif discriminant == 0:
+        root = -B / (2 * A)
+        if root < 0:
+            return []
+        else:
+            return [root]
+    else:
+        return []
 
 
 for item in arr:
     n, m = item
-    if n == 1:
-        best = 0
-        div = float('inf')
-        S = (m * (m + 1)) // 2
-        avg = S // 2
-        for i in range(m - 1, 0, -1):
-            b = (i * (i + 1)) // 2
-            db = abs(avg - b)
-            if db < div:
-                div = db
-                best = i
-            else:
-                break
-        print("V", best + 1)
-    elif m == 1:
-        best = 0
-        div = float('inf')
-        S = (n * (n + 1)) // 2
-        avg = S // 2
-        for i in range(n - 1, 0, -1):
-            b = (i * (i + 1)) // 2
-            db = abs(avg - b)
-            if db < div:
-                div = db
-                best = i
-            else:
-                break
-        print("H", best + 1)
+    vert = vertical(n, m)
+    hor = horizontal(n, m)
+    if vert[1] < hor[1]:
+        print("V", vert[0] + 1)
     else:
-        S = (m * n * (m * n + 1)) // 2
-        sigma = sum(1 + m * i for i in range(n))
-        x = ((0.5 * S) + n) // (sigma + n)
-        value_x = x * (sigma + n) - n
-        div_x = S - 2 * value_x
-        ans_y = solve_quadratic_equation(m ** 2, m, -S)
-        if ans_y is None:
-            print("V", int(x + 1))
-        elif len(ans_y) == 1:
-            y = ans_y[0]
-            value_y = ((y * m) * (y * m + 1)) // 2
-            div_y = S - 2 * value_y
-            if div_x < div_y:
-                print("V", int(x + 1))
-            else:
-                print("H", int(y + 1))
+        print("H", hor[0] + 1)

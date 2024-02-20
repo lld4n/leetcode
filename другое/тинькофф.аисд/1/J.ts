@@ -1,4 +1,4 @@
-const n = 5;
+const count = 5;
 const arr: [number, number][] = [
   [1, 3],
   [4, 7],
@@ -9,85 +9,131 @@ const arr: [number, number][] = [
   [10, 1],
 ];
 
-for (const item of arr) {
-  console.log("Item", item);
-  const [n, m] = item;
-  if (n === 1) {
-    let best = 0;
-    let div = Infinity;
-    const S = (m * (m + 1)) / 2;
-    const avg = Math.floor(S / 2);
-    for (let i = m - 1; i >= 1; i--) {
-      const b = (i * (i + 1)) / 2;
-      const db = Math.abs(avg - b);
-      if (db < div) {
-        div = db;
-        best = i;
+function L(n: number, m: number, k: number) {
+  return (((n - 1) * m * n + (k + 1) * n) * k) / 2;
+}
+function R(n: number, m: number, k: number) {
+  return (((n - 1) * m * n + (k + 1 + m) * n) * (m - k)) / 2;
+}
+
+function U(n: number, m: number, k: number) {
+  return ((k * m ** 2 + m) * k) / 2;
+}
+
+function D(n: number, m: number, k: number) {
+  return (((k + n) * m ** 2 + m) * (n - k)) / 2;
+}
+
+function horizontal(n: number, m: number) {
+  const binary = () => {
+    let low = 1;
+    let high = n;
+    while (low <= high) {
+      const mid = Math.floor((low + high) / 2);
+      if (U(n, m, mid) <= D(n, m, mid)) {
+        low = mid + 1;
       } else {
-        break;
+        high = mid - 1;
       }
     }
-    console.log("V " + String(best + 1));
-  } else if (m === 1) {
-    let best = 0;
-    let div = Infinity;
-    const S = (n * (n + 1)) / 2;
-    const avg = Math.floor(S / 2);
-    for (let i = n - 1; i >= 1; i--) {
-      const b = (i * (i + 1)) / 2;
-      const db = Math.abs(avg - b);
-      if (db < div) {
-        div = db;
-        best = i;
-      } else {
-        break;
-      }
+    return low - 1;
+  };
+  const roots = findRoots(2 * m ** 2, 2 * m, -(n ** 2 * m ** 2) - n * m);
+  if (roots.length === 1) {
+    const k = Math.ceil(roots[0]);
+    const div1 = Math.abs(D(n, m, k) - U(n, m, k));
+    const div2 = Math.abs(U(n, m, k + 1) - D(n, m, k + 1));
+    if (div1 < div2) {
+      return [k, div1];
+    } else {
+      return [k + 1, div2];
     }
-    console.log("H " + String(best + 1));
   } else {
-    const S = (m * n * (m * n + 1)) / 2;
-    let sigma = 0;
-    for (let i = 0; i < n; i++) {
-      sigma += 1 + m * i;
-    }
-    const x = Math.floor((0.5 * S + n) / (sigma + n));
-    const valueX = x * (sigma + n) - n;
-    const divX = S - 2 * valueX;
-    const ansY = solveQuadraticEquation(m ** 2, m, -S);
-    if (ansY === null) {
-      console.log("V " + String(x + 1));
-    } else if (ansY.length === 1) {
-      const y = ansY[0];
-      const valueY = Math.floor((y * m * (y * m + 1)) / 2);
-      const divY = S - 2 * valueY;
-      if (divX < divY) {
-        console.log("V " + String(x + 1));
-      } else {
-        console.log("H " + String(y + 1));
-      }
+    const k = binary();
+    const div1 = Math.abs(D(n, m, k) - U(n, m, k));
+    const div2 = Math.abs(U(n, m, k + 1) - D(n, m, k + 1));
+    if (div1 < div2) {
+      return [k, div1];
+    } else {
+      return [k + 1, div2];
     }
   }
 }
 
-function solveQuadraticEquation(
-  A: number,
-  B: number,
-  C: number,
-): number[] | null {
-  const discriminant = B * B - 4 * A * C;
-  if (discriminant < 0) {
-    return null;
-  } else {
-    const x1 = Math.floor((-B + Math.sqrt(discriminant)) / (2 * A));
-    const x2 = Math.floor((-B - Math.sqrt(discriminant)) / (2 * A));
-    if (x1 <= 0 && x2 <= 0) {
-      return null;
-    } else if (x1 <= 0) {
-      return [x2];
-    } else if (x2 <= 0) {
-      return [x1];
-    } else {
-      return [x1, x2];
+function vertical(n: number, m: number) {
+  const binary = () => {
+    let low = 1;
+    let high = m;
+    while (low <= high) {
+      const mid = Math.floor((low + high) / 2);
+      if (L(n, m, mid) <= R(n, m, mid)) {
+        low = mid + 1;
+      } else {
+        high = mid - 1;
+      }
     }
+    return low - 1;
+  };
+
+  const roots = findRoots(
+    -2 * n,
+    2 * m * n - 2 * m * n ** 2 - 2 * n,
+    m ** 2 * n ** 2 + m * n,
+  );
+  if (roots.length === 1) {
+    const k = Math.ceil(roots[0]);
+    const div1 = Math.abs(L(n, m, k) - R(n, m, k));
+    const div2 = Math.abs(L(n, m, k + 1) - R(n, m, k + 1));
+    if (div1 < div2) {
+      return [k, div1];
+    } else {
+      return [k + 1, div2];
+    }
+  } else {
+    const k = binary();
+    const div1 = Math.abs(L(n, m, k) - R(n, m, k));
+    const div2 = Math.abs(L(n, m, k + 1) - R(n, m, k + 1));
+    if (div1 < div2) {
+      return [k, div1];
+    } else {
+      return [k + 1, div2];
+    }
+  }
+}
+
+for (const item of arr) {
+  const [n, m] = item;
+  const vert = vertical(n, m);
+  const hor = horizontal(n, m);
+  if (vert[1] < hor[1]) {
+    console.log("V " + String(vert[0] + 1));
+  } else {
+    console.log("H " + String(hor[0] + 1));
+  }
+}
+
+function findRoots(A: number, B: number, C: number): number[] {
+  const discriminant = B * B - 4 * A * C;
+  if (discriminant > 0) {
+    const root1 = (-B + Math.sqrt(discriminant)) / (2 * A);
+    const root2 = (-B - Math.sqrt(discriminant)) / (2 * A);
+    if (root1 < 0 && root2 < 0) {
+      return [];
+    } else if (root1 < 0) {
+      return [root2];
+    } else if (root2 < 0) {
+      return [root1];
+    } else {
+      return [root1, root2];
+    }
+  } else if (discriminant === 0) {
+    const root = -B / (2 * A);
+    if (root < 0) {
+      return [];
+    } else {
+      return [root];
+    }
+  } else {
+    return [];
   }
 }
