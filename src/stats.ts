@@ -6,6 +6,7 @@ export function generateStats() {
   for (const c of stats.com) {
     res += `<img src="${c}" width="50" height="50">  `;
   }
+  res += "<br>";
   for (const badge of stats.badges) {
     res += `<img src="${badge}" width="50" height="50">  `;
   }

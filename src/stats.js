@@ -9,6 +9,7 @@ function generateStats() {
         var c = _a[_i];
         res += "<img src=\"".concat(c, "\" width=\"50\" height=\"50\">  ");
     }
+    res += "<br>";
     for (var _b = 0, _c = constants_1.stats.badges; _b < _c.length; _b++) {
         var badge = _c[_b];
         res += "<img src=\"".concat(badge, "\" width=\"50\" height=\"50\">  ");
