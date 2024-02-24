@@ -5,7 +5,7 @@
   "author": "lldan",
   "license": "MIT",
   "scripts": {
-    "deploy": "tsc src/index.ts && node src/index.js"
+    "deploy": "tsc && node dist/index.js"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.202",
