@@ -1,17 +1,30 @@
+import sys
 from collections import deque
 
-n = int(input())
+n = int(sys.stdin.readline())
+
 stack = deque()
+m = [0] * 100001
+rem = 0
+
+ans = []
 
 for _ in range(n):
-    item = input().split()
-    if item[0] == '1':
-        stack.append(int(item[1]))
-    elif item[0] == '2':
+    line = sys.stdin.readline().split()
+    if line[0] == '1':
+        item = int(line[1])
+        m[item] = len(stack) + rem
+        stack.append(item)
+    elif line[0] == '2':
         stack.popleft()
-    elif item[0] == '3':
+        rem += 1
+    elif line[0] == '3':
         stack.pop()
-    elif item[0] == '4':
-        print(stack.index(int(item[1])))
+    elif line[0] == '4':
+        item = int(line[1])
+        ans.append(m[item] - rem)
     else:
-        print(stack[0])
+        ans.append(stack[0])
+
+for i in range(len(ans)):
+    sys.stdout.write(str(ans[i]) + '\n')
