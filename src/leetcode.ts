@@ -1,5 +1,5 @@
 import LeetCode from "leetcode-query";
-import { _complete } from "./utils";
+import { _complete, _strip } from "./utils";
 
 export async function getLeetcode() {
   const stats = await _get();
@@ -7,11 +7,11 @@ export async function getLeetcode() {
   result += "```text\n";
   for (const key in stats) {
     result += _complete(key);
-    result += _complete(String(stats[key][0]));
-
+    result += _complete(String(stats[key][0]) + " tasks");
+    result += _strip(stats[key][0], stats[key][1]);
     result += "\n";
   }
-  result += "\n```\n\n";
+  result += "```\n\n";
   return result;
 }
 

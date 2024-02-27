@@ -13,3 +13,5 @@ export const _secondary_badges = [
 ];
 
 export const _len = 25;
+
+export const _len_strip = 30;
