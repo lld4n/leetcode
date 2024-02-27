@@ -17,7 +17,7 @@ export function generateMap() {
   return map;
 }
 export function generateMapRes(map: contentType) {
-  let res = "\n\n\n```text\nStats\n";
+  let res = "**Stats**\n\n\n```text\n";
   const maxLenKey =
     Math.max(...Object.keys(map).map((e) => e.length)) + 10;
   const maxLenValue =
