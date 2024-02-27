@@ -30,3 +30,5 @@ export const _emojis = {
   // Medium: "🌚",
   // Hard: "🫡",
 };
+
+export const _size = 50;
