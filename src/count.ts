@@ -17,7 +17,7 @@ export function generateMap() {
   return map;
 }
 export function generateMapRes(map: contentType) {
-  let res = "</div>\n```text\n";
+  let res = "\n\n\n```text\n";
   const maxLenKey =
     Math.max(...Object.keys(map).map((e) => e.length)) + 20;
   const maxLenValue =
@@ -57,6 +57,6 @@ export function generateMapRes(map: contentType) {
     p += "  " + String(percentage) + " %";
     res += name + count + p + "\n";
   }
-  res += `\`\`\`\n<div align="center">`;
+  res += "```\n\n\n";
   return res;
 }

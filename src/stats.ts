@@ -10,6 +10,6 @@ export function generateStats() {
   for (const badge of stats.badges) {
     res += `<img src="${badge}" width="50" height="50">  `;
   }
-  res += `<br><br><img src="${stats.leetcode}"></div><br>`;
+  res += `<br><br><img src="${stats.leetcode}"></div>`;
   return res;
 }
