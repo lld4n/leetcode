@@ -8,6 +8,8 @@ export async function getLeetcode() {
   for (const key in stats) {
     result += _complete(key);
     result += _complete(String(stats[key][0]));
+
+    result += "\n";
   }
   result += "\n```\n\n";
   return result;

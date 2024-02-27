@@ -7,6 +7,10 @@
 
 🔥 **LeetCode Stats**
 ```text
-All                      550                      Easy                     407                      Medium                   117                      Hard                     26                       
+All                      550                      
+Easy                     407                      
+Medium                   117                      
+Hard                     26                       
+
 ```
 
