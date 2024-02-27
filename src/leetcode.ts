@@ -1,5 +1,5 @@
 import LeetCode from "leetcode-query";
-import { _complete, _get_emoji, _strip } from "./utils";
+import { _complete, _get_emoji, _percentage, _strip } from "./utils";
 
 export async function getLeetcode() {
   const stats = await _get();
@@ -9,6 +9,7 @@ export async function getLeetcode() {
     result += _complete(_get_emoji(key) + " " + key);
     result += _complete(String(stats[key][0]) + " tasks");
     result += _strip(stats[key][0], stats[key][1]);
+    result += _complete(_percentage(stats[key][0], stats[key][1]));
     result += "\n";
   }
   result += "```\n\n";

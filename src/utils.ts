@@ -1,4 +1,4 @@
-import { _len, _len_strip } from "./constants";
+import { _emojis, _len, _len_strip } from "./constants";
 
 export function _complete(str: string) {
   while (str.length < _len) {
@@ -23,13 +23,16 @@ export function _strip(up: number, down: number) {
 }
 
 export function _get_emoji(dif: string): string {
-  if (dif === "All") {
-    return "🥺";
-  } else if (dif === "Easy") {
-    return "😁";
-  } else if (dif === "Medium") {
-    return "🌚";
-  } else {
-    return "🫡";
+  if (_emojis[dif]) {
+    return _emojis[dif];
   }
+  return "";
+}
+
+export function _percentage(up: number, down: number) {
+  let value = String((up / down).toFixed(2));
+  while (value.length !== 5) {
+    value = "0" + value;
+  }
+  return value + " %";
 }

@@ -15,3 +15,10 @@ export const _secondary_badges = [
 export const _len = 20;
 
 export const _len_strip = 25;
+
+export const _emojis = {
+  All: "🥺",
+  Easy: "😁",
+  Medium: "🌚",
+  Hard: "🫡",
+};
