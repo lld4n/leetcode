@@ -44,7 +44,7 @@ function printRecordDay(tsks: tType[]) {
   const list = Object.entries(map)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 5);
-  let result = "✅ **Day Stats**\n";
+  let result = "✅ **Day Stats** (monthly interest)\n";
   result += "```text\n";
   for (const [key, count] of list) {
     result += _complete(_get_emoji(key) + " " + key);
