@@ -18,7 +18,7 @@ export function getTasks() {
   const tsks = _get();
   let result = "";
   result += printMonth(tsks);
-  printRecordDay(tsks);
+  result += printRecordDay(tsks);
   return result;
 }
 
@@ -28,15 +28,16 @@ function printRecordDay(tsks: tType[]) {
     const cur = _time(item.birth);
     map[cur] = map[cur] ? map[cur] + 1 : 1;
   }
-  console.log(map);
-  return;
-  let result = "👊 **Months Stats**\n";
+  const list = Object.entries(map)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 5);
+  let result = "✅ **Day Stats**\n";
   result += "```text\n";
-  for (const key in map) {
+  for (const [key, count] of list) {
     result += _complete(_get_emoji(key) + " " + key);
-    result += _complete(String(map[key]) + " tasks");
-    result += _strip(map[key], tsks.length) + " ";
-    result += _complete(_percentage(map[key], tsks.length));
+    result += _complete(String(count) + " tasks");
+    result += _strip(count, tsks.length) + " ";
+    result += _complete(_percentage(count, tsks.length));
     result += "\n";
   }
   result += "```\n\n";
