@@ -5,7 +5,11 @@ export async function getWaka() {
   const mins = await _getWaka();
 
   let result = "**Time Stats**\n\n```text\n";
-  result += "wakatime          ";
+  let b = "wakatime";
+  while (b.length < 30) {
+    b += " ";
+  }
+  result += b;
   result += mins;
   result += "\n```\n\n";
   return result;
