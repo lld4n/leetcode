@@ -3,6 +3,6 @@
 **Time Stats**
 
 ```text
-wakatime                      8254 mins
+wakatime                 8254 mins                137 hrs 34 mins          
 ```
 

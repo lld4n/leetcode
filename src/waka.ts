@@ -1,16 +1,19 @@
 import axios from "axios";
-import { _waka } from "./constants";
+import { _len, _waka } from "./constants";
+import { _complete } from "./utils";
 
 export async function getWaka() {
   const mins = await _getWaka();
 
   let result = "**Time Stats**\n\n```text\n";
-  let b = "wakatime";
-  while (b.length < 30) {
-    b += " ";
-  }
-  result += b;
-  result += mins;
+  result += _complete("wakatime");
+  result += _complete(String(mins) + " mins");
+  result += _complete(
+    String(Math.floor(mins / 60)) +
+      " hrs " +
+      String(mins % 60) +
+      " mins",
+  );
   result += "\n```\n\n";
   return result;
 }
@@ -21,6 +24,5 @@ async function _getWaka() {
     .match(/\d+/g)
     .map(Number);
 
-  const minutes = String(svg[0] * 60 + svg[1]) + " mins";
-  return minutes;
+  return svg[0] * 60 + svg[1];
 }
