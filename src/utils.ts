@@ -36,3 +36,16 @@ export function _percentage(up: number, down: number) {
   }
   return value + " %";
 }
+
+export function _time(unixTime: number): string {
+  const date = new Date(unixTime);
+  const day = date.getDate().toString().padStart(2, "0");
+  const month = (date.getMonth() + 1).toString().padStart(2, "0");
+  const year = date
+    .getFullYear()
+    .toString()
+    .slice(-2)
+    .padStart(2, "0");
+
+  return `${day}-${month}-${year}`;
+}

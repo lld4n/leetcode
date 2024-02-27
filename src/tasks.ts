@@ -1,6 +1,12 @@
 import { _folders } from "./constants";
 import * as fs from "fs";
-import { _complete, _get_emoji, _percentage, _strip } from "./utils";
+import {
+  _complete,
+  _get_emoji,
+  _percentage,
+  _strip,
+  _time,
+} from "./utils";
 type tType = {
   birth: number;
   path: string;
@@ -19,11 +25,7 @@ export function getTasks() {
 function printRecordDay(tsks: tType[]) {
   const map: { [key: string]: number } = {};
   for (const item of tsks) {
-    const cur = new Date(item.birth).toLocaleString("EN-en", {
-      day: "numeric",
-      month: "short",
-      year: "2-digit",
-    });
+    const cur = _time(item.birth);
     map[cur] = map[cur] ? map[cur] + 1 : 1;
   }
   console.log(map);
