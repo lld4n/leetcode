@@ -1,12 +1,12 @@
 import axios from "axios";
 import { _len, _waka } from "./constants";
-import { _complete } from "./utils";
+import { _complete, _get_emoji } from "./utils";
 
 export async function getWaka() {
   const mins = await _get();
   let result = "⏱️ **Time Stats**\n";
   result += "```text\n";
-  result += _complete("✨ wakatime");
+  result += _complete(_get_emoji("wakatime") + " wakatime");
   result += _complete(String(mins) + " mins");
   result += _complete(
     String(Math.floor(mins / 60)) +
