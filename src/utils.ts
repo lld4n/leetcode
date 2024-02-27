@@ -19,7 +19,7 @@ export function _strip(up: number, down: number) {
     }
     i++;
   }
-  return result;
+  return result + " ";
 }
 
 export function _get_emoji(dif: string): string {
