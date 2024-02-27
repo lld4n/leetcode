@@ -12,6 +12,6 @@ export const _secondary_badges = [
   "https://leetcode.com/static/images/badges/dcc-2023-11.png",
 ];
 
-export const _len = 25;
+export const _len = 20;
 
-export const _len_strip = 30;
+export const _len_strip = 25;
