@@ -21,3 +21,15 @@ export function _strip(up: number, down: number) {
   }
   return result;
 }
+
+export function _get_emoji(dif: string): string {
+  if (dif === "All") {
+    return "🥺";
+  } else if (dif === "Easy") {
+    return "😁";
+  } else if (dif === "Medium") {
+    return "🌚";
+  } else {
+    return "🫡";
+  }
+}

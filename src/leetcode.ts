@@ -1,12 +1,12 @@
 import LeetCode from "leetcode-query";
-import { _complete, _strip } from "./utils";
+import { _complete, _get_emoji, _strip } from "./utils";
 
 export async function getLeetcode() {
   const stats = await _get();
   let result = "🔥 **LeetCode Stats**\n";
   result += "```text\n";
   for (const key in stats) {
-    result += _complete(key);
+    result += _complete(_get_emoji(key) + " " + key);
     result += _complete(String(stats[key][0]) + " tasks");
     result += _strip(stats[key][0], stats[key][1]);
     result += "\n";
