@@ -24,7 +24,7 @@ function printRecordDay(tsks: tType[]) {
       month: "short",
       year: "2-digit",
     });
-    map[cur] = map[cur] ? map[cur] + 1 : map[cur];
+    map[cur] = map[cur] ? map[cur] + 1 : 1;
   }
   console.log(map);
   return;
