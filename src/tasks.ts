@@ -12,6 +12,32 @@ export function getTasks() {
   const tsks = _get();
   let result = "";
   result += printMonth(tsks);
+  printRecordDay(tsks);
+  return result;
+}
+
+function printRecordDay(tsks: tType[]) {
+  const map: { [key: string]: number } = {};
+  for (const item of tsks) {
+    const cur = new Date(item.birth).toLocaleString("EN-en", {
+      day: "numeric",
+      month: "short",
+      year: "2-digit",
+    });
+    map[cur] = map[cur] ? map[cur] + 1 : map[cur];
+  }
+  console.log(map);
+  return;
+  let result = "👊 **Months Stats**\n";
+  result += "```text\n";
+  for (const key in map) {
+    result += _complete(_get_emoji(key) + " " + key);
+    result += _complete(String(map[key]) + " tasks");
+    result += _strip(map[key], tsks.length) + " ";
+    result += _complete(_percentage(map[key], tsks.length));
+    result += "\n";
+  }
+  result += "```\n\n";
   return result;
 }
 
@@ -20,10 +46,8 @@ function printMonth(tsks: tType[]) {
   for (const folder of _folders) {
     map[folder] = 0;
   }
-  let count = 0;
   for (const item of tsks) {
     map[item.month]++;
-    count++;
   }
 
   let result = "👊 **Months Stats**\n";
@@ -31,8 +55,8 @@ function printMonth(tsks: tType[]) {
   for (const key in map) {
     result += _complete(_get_emoji(key) + " " + key);
     result += _complete(String(map[key]) + " tasks");
-    result += _strip(map[key], count) + " ";
-    result += _complete(_percentage(map[key], count));
+    result += _strip(map[key], tsks.length) + " ";
+    result += _complete(_percentage(map[key], tsks.length));
     result += "\n";
   }
   result += "```\n\n";
