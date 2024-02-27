@@ -29,7 +29,9 @@ export function generateContent() {
 }
 
 export function generateList(content: contentType[]) {
-  const map = JSON.parse(fs.readFileSync("./src/map.json").toString());
+  const map = JSON.parse(
+    fs.readFileSync("./src/map.json").toString(),
+  );
   let date = getColspanDate(content[0].birth);
 
   console.log(getDiv(content[0], content[1]));
