@@ -21,11 +21,24 @@ export function getTasks() {
   result += printRecordDay(tsks);
   return result;
 }
+function getMapMonth(tsks) {
+  const month: { [key: string]: number } = {};
+  for (const folder of _folders) {
+    month[folder] = 0;
+  }
+  for (const item of tsks) {
+    month[item.month]++;
+  }
 
+  return month;
+}
 function printRecordDay(tsks: tType[]) {
+  const month = getMapMonth(tsks);
+  const q: { [key: string]: string } = {};
   const map: { [key: string]: number } = {};
   for (const item of tsks) {
     const cur = _time(item.birth);
+    q[cur] = item.month;
     map[cur] = map[cur] ? map[cur] + 1 : 1;
   }
   const list = Object.entries(map)
@@ -36,8 +49,8 @@ function printRecordDay(tsks: tType[]) {
   for (const [key, count] of list) {
     result += _complete(_get_emoji(key) + " " + key);
     result += _complete(String(count) + " tasks");
-    result += _strip(count, tsks.length) + " ";
-    result += _complete(_percentage(count, tsks.length));
+    result += _strip(count, month[q[key]]) + " ";
+    result += _complete(_percentage(count, month[q[key]]));
     result += "\n";
   }
   result += "```\n\n";
@@ -45,13 +58,7 @@ function printRecordDay(tsks: tType[]) {
 }
 
 function printMonth(tsks: tType[]) {
-  const map: { [key: string]: number } = {};
-  for (const folder of _folders) {
-    map[folder] = 0;
-  }
-  for (const item of tsks) {
-    map[item.month]++;
-  }
+  const map = getMapMonth(tsks);
 
   let result = "👊 **Months Stats**\n";
   result += "```text\n";
