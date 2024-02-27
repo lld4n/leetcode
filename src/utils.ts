@@ -30,7 +30,7 @@ export function _get_emoji(dif: string): string {
 }
 
 export function _percentage(up: number, down: number) {
-  let value = String((up / down).toFixed(2));
+  let value = String(((up / down) * 100).toFixed(2));
   while (value.length !== 5) {
     value = "0" + value;
   }
