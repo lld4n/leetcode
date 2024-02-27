@@ -18,7 +18,7 @@ export function generateMap() {
 }
 
 export function generateMapRes(map: contentType) {
-  let res = "```text\n";
+  let res = "\n```text\n";
   const maxLenKey =
     Math.max(...Object.keys(map).map((e) => e.length)) + 20;
   const maxLenValue =
@@ -43,7 +43,7 @@ export function generateMapRes(map: contentType) {
       count += " ";
     }
 
-    const percentage = (map[key] / ss).toFixed(2);
+    const percentage = ((map[key] / ss) * 100).toFixed(2);
     const countPr = Math.ceil(map[key] / Math.ceil(ss / 25));
     let p = "";
     let i = 1;
