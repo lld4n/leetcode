@@ -17,6 +17,7 @@ async function main() {
   result += getBadges();
   result += await getWaka();
   await getLeetcode();
+
   fs.writeFileSync("README.md", result);
 
   sync();

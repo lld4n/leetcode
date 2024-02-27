@@ -6,6 +6,7 @@ export async function getLeetcode() {
 
 export async function _get() {
   const leetcode = new LeetCode();
-  const user = await leetcode.user("lldan");
-  console.log(user.matchedUser?.submitStats);
+  const l = await leetcode.user("lldan");
+  console.log(l.allQuestionsCount);
+  // console.log(user.matchedUser?.submitStats);
 }
