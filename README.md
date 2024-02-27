@@ -1,9 +1,6 @@
 <p align="center">неважно, возможно это или нет</p><div align="center"><code>モンキー･D･ルフィ</code></div><br><div align='center'><img src="https://wakatime.com/badge/user/018afba7-2ebc-4282-8545-d0250012991b/project/018b347c-0b9d-4d3e-9cc5-745948186d06.svg"><br><br><img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="50" height="50">  <img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width="50" height="50">  <br><img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="50" height="50">  <img src="https://leetcode.com/static/images/badges/dcc-2023-12.png" width="50" height="50">  <img src="https://leetcode.com/static/images/badges/dcc-2023-11.png" width="50" height="50">  <br><br><img src="https://leetcode-stats-six.vercel.app/?username=lldan&theme=dark"></div>
 
 
-**Stats**
-
-
 ```text
 октябрь.23          40 tasks           █░░░░░░░░░░░░░░░░░░░░░░░  08.11 %
 ноябрь.23           113 tasks          █████░░░░░░░░░░░░░░░░░░░  22.92 %
