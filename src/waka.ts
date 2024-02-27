@@ -5,8 +5,8 @@ import { _complete } from "./utils";
 export async function getWaka() {
   const mins = await _getWaka();
 
-  let result = "**Time Stats**\n```text\n";
-  result += _complete("wakatime");
+  let result = "⏱️**Time Stats**\n```text\n";
+  result += _complete("✨wakatime");
   result += _complete(String(mins) + " mins");
   result += _complete(
     String(Math.floor(mins / 60)) +
