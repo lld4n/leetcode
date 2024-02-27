@@ -8,7 +8,7 @@ export async function getLeetcode() {
   for (const key in stats) {
     result += _complete(_get_emoji(key) + " " + key);
     result += _complete(String(stats[key][0]) + " tasks");
-    result += _strip(stats[key][0], stats[key][1]);
+    result += _strip(stats[key][0], stats[key][1]) + " ";
     result += _complete(_percentage(stats[key][0], stats[key][1]));
     result += "\n";
   }
