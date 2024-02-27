@@ -17,15 +17,15 @@ export function generateMap() {
   return map;
 }
 export function generateMapRes(map: contentType) {
-  let res = "\n\n\n```text\n";
+  let res = "\n\n\n```text\nStats\n";
   const maxLenKey =
-    Math.max(...Object.keys(map).map((e) => e.length)) + 20;
+    Math.max(...Object.keys(map).map((e) => e.length)) + 10;
   const maxLenValue =
     Math.max(
       ...Object.values(map)
         .map((e) => String(e) + " tasks")
         .map((e) => e.length),
-    ) + 20;
+    ) + 10;
 
   let ss = 0;
   for (const key in map) {
@@ -54,7 +54,12 @@ export function generateMapRes(map: contentType) {
       }
       i++;
     }
-    p += "  " + String(percentage) + " %";
+    p +=
+      "  " +
+      (String(percentage).length === 5
+        ? String(percentage)
+        : "0" + String(percentage)) +
+      " %";
     res += name + count + p + "\n";
   }
   res += "```\n\n\n";
