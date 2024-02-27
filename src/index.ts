@@ -16,7 +16,7 @@ async function main() {
   let result = "";
   result += getBadges();
   result += await getWaka();
-  await getLeetcode();
+  result += await getLeetcode();
 
   fs.writeFileSync("README.md", result);
 

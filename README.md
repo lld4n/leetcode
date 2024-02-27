@@ -5,3 +5,8 @@
 ✨ wakatime               8254 mins                137 hrs 34 mins          
 ```
 
+🔥 **LeetCode Stats**
+```text
+All                      550                      Easy                     407                      Medium                   117                      Hard                     26                       
+```
+

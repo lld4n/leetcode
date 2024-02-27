@@ -1,8 +1,16 @@
 import LeetCode from "leetcode-query";
+import { _complete } from "./utils";
 
 export async function getLeetcode() {
   const stats = await _get();
-  console.log(stats);
+  let result = "🔥 **LeetCode Stats**\n";
+  result += "```text\n";
+  for (const key in stats) {
+    result += _complete(key);
+    result += _complete(String(stats[key][0]));
+  }
+  result += "\n```\n\n";
+  return result;
 }
 
 export async function _get() {
