@@ -2,14 +2,14 @@ import { generateStats } from "./stats";
 import * as fs from "fs";
 import { spawnSync } from "child_process";
 import { generateContent, generateList } from "./content";
-import { generateMap } from "./count";
+import { generateMap, generateMapRes } from "./count";
 
 let result = `<p align="center">неважно, возможно это или нет</p>`;
 result += `<div align="center"><code>モンキー･D･ルフィ</code></div><br>`;
 result += generateStats();
 
 const map = generateMap();
-console.log(map);
+result += generateMapRes(map);
 const content = generateContent();
 result += generateList(content);
 
