@@ -16,7 +16,7 @@ export async function getLeetcode() {
   return result;
 }
 
-export async function _get() {
+async function _get() {
   const leetcode = new LeetCode();
   const l = await leetcode.user("lldan");
 

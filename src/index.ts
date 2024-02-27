@@ -3,6 +3,7 @@ import { getBadges } from "./badges";
 import { getWaka } from "./waka";
 import { sync } from "./sync";
 import { getLeetcode } from "./leetcode";
+import { getTasks } from "./tasks";
 // let result = `<p align="center">неважно, возможно это или нет</p>`;
 // result += `<div align="center"><code>モンキー･D･ルフィ</code></div><br>`;
 // result += generateStats();
@@ -17,6 +18,7 @@ async function main() {
   result += getBadges();
   result += await getWaka();
   result += await getLeetcode();
+  result += getTasks();
 
   fs.writeFileSync("README.md", result);
 

@@ -1,10 +1,4 @@
-export const folders = [
-  "октябрь.23",
-  "ноябрь.23",
-  "декабрь.23",
-  "январь.24",
-  "февраль.24",
-];
+export const folders = [];
 
 export const stats = {
   wakatime:
@@ -18,5 +12,6 @@ export const stats = {
     "https://leetcode.com/static/images/badges/dcc-2023-12.png",
     "https://leetcode.com/static/images/badges/dcc-2023-11.png",
   ],
-  leetcode: "https://leetcode-stats-six.vercel.app/?username=lldan&theme=dark",
+  leetcode:
+    "https://leetcode-stats-six.vercel.app/?username=lldan&theme=dark",
 };
