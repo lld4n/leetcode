@@ -3,9 +3,9 @@ import { _len, _waka } from "./constants";
 import { _complete } from "./utils";
 
 export async function getWaka() {
-  const mins = await _getWaka();
-
-  let result = "⏱️ **Time Stats**\n```text\n";
+  const mins = await _get();
+  let result = "⏱️ **Time Stats**\n";
+  result += "```text\n";
   result += _complete("✨ wakatime");
   result += _complete(String(mins) + " mins");
   result += _complete(
@@ -18,7 +18,7 @@ export async function getWaka() {
   return result;
 }
 
-async function _getWaka() {
+async function _get() {
   const svg = (await axios.get(_waka)).data
     .match(/\d+ hrs \d+ mins/g)[0]
     .match(/\d+/g)
