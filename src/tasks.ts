@@ -12,6 +12,7 @@ type tType = {
   path: string;
   id: string;
   month: string;
+  day: string;
 };
 
 export function getTasks() {
@@ -37,9 +38,8 @@ function printRecordDay(tsks: tType[]) {
   const q: { [key: string]: string } = {};
   const map: { [key: string]: number } = {};
   for (const item of tsks) {
-    const cur = _time(item.birth);
-    q[cur] = item.month;
-    map[cur] = map[cur] ? map[cur] + 1 : 1;
+    q[item.day] = item.month;
+    map[item.day] = map[item.day] ? map[item.day] + 1 : 1;
   }
   const list = Object.entries(map)
     .sort((a, b) => b[1] - a[1])
@@ -93,6 +93,7 @@ function _get(): tType[] {
             path: folder + "/" + f + "/" + p,
             id: p.split(".")[0],
             month: folder,
+            day: f,
           });
         }
       }
