@@ -53,7 +53,7 @@ function printRecordDay(tsks: tType[]) {
     result += _complete(_percentage(count, month[q[key]]));
     result += "\n";
   }
-  result += _complete("...");
+  result += _complete(" ...");
   result += _complete("...");
   result += _complete("...");
   result += "\n";
