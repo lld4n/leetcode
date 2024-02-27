@@ -89,7 +89,7 @@ function _get(): tType[] {
         for (const p of problems) {
           const stat = fs.statSync("./" + folder + "/" + f + "/" + p);
           tsks.push({
-            birth: stat.mtimeMs,
+            birth: stat.birthtimeMs,
             path: folder + "/" + f + "/" + p,
             id: p.split(".")[0],
             month: folder,
