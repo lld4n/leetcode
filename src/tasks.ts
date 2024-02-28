@@ -64,7 +64,7 @@ function printRecordDay(tsks: tType[]) {
 function printMonth(tsks: tType[]) {
   const map = getMapMonth(tsks);
 
-  let result = "👊 **Months Stats**\n";
+  let result = `👊 **Months Stats** ( ${tsks.length} tasks )\n`;
   result += "```text\n";
   for (const key in map) {
     result += _complete(_get_emoji(key) + " " + key);
