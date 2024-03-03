@@ -3,26 +3,23 @@ import { _len, _waka } from "./constants";
 import { _complete, _get_emoji } from "./utils";
 
 export async function getWaka() {
-  try {
-    const mins = await _get();
-    let result = "⏱️ **Time Stats**\n";
-    result += "```text\n";
-    result += _complete(_get_emoji("wakatime") + " wakatime");
-    result += _complete(String(mins) + " mins");
-    result += _complete(
-      String(Math.floor(mins / 60)) +
-        " hrs " +
-        String(mins % 60) +
-        " mins",
-    );
-    result += "\n```\n\n";
-    return result;
-  } catch (e) {
-    return "";
-  }
+  const mins = await _get();
+  if (mins === 0) return "";
+  let result = "⏱️ **Time Stats**\n";
+  result += "```text\n";
+  result += _complete(_get_emoji("wakatime") + " wakatime");
+  result += _complete(String(mins) + " mins");
+  result += _complete(
+    String(Math.floor(mins / 60)) +
+      " hrs " +
+      String(mins % 60) +
+      " mins",
+  );
+  result += "\n```\n\n";
+  return result;
 }
 
-async function _get() {
+async function _get(): Promise<number> {
   try {
     const svg = (await axios.get(_waka)).data
       .match(/\d+ hrs \d+ mins/g)[0]
@@ -31,6 +28,6 @@ async function _get() {
 
     return svg[0] * 60 + svg[1];
   } catch (e) {
-    return null;
+    return 0;
   }
 }
