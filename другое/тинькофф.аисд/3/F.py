@@ -2,28 +2,22 @@ import sys
 import random
 
 
+def _generate_priority():
+    return random.randint(1, 400000)
+
+
 class Treap:
     class Node:
         def __init__(self, init_k, init_p=None):
             self.key = init_k
-            self.priority = init_p if init_p is not None else self._generate_priority()
+            self.priority = init_p if init_p is not None else _generate_priority()
             self.left = None
             self.right = None
 
-        def _generate_priority(self):
-            return random.randint(1, 400000)
-
     def __init__(self):
         self.treap_root = None
-
-    def __del__(self):
-        self._delete(self.treap_root)
-
-    def _delete(self, root):
-        if root is not None:
-            self._delete(root.left)
-            self._delete(root.right)
-            del root
+        self.mx = -1
+        self.map = {}
 
     def _split(self, root, key):
         if root is None:
@@ -61,14 +55,19 @@ class Treap:
         return self._get_min(root.left)
 
     def add(self, key):
-        left, right = self._split(self.treap_root, key)
-        self.treap_root = self._merge(self._merge(left, self.Node(key)), right)
+        if key not in self.map:
+            left, right = self._split(self.treap_root, key)
+            self.treap_root = self._merge(self._merge(left, self.Node(key)), right)
+            self.map[key] = 1
+            if key > self.mx:
+                self.mx = key
 
     def next(self, key):
+        if key > self.mx:
+            return -1
         left, right = self._split(self.treap_root, key)
         next_value = self._get_min(right)
         self.treap_root = self._merge(left, right)
-
         return next_value
 
 

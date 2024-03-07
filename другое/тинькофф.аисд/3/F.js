@@ -10,6 +10,8 @@ var TreeNode = /** @class */ (function () {
 var AVLTree = /** @class */ (function () {
     function AVLTree() {
         this.root = null;
+        this.map = {};
+        this.max = -Infinity;
     }
     AVLTree.prototype.getHeight = function (node) {
         if (!node)
@@ -83,12 +85,20 @@ var AVLTree = /** @class */ (function () {
         }
     };
     AVLTree.prototype.add = function (data) {
-        this.root = this.insert(this.root, data);
+        if (this.map[data] === undefined) {
+            this.root = this.insert(this.root, data);
+            this.map[data] = 1;
+            if (data > this.max) {
+                this.max = data;
+            }
+        }
     };
     AVLTree.prototype.display = function () {
         this.inOrder(this.root);
     };
     AVLTree.prototype.find_min = function (i) {
+        if (i > this.max)
+            return -1;
         var cur = this.root;
         var mm = -1;
         while (cur !== null) {
@@ -126,7 +136,9 @@ rl.on("line", function (line) {
             y = tree.find_min(Number(line.split(" ")[1]));
             console.log(y);
         }
-        console.log(tree.display());
     }
     i++;
+    if (i === n) {
+        rl.close();
+    }
 });

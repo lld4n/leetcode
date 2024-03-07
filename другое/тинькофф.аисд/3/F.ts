@@ -11,7 +11,8 @@ class TreeNode {
 
 class AVLTree {
   root: TreeNode | null = null;
-
+  map: { [key: number]: number } = {};
+  max: number = -Infinity;
   getHeight(node: TreeNode | null): number {
     if (!node) return 0;
     return node.height;
@@ -96,7 +97,13 @@ class AVLTree {
   }
 
   add(data: number): void {
-    this.root = this.insert(this.root, data);
+    if (this.map[data] === undefined) {
+      this.root = this.insert(this.root, data);
+      this.map[data] = 1;
+      if (data > this.max) {
+        this.max = data;
+      }
+    }
   }
 
   display(): void {
@@ -104,6 +111,7 @@ class AVLTree {
   }
 
   find_min(i: number): number {
+    if (i > this.max) return -1;
     let cur: TreeNode | null = this.root;
     let mm = -1;
     while (cur !== null) {
@@ -141,4 +149,7 @@ rl.on("line", (line: string) => {
     }
   }
   i++;
+  if (i === n) {
+    rl.close();
+  }
 });

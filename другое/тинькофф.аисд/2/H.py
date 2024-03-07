@@ -10,7 +10,6 @@ rstack = [(-1, n)]
 
 for i in range(len(lst)):
     prefix.append(prefix[-1] + lst[i])
-
     while lstack[-1][0] >= lst[i]:
         lstack.pop()
     lbor[i] = lstack[-1][1] + 1
