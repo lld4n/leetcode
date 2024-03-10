@@ -29,3 +29,4 @@ for _ in range(n):
         min_stack.pop()
     elif operation[0] == '3':
         print(min_stack.get_min())
+
