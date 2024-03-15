@@ -9,7 +9,6 @@ int main() {
     cout.tie(nullptr);
 //    cin >> n;
 //    cout << prefix_sum[r] - prefix_sum[l - 1] << endl;
-
     int n, m, k;
 
     cin >> n >> m >> k;
