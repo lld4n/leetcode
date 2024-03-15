@@ -133,6 +133,12 @@ build CMakeFiles/leetcode.dir/март.24/14-03-24/1446.cpp.o: CXX_COMPILER__lee
   OBJECT_DIR = CMakeFiles/leetcode.dir
   OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/март.24/14-03-24
 
+build CMakeFiles/leetcode.dir/март.24/15-03-24/1379.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/март.24/15-03-24/1379.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/март.24/15-03-24/1379.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/март.24/15-03-24
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target leetcode
@@ -141,7 +147,7 @@ build CMakeFiles/leetcode.dir/март.24/14-03-24/1446.cpp.o: CXX_COMPILER__lee
 #############################################
 # Link the executable leetcode
 
-build leetcode: CXX_EXECUTABLE_LINKER__leetcode_Debug CMakeFiles/leetcode.dir/другое/тинькофф.аисд/2/F.cpp.o CMakeFiles/leetcode.dir/другое/тинькофф.аисд/3/B.cpp.o CMakeFiles/leetcode.dir/другое/тинькофф.аисд/3/F.cpp.o CMakeFiles/leetcode.dir/другое/тинькофф.аисд/4/A.cpp.o CMakeFiles/leetcode.dir/другое/тинькофф.аисд/4/B.cpp.o CMakeFiles/leetcode.dir/другое/тинькофф.аисд/4/C.cpp.o CMakeFiles/leetcode.dir/другое/тинькофф.аисд/4/D.cpp.o CMakeFiles/leetcode.dir/другое/тинькофф.аисд/4/E.cpp.o CMakeFiles/leetcode.dir/другое/тинькофф.аисд/4/F.cpp.o CMakeFiles/leetcode.dir/другое/тинькофф.аисд/4/G.cpp.o CMakeFiles/leetcode.dir/март.24/14-03-24/1455.cpp.o CMakeFiles/leetcode.dir/март.24/14-03-24/1486.cpp.o CMakeFiles/leetcode.dir/март.24/14-03-24/1518.cpp.o CMakeFiles/leetcode.dir/март.24/14-03-24/1446.cpp.o
+build leetcode: CXX_EXECUTABLE_LINKER__leetcode_Debug CMakeFiles/leetcode.dir/другое/тинькофф.аисд/2/F.cpp.o CMakeFiles/leetcode.dir/другое/тинькофф.аисд/3/B.cpp.o CMakeFiles/leetcode.dir/другое/тинькофф.аисд/3/F.cpp.o CMakeFiles/leetcode.dir/другое/тинькофф.аисд/4/A.cpp.o CMakeFiles/leetcode.dir/другое/тинькофф.аисд/4/B.cpp.o CMakeFiles/leetcode.dir/другое/тинькофф.аисд/4/C.cpp.o CMakeFiles/leetcode.dir/другое/тинькофф.аисд/4/D.cpp.o CMakeFiles/leetcode.dir/другое/тинькофф.аисд/4/E.cpp.o CMakeFiles/leetcode.dir/другое/тинькофф.аисд/4/F.cpp.o CMakeFiles/leetcode.dir/другое/тинькофф.аисд/4/G.cpp.o CMakeFiles/leetcode.dir/март.24/14-03-24/1455.cpp.o CMakeFiles/leetcode.dir/март.24/14-03-24/1486.cpp.o CMakeFiles/leetcode.dir/март.24/14-03-24/1518.cpp.o CMakeFiles/leetcode.dir/март.24/14-03-24/1446.cpp.o CMakeFiles/leetcode.dir/март.24/15-03-24/1379.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3
   OBJECT_DIR = CMakeFiles/leetcode.dir
   POST_BUILD = :

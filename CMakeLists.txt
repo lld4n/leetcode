@@ -644,4 +644,5 @@ add_executable(leetcode
         tsconfig.json
         yarn.lock
         март.24/14-03-24/1446.cpp
+        март.24/15-03-24/1379.cpp
 )
