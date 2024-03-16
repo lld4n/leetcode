@@ -16,5 +16,8 @@
 /Users/lldan/Desktop/ /leetcode/cmake-build-debug/CMakeFiles/16_1342.dir
 /Users/lldan/Desktop/ /leetcode/cmake-build-debug/CMakeFiles/17_1374.dir
 /Users/lldan/Desktop/ /leetcode/cmake-build-debug/CMakeFiles/18_1379.dir
+/Users/lldan/Desktop/ /leetcode/cmake-build-debug/CMakeFiles/19_226.dir
+/Users/lldan/Desktop/ /leetcode/cmake-build-debug/CMakeFiles/20_278.dir
+/Users/lldan/Desktop/ /leetcode/cmake-build-debug/CMakeFiles/21_404.dir
 /Users/lldan/Desktop/ /leetcode/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/lldan/Desktop/ /leetcode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
