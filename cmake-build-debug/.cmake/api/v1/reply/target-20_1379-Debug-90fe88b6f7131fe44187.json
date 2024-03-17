@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "20_278"
+			"path" : "20_1379"
 		}
 	],
 	"backtrace" : 1,
@@ -53,7 +53,7 @@
 			]
 		}
 	],
-	"id" : "20_278::@6890427a1f51a3e7e1df",
+	"id" : "20_1379::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -69,8 +69,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "20_278",
-	"nameOnDisk" : "20_278",
+	"name" : "20_1379",
+	"nameOnDisk" : "20_1379",
 	"paths" : 
 	{
 		"build" : ".",
@@ -91,7 +91,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "\u043c\u0430\u0440\u0442.24/16-03-24/278.cpp",
+			"path" : "\u043c\u0430\u0440\u0442.24/15-03-24/1379.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
