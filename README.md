@@ -1,10 +1,15 @@
 <div align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="50" height="50"> <img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width="50" height="50"> <img src="https://leetcode.com/static/images/badges/dcc-2024-2.png" width="50" height="50"> <img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="50" height="50"> <img src="https://leetcode.com/static/images/badges/dcc-2023-12.png" width="50" height="50"> <img src="https://leetcode.com/static/images/badges/dcc-2023-11.png" width="50" height="50"> </div>
 
+⏱️ **Time Stats**
+```text
+ wakatime           9700 mins           161 hrs 40 mins     
+```
+
 🔥 **LeetCode Stats**
 ```text
- All                620 tasks           █████░░░░░░░░░░░░░░░░░░░  20.09 %             
+ All                622 tasks           █████░░░░░░░░░░░░░░░░░░░  20.15 %             
  Easy               467 tasks           ██████████████░░░░░░░░░░  59.72 %             
- Medium             127 tasks           █░░░░░░░░░░░░░░░░░░░░░░░  07.84 %             
+ Medium             129 tasks           █░░░░░░░░░░░░░░░░░░░░░░░  07.96 %             
  Hard               26 tasks            ░░░░░░░░░░░░░░░░░░░░░░░░  03.80 %             
 ```
 

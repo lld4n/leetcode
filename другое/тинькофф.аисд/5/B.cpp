@@ -4,6 +4,33 @@
 
 using namespace std;
 
+
+vector<int> prefix(string pattern, int must) {
+//  cout << pattern << endl;
+  vector<int> prefix(pattern.size(), 0);
+  vector<int> ans;
+  for (int i = 1; i < pattern.size(); ++i) {
+    int j = prefix[i - 1];
+    while (j > 0 && pattern[i] != pattern[j]) {
+      j = prefix[j - 1];
+    }
+    if (pattern[i] == pattern[j]) {
+      j++;
+    }
+    if (j == must) {
+      ans.push_back(i);
+    }
+    prefix[i] = j;
+  }
+//  for (int i: prefix) {
+//    cout << i << " ";
+//  }
+//  cout << endl;
+
+  return ans;
+}
+
+
 int main() {
   ios::sync_with_stdio(false);
   cin.tie(nullptr);
@@ -18,21 +45,19 @@ int main() {
   string S;
   for (int i = 0; i < m; ++i) {
     cin >> S;
-    if (S == T) {
-      cout << 1 << " " << 0;
+    vector<int> ans = prefix(S + "#" + T,
+                             static_cast<int>(S.size()));
+    int div;
+    if (S.size() == 1) {
+      div = 2;
     } else {
-      vector<int> ans;
-      for (int j = 0; j <= T.size() - S.size(); ++j) {
-        if (T.substr(j, S.size()) == S) {
-          ans.push_back(j);
-        }
-      }
-      cout << ans.size() << " ";
-      for (int q: ans) {
-        cout << q << " ";
-      }
-      cout << "\n";
+      div = 2 * static_cast<int>(S.length());
     }
+    cout << ans.size() << " ";
+    for (int q: ans) {
+      cout << q - div << " ";
+    }
+    cout << "\n";
   }
 
   return 0;
