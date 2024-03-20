@@ -6,7 +6,6 @@ using namespace std;
 
 
 vector<int> prefix(string pattern, int must) {
-//  cout << pattern << endl;
   vector<int> prefix(pattern.size(), 0);
   vector<int> ans;
   for (int i = 1; i < pattern.size(); ++i) {
@@ -22,10 +21,7 @@ vector<int> prefix(string pattern, int must) {
     }
     prefix[i] = j;
   }
-//  for (int i: prefix) {
-//    cout << i << " ";
-//  }
-//  cout << endl;
+
 
   return ans;
 }
