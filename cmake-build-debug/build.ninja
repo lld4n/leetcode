@@ -754,345 +754,438 @@ build D23: CXX_EXECUTABLE_LINKER__D23_Debug CMakeFiles/D23.dir/другое/ти
   TARGET_PDB = D23.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target F24
+# Object build statements for EXECUTABLE target E24
 
 
 #############################################
-# Order-only phony target for F24
+# Order-only phony target for E24
 
-build cmake_object_order_depends_target_F24: phony || CMakeFiles/F24.dir
+build cmake_object_order_depends_target_E24: phony || CMakeFiles/E24.dir
 
-build CMakeFiles/F24.dir/другое/тинькофф.аисд/6/F.cpp.o: CXX_COMPILER__F24_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/другое/тинькофф.аисд/6/F.cpp || cmake_object_order_depends_target_F24
-  DEP_FILE = CMakeFiles/F24.dir/другое/тинькофф.аисд/6/F.cpp.o.d
+build CMakeFiles/E24.dir/другое/тинькофф.аисд/6/E.cpp.o: CXX_COMPILER__E24_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/другое/тинькофф.аисд/6/E.cpp || cmake_object_order_depends_target_E24
+  DEP_FILE = CMakeFiles/E24.dir/другое/тинькофф.аисд/6/E.cpp.o.d
   FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/F24.dir
-  OBJECT_FILE_DIR = CMakeFiles/F24.dir/другое/тинькофф.аисд/6
+  OBJECT_DIR = CMakeFiles/E24.dir
+  OBJECT_FILE_DIR = CMakeFiles/E24.dir/другое/тинькофф.аисд/6
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target F24
+# Link build statements for EXECUTABLE target E24
 
 
 #############################################
-# Link the executable F24
+# Link the executable E24
 
-build F24: CXX_EXECUTABLE_LINKER__F24_Debug CMakeFiles/F24.dir/другое/тинькофф.аисд/6/F.cpp.o
+build E24: CXX_EXECUTABLE_LINKER__E24_Debug CMakeFiles/E24.dir/другое/тинькофф.аисд/6/E.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3
-  OBJECT_DIR = CMakeFiles/F24.dir
+  OBJECT_DIR = CMakeFiles/E24.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = F24
-  TARGET_PDB = F24.dbg
+  TARGET_FILE = E24
+  TARGET_PDB = E24.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target 144625
+# Object build statements for EXECUTABLE target ET25
 
 
 #############################################
-# Order-only phony target for 144625
+# Order-only phony target for ET25
 
-build cmake_object_order_depends_target_144625: phony || CMakeFiles/144625.dir
+build cmake_object_order_depends_target_ET25: phony || CMakeFiles/ET25.dir
 
-build CMakeFiles/144625.dir/март.24/14-03-24/1446.cpp.o: CXX_COMPILER__144625_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/март.24/14-03-24/1446.cpp || cmake_object_order_depends_target_144625
-  DEP_FILE = CMakeFiles/144625.dir/март.24/14-03-24/1446.cpp.o.d
+build CMakeFiles/ET25.dir/другое/тинькофф.аисд/6/ET.cpp.o: CXX_COMPILER__ET25_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/другое/тинькофф.аисд/6/ET.cpp || cmake_object_order_depends_target_ET25
+  DEP_FILE = CMakeFiles/ET25.dir/другое/тинькофф.аисд/6/ET.cpp.o.d
   FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/144625.dir
-  OBJECT_FILE_DIR = CMakeFiles/144625.dir/март.24/14-03-24
+  OBJECT_DIR = CMakeFiles/ET25.dir
+  OBJECT_FILE_DIR = CMakeFiles/ET25.dir/другое/тинькофф.аисд/6
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 144625
+# Link build statements for EXECUTABLE target ET25
 
 
 #############################################
-# Link the executable 144625
+# Link the executable ET25
 
-build 144625: CXX_EXECUTABLE_LINKER__144625_Debug CMakeFiles/144625.dir/март.24/14-03-24/1446.cpp.o
+build ET25: CXX_EXECUTABLE_LINKER__ET25_Debug CMakeFiles/ET25.dir/другое/тинькофф.аисд/6/ET.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3
-  OBJECT_DIR = CMakeFiles/144625.dir
+  OBJECT_DIR = CMakeFiles/ET25.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = 144625
-  TARGET_PDB = 144625.dbg
+  TARGET_FILE = ET25
+  TARGET_PDB = ET25.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target 145526
+# Object build statements for EXECUTABLE target F26
 
 
 #############################################
-# Order-only phony target for 145526
+# Order-only phony target for F26
 
-build cmake_object_order_depends_target_145526: phony || CMakeFiles/145526.dir
+build cmake_object_order_depends_target_F26: phony || CMakeFiles/F26.dir
 
-build CMakeFiles/145526.dir/март.24/14-03-24/1455.cpp.o: CXX_COMPILER__145526_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/март.24/14-03-24/1455.cpp || cmake_object_order_depends_target_145526
-  DEP_FILE = CMakeFiles/145526.dir/март.24/14-03-24/1455.cpp.o.d
+build CMakeFiles/F26.dir/другое/тинькофф.аисд/6/F.cpp.o: CXX_COMPILER__F26_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/другое/тинькофф.аисд/6/F.cpp || cmake_object_order_depends_target_F26
+  DEP_FILE = CMakeFiles/F26.dir/другое/тинькофф.аисд/6/F.cpp.o.d
   FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/145526.dir
-  OBJECT_FILE_DIR = CMakeFiles/145526.dir/март.24/14-03-24
+  OBJECT_DIR = CMakeFiles/F26.dir
+  OBJECT_FILE_DIR = CMakeFiles/F26.dir/другое/тинькофф.аисд/6
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 145526
+# Link build statements for EXECUTABLE target F26
 
 
 #############################################
-# Link the executable 145526
+# Link the executable F26
 
-build 145526: CXX_EXECUTABLE_LINKER__145526_Debug CMakeFiles/145526.dir/март.24/14-03-24/1455.cpp.o
+build F26: CXX_EXECUTABLE_LINKER__F26_Debug CMakeFiles/F26.dir/другое/тинькофф.аисд/6/F.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3
-  OBJECT_DIR = CMakeFiles/145526.dir
+  OBJECT_DIR = CMakeFiles/F26.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = 145526
-  TARGET_PDB = 145526.dbg
+  TARGET_FILE = F26
+  TARGET_PDB = F26.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target 148627
+# Object build statements for EXECUTABLE target G27
 
 
 #############################################
-# Order-only phony target for 148627
+# Order-only phony target for G27
 
-build cmake_object_order_depends_target_148627: phony || CMakeFiles/148627.dir
+build cmake_object_order_depends_target_G27: phony || CMakeFiles/G27.dir
 
-build CMakeFiles/148627.dir/март.24/14-03-24/1486.cpp.o: CXX_COMPILER__148627_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/март.24/14-03-24/1486.cpp || cmake_object_order_depends_target_148627
-  DEP_FILE = CMakeFiles/148627.dir/март.24/14-03-24/1486.cpp.o.d
+build CMakeFiles/G27.dir/другое/тинькофф.аисд/6/G.cpp.o: CXX_COMPILER__G27_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/другое/тинькофф.аисд/6/G.cpp || cmake_object_order_depends_target_G27
+  DEP_FILE = CMakeFiles/G27.dir/другое/тинькофф.аисд/6/G.cpp.o.d
   FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/148627.dir
-  OBJECT_FILE_DIR = CMakeFiles/148627.dir/март.24/14-03-24
+  OBJECT_DIR = CMakeFiles/G27.dir
+  OBJECT_FILE_DIR = CMakeFiles/G27.dir/другое/тинькофф.аисд/6
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 148627
+# Link build statements for EXECUTABLE target G27
 
 
 #############################################
-# Link the executable 148627
+# Link the executable G27
 
-build 148627: CXX_EXECUTABLE_LINKER__148627_Debug CMakeFiles/148627.dir/март.24/14-03-24/1486.cpp.o
+build G27: CXX_EXECUTABLE_LINKER__G27_Debug CMakeFiles/G27.dir/другое/тинькофф.аисд/6/G.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3
-  OBJECT_DIR = CMakeFiles/148627.dir
+  OBJECT_DIR = CMakeFiles/G27.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = 148627
-  TARGET_PDB = 148627.dbg
+  TARGET_FILE = G27
+  TARGET_PDB = G27.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target 151828
+# Object build statements for EXECUTABLE target 144628
 
 
 #############################################
-# Order-only phony target for 151828
+# Order-only phony target for 144628
 
-build cmake_object_order_depends_target_151828: phony || CMakeFiles/151828.dir
+build cmake_object_order_depends_target_144628: phony || CMakeFiles/144628.dir
 
-build CMakeFiles/151828.dir/март.24/14-03-24/1518.cpp.o: CXX_COMPILER__151828_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/март.24/14-03-24/1518.cpp || cmake_object_order_depends_target_151828
-  DEP_FILE = CMakeFiles/151828.dir/март.24/14-03-24/1518.cpp.o.d
+build CMakeFiles/144628.dir/март.24/14-03-24/1446.cpp.o: CXX_COMPILER__144628_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/март.24/14-03-24/1446.cpp || cmake_object_order_depends_target_144628
+  DEP_FILE = CMakeFiles/144628.dir/март.24/14-03-24/1446.cpp.o.d
   FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/151828.dir
-  OBJECT_FILE_DIR = CMakeFiles/151828.dir/март.24/14-03-24
+  OBJECT_DIR = CMakeFiles/144628.dir
+  OBJECT_FILE_DIR = CMakeFiles/144628.dir/март.24/14-03-24
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 151828
+# Link build statements for EXECUTABLE target 144628
 
 
 #############################################
-# Link the executable 151828
+# Link the executable 144628
 
-build 151828: CXX_EXECUTABLE_LINKER__151828_Debug CMakeFiles/151828.dir/март.24/14-03-24/1518.cpp.o
+build 144628: CXX_EXECUTABLE_LINKER__144628_Debug CMakeFiles/144628.dir/март.24/14-03-24/1446.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3
-  OBJECT_DIR = CMakeFiles/151828.dir
+  OBJECT_DIR = CMakeFiles/144628.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = 151828
-  TARGET_PDB = 151828.dbg
+  TARGET_FILE = 144628
+  TARGET_PDB = 144628.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target 134229
+# Object build statements for EXECUTABLE target 145529
 
 
 #############################################
-# Order-only phony target for 134229
+# Order-only phony target for 145529
 
-build cmake_object_order_depends_target_134229: phony || CMakeFiles/134229.dir
+build cmake_object_order_depends_target_145529: phony || CMakeFiles/145529.dir
 
-build CMakeFiles/134229.dir/март.24/15-03-24/1342.cpp.o: CXX_COMPILER__134229_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/март.24/15-03-24/1342.cpp || cmake_object_order_depends_target_134229
-  DEP_FILE = CMakeFiles/134229.dir/март.24/15-03-24/1342.cpp.o.d
+build CMakeFiles/145529.dir/март.24/14-03-24/1455.cpp.o: CXX_COMPILER__145529_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/март.24/14-03-24/1455.cpp || cmake_object_order_depends_target_145529
+  DEP_FILE = CMakeFiles/145529.dir/март.24/14-03-24/1455.cpp.o.d
   FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/134229.dir
-  OBJECT_FILE_DIR = CMakeFiles/134229.dir/март.24/15-03-24
+  OBJECT_DIR = CMakeFiles/145529.dir
+  OBJECT_FILE_DIR = CMakeFiles/145529.dir/март.24/14-03-24
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 134229
+# Link build statements for EXECUTABLE target 145529
 
 
 #############################################
-# Link the executable 134229
+# Link the executable 145529
 
-build 134229: CXX_EXECUTABLE_LINKER__134229_Debug CMakeFiles/134229.dir/март.24/15-03-24/1342.cpp.o
+build 145529: CXX_EXECUTABLE_LINKER__145529_Debug CMakeFiles/145529.dir/март.24/14-03-24/1455.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3
-  OBJECT_DIR = CMakeFiles/134229.dir
+  OBJECT_DIR = CMakeFiles/145529.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = 134229
-  TARGET_PDB = 134229.dbg
+  TARGET_FILE = 145529
+  TARGET_PDB = 145529.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target 137430
+# Object build statements for EXECUTABLE target 148630
 
 
 #############################################
-# Order-only phony target for 137430
+# Order-only phony target for 148630
 
-build cmake_object_order_depends_target_137430: phony || CMakeFiles/137430.dir
+build cmake_object_order_depends_target_148630: phony || CMakeFiles/148630.dir
 
-build CMakeFiles/137430.dir/март.24/15-03-24/1374.cpp.o: CXX_COMPILER__137430_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/март.24/15-03-24/1374.cpp || cmake_object_order_depends_target_137430
-  DEP_FILE = CMakeFiles/137430.dir/март.24/15-03-24/1374.cpp.o.d
+build CMakeFiles/148630.dir/март.24/14-03-24/1486.cpp.o: CXX_COMPILER__148630_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/март.24/14-03-24/1486.cpp || cmake_object_order_depends_target_148630
+  DEP_FILE = CMakeFiles/148630.dir/март.24/14-03-24/1486.cpp.o.d
   FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/137430.dir
-  OBJECT_FILE_DIR = CMakeFiles/137430.dir/март.24/15-03-24
+  OBJECT_DIR = CMakeFiles/148630.dir
+  OBJECT_FILE_DIR = CMakeFiles/148630.dir/март.24/14-03-24
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 137430
+# Link build statements for EXECUTABLE target 148630
 
 
 #############################################
-# Link the executable 137430
+# Link the executable 148630
 
-build 137430: CXX_EXECUTABLE_LINKER__137430_Debug CMakeFiles/137430.dir/март.24/15-03-24/1374.cpp.o
+build 148630: CXX_EXECUTABLE_LINKER__148630_Debug CMakeFiles/148630.dir/март.24/14-03-24/1486.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3
-  OBJECT_DIR = CMakeFiles/137430.dir
+  OBJECT_DIR = CMakeFiles/148630.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = 137430
-  TARGET_PDB = 137430.dbg
+  TARGET_FILE = 148630
+  TARGET_PDB = 148630.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target 137931
+# Object build statements for EXECUTABLE target 151831
 
 
 #############################################
-# Order-only phony target for 137931
+# Order-only phony target for 151831
 
-build cmake_object_order_depends_target_137931: phony || CMakeFiles/137931.dir
+build cmake_object_order_depends_target_151831: phony || CMakeFiles/151831.dir
 
-build CMakeFiles/137931.dir/март.24/15-03-24/1379.cpp.o: CXX_COMPILER__137931_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/март.24/15-03-24/1379.cpp || cmake_object_order_depends_target_137931
-  DEP_FILE = CMakeFiles/137931.dir/март.24/15-03-24/1379.cpp.o.d
+build CMakeFiles/151831.dir/март.24/14-03-24/1518.cpp.o: CXX_COMPILER__151831_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/март.24/14-03-24/1518.cpp || cmake_object_order_depends_target_151831
+  DEP_FILE = CMakeFiles/151831.dir/март.24/14-03-24/1518.cpp.o.d
   FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/137931.dir
-  OBJECT_FILE_DIR = CMakeFiles/137931.dir/март.24/15-03-24
+  OBJECT_DIR = CMakeFiles/151831.dir
+  OBJECT_FILE_DIR = CMakeFiles/151831.dir/март.24/14-03-24
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 137931
+# Link build statements for EXECUTABLE target 151831
 
 
 #############################################
-# Link the executable 137931
+# Link the executable 151831
 
-build 137931: CXX_EXECUTABLE_LINKER__137931_Debug CMakeFiles/137931.dir/март.24/15-03-24/1379.cpp.o
+build 151831: CXX_EXECUTABLE_LINKER__151831_Debug CMakeFiles/151831.dir/март.24/14-03-24/1518.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3
-  OBJECT_DIR = CMakeFiles/137931.dir
+  OBJECT_DIR = CMakeFiles/151831.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = 137931
-  TARGET_PDB = 137931.dbg
+  TARGET_FILE = 151831
+  TARGET_PDB = 151831.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target 22632
+# Object build statements for EXECUTABLE target 134232
 
 
 #############################################
-# Order-only phony target for 22632
+# Order-only phony target for 134232
 
-build cmake_object_order_depends_target_22632: phony || CMakeFiles/22632.dir
+build cmake_object_order_depends_target_134232: phony || CMakeFiles/134232.dir
 
-build CMakeFiles/22632.dir/март.24/16-03-24/226.cpp.o: CXX_COMPILER__22632_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/март.24/16-03-24/226.cpp || cmake_object_order_depends_target_22632
-  DEP_FILE = CMakeFiles/22632.dir/март.24/16-03-24/226.cpp.o.d
+build CMakeFiles/134232.dir/март.24/15-03-24/1342.cpp.o: CXX_COMPILER__134232_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/март.24/15-03-24/1342.cpp || cmake_object_order_depends_target_134232
+  DEP_FILE = CMakeFiles/134232.dir/март.24/15-03-24/1342.cpp.o.d
   FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/22632.dir
-  OBJECT_FILE_DIR = CMakeFiles/22632.dir/март.24/16-03-24
+  OBJECT_DIR = CMakeFiles/134232.dir
+  OBJECT_FILE_DIR = CMakeFiles/134232.dir/март.24/15-03-24
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 22632
+# Link build statements for EXECUTABLE target 134232
 
 
 #############################################
-# Link the executable 22632
+# Link the executable 134232
 
-build 22632: CXX_EXECUTABLE_LINKER__22632_Debug CMakeFiles/22632.dir/март.24/16-03-24/226.cpp.o
+build 134232: CXX_EXECUTABLE_LINKER__134232_Debug CMakeFiles/134232.dir/март.24/15-03-24/1342.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3
-  OBJECT_DIR = CMakeFiles/22632.dir
+  OBJECT_DIR = CMakeFiles/134232.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = 22632
-  TARGET_PDB = 22632.dbg
+  TARGET_FILE = 134232
+  TARGET_PDB = 134232.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target 27833
+# Object build statements for EXECUTABLE target 137433
 
 
 #############################################
-# Order-only phony target for 27833
+# Order-only phony target for 137433
 
-build cmake_object_order_depends_target_27833: phony || CMakeFiles/27833.dir
+build cmake_object_order_depends_target_137433: phony || CMakeFiles/137433.dir
 
-build CMakeFiles/27833.dir/март.24/16-03-24/278.cpp.o: CXX_COMPILER__27833_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/март.24/16-03-24/278.cpp || cmake_object_order_depends_target_27833
-  DEP_FILE = CMakeFiles/27833.dir/март.24/16-03-24/278.cpp.o.d
+build CMakeFiles/137433.dir/март.24/15-03-24/1374.cpp.o: CXX_COMPILER__137433_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/март.24/15-03-24/1374.cpp || cmake_object_order_depends_target_137433
+  DEP_FILE = CMakeFiles/137433.dir/март.24/15-03-24/1374.cpp.o.d
   FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/27833.dir
-  OBJECT_FILE_DIR = CMakeFiles/27833.dir/март.24/16-03-24
+  OBJECT_DIR = CMakeFiles/137433.dir
+  OBJECT_FILE_DIR = CMakeFiles/137433.dir/март.24/15-03-24
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 27833
+# Link build statements for EXECUTABLE target 137433
 
 
 #############################################
-# Link the executable 27833
+# Link the executable 137433
 
-build 27833: CXX_EXECUTABLE_LINKER__27833_Debug CMakeFiles/27833.dir/март.24/16-03-24/278.cpp.o
+build 137433: CXX_EXECUTABLE_LINKER__137433_Debug CMakeFiles/137433.dir/март.24/15-03-24/1374.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3
-  OBJECT_DIR = CMakeFiles/27833.dir
+  OBJECT_DIR = CMakeFiles/137433.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = 27833
-  TARGET_PDB = 27833.dbg
+  TARGET_FILE = 137433
+  TARGET_PDB = 137433.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target 40434
+# Object build statements for EXECUTABLE target 137934
 
 
 #############################################
-# Order-only phony target for 40434
+# Order-only phony target for 137934
 
-build cmake_object_order_depends_target_40434: phony || CMakeFiles/40434.dir
+build cmake_object_order_depends_target_137934: phony || CMakeFiles/137934.dir
 
-build CMakeFiles/40434.dir/март.24/16-03-24/404.cpp.o: CXX_COMPILER__40434_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/март.24/16-03-24/404.cpp || cmake_object_order_depends_target_40434
-  DEP_FILE = CMakeFiles/40434.dir/март.24/16-03-24/404.cpp.o.d
+build CMakeFiles/137934.dir/март.24/15-03-24/1379.cpp.o: CXX_COMPILER__137934_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/март.24/15-03-24/1379.cpp || cmake_object_order_depends_target_137934
+  DEP_FILE = CMakeFiles/137934.dir/март.24/15-03-24/1379.cpp.o.d
   FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/40434.dir
-  OBJECT_FILE_DIR = CMakeFiles/40434.dir/март.24/16-03-24
+  OBJECT_DIR = CMakeFiles/137934.dir
+  OBJECT_FILE_DIR = CMakeFiles/137934.dir/март.24/15-03-24
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 40434
+# Link build statements for EXECUTABLE target 137934
 
 
 #############################################
-# Link the executable 40434
+# Link the executable 137934
 
-build 40434: CXX_EXECUTABLE_LINKER__40434_Debug CMakeFiles/40434.dir/март.24/16-03-24/404.cpp.o
+build 137934: CXX_EXECUTABLE_LINKER__137934_Debug CMakeFiles/137934.dir/март.24/15-03-24/1379.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3
-  OBJECT_DIR = CMakeFiles/40434.dir
+  OBJECT_DIR = CMakeFiles/137934.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = 40434
-  TARGET_PDB = 40434.dbg
+  TARGET_FILE = 137934
+  TARGET_PDB = 137934.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 22635
+
+
+#############################################
+# Order-only phony target for 22635
+
+build cmake_object_order_depends_target_22635: phony || CMakeFiles/22635.dir
+
+build CMakeFiles/22635.dir/март.24/16-03-24/226.cpp.o: CXX_COMPILER__22635_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/март.24/16-03-24/226.cpp || cmake_object_order_depends_target_22635
+  DEP_FILE = CMakeFiles/22635.dir/март.24/16-03-24/226.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/22635.dir
+  OBJECT_FILE_DIR = CMakeFiles/22635.dir/март.24/16-03-24
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 22635
+
+
+#############################################
+# Link the executable 22635
+
+build 22635: CXX_EXECUTABLE_LINKER__22635_Debug CMakeFiles/22635.dir/март.24/16-03-24/226.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3
+  OBJECT_DIR = CMakeFiles/22635.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 22635
+  TARGET_PDB = 22635.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 27836
+
+
+#############################################
+# Order-only phony target for 27836
+
+build cmake_object_order_depends_target_27836: phony || CMakeFiles/27836.dir
+
+build CMakeFiles/27836.dir/март.24/16-03-24/278.cpp.o: CXX_COMPILER__27836_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/март.24/16-03-24/278.cpp || cmake_object_order_depends_target_27836
+  DEP_FILE = CMakeFiles/27836.dir/март.24/16-03-24/278.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/27836.dir
+  OBJECT_FILE_DIR = CMakeFiles/27836.dir/март.24/16-03-24
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 27836
+
+
+#############################################
+# Link the executable 27836
+
+build 27836: CXX_EXECUTABLE_LINKER__27836_Debug CMakeFiles/27836.dir/март.24/16-03-24/278.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3
+  OBJECT_DIR = CMakeFiles/27836.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 27836
+  TARGET_PDB = 27836.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 40437
+
+
+#############################################
+# Order-only phony target for 40437
+
+build cmake_object_order_depends_target_40437: phony || CMakeFiles/40437.dir
+
+build CMakeFiles/40437.dir/март.24/16-03-24/404.cpp.o: CXX_COMPILER__40437_unscanned_Debug /Users/lldan/Desktop/$ /leetcode/март.24/16-03-24/404.cpp || cmake_object_order_depends_target_40437
+  DEP_FILE = CMakeFiles/40437.dir/март.24/16-03-24/404.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/40437.dir
+  OBJECT_FILE_DIR = CMakeFiles/40437.dir/март.24/16-03-24
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 40437
+
+
+#############################################
+# Link the executable 40437
+
+build 40437: CXX_EXECUTABLE_LINKER__40437_Debug CMakeFiles/40437.dir/март.24/16-03-24/404.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3
+  OBJECT_DIR = CMakeFiles/40437.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 40437
+  TARGET_PDB = 40437.dbg
 
 
 #############################################
@@ -1128,7 +1221,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/lldan/Desktop/ /leetcode/cmake-build-debug
 
-build all: phony CMakeCXXCompilerId1 F2 B3 F4 A5 B6 C7 D8 E9 F10 G11 H12 A13 B14 C15 D16 E17 F18 G19 A20 B21 C22 D23 F24 144625 145526 148627 151828 134229 137430 137931 22632 27833 40434
+build all: phony CMakeCXXCompilerId1 F2 B3 F4 A5 B6 C7 D8 E9 F10 G11 H12 A13 B14 C15 D16 E17 F18 G19 A20 B21 C22 D23 E24 ET25 F26 G27 144628 145529 148630 151831 134232 137433 137934 22635 27836 40437
 
 # =============================================================================
 # Built-in targets
