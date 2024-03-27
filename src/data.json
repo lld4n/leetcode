@@ -1,0 +1,506 @@
+[
+  {
+    "_creationTime": 1711276077842.8257,
+    "_id": "j57723m4a1w52mmf8peajb40mx6nws0b",
+    "humidity": 100,
+    "pressure": 1007,
+    "temp": 2.67
+  },
+  {
+    "_creationTime": 1711279677598.5813,
+    "_id": "j577tpjbpjs40fq58ggz9cm9ph6nxfdp",
+    "humidity": 100,
+    "pressure": 1008,
+    "temp": 2.67
+  },
+  {
+    "_creationTime": 1711283277572.6582,
+    "_id": "j57c97v8b26aczhqjxgvecf5zh6nwne4",
+    "humidity": 100,
+    "pressure": 1008,
+    "temp": 2.67
+  },
+  {
+    "_creationTime": 1711286877573.1658,
+    "_id": "j57f5y9hrq5t2fkxdptwsw6d916nx1ex",
+    "humidity": 100,
+    "pressure": 1008,
+    "temp": 2.67
+  },
+  {
+    "_creationTime": 1711290477663.6375,
+    "_id": "j57ebbsfjyv1bep0kekkwfnxf96nw7ge",
+    "humidity": 100,
+    "pressure": 1009,
+    "temp": 2.03
+  },
+  {
+    "_creationTime": 1711294077606.3525,
+    "_id": "j579t7m080rmc8yc59p0dqmk456nx6bf",
+    "humidity": 100,
+    "pressure": 1009,
+    "temp": 2.03
+  },
+  {
+    "_creationTime": 1711297677601.1082,
+    "_id": "j577zq5sqaz79ex0y31732anpx6nx798",
+    "humidity": 100,
+    "pressure": 1009,
+    "temp": 1.39
+  },
+  {
+    "_creationTime": 1711301277560.4763,
+    "_id": "j57db07try11spkebfff6w62y16nxn21",
+    "humidity": 100,
+    "pressure": 1009,
+    "temp": 1.39
+  },
+  {
+    "_creationTime": 1711304877572.3943,
+    "_id": "j57faeveq8edvhaq5rxtvc4rzh6nwm82",
+    "humidity": 100,
+    "pressure": 1010,
+    "temp": 2.03
+  },
+  {
+    "_creationTime": 1711308477585.648,
+    "_id": "j5752ej9rztg0m8p6wc8t6fj6d6nx6yz",
+    "humidity": 99,
+    "pressure": 1009,
+    "temp": 2.03
+  },
+  {
+    "_creationTime": 1711312077629.784,
+    "_id": "j5783a0e9xhvww3zr42h9sv5596nww74",
+    "humidity": 99,
+    "pressure": 1009,
+    "temp": 1.34
+  },
+  {
+    "_creationTime": 1711315677615.291,
+    "_id": "j57av9a43gmsp3brqsnps61bgs6nwrz1",
+    "humidity": 99,
+    "pressure": 1009,
+    "temp": 1.34
+  },
+  {
+    "_creationTime": 1711319277630.0374,
+    "_id": "j57cb1b6067wyb9h1jhe8cnf5h6nx5m8",
+    "humidity": 99,
+    "pressure": 1009,
+    "temp": 1.34
+  },
+  {
+    "_creationTime": 1711322877588.2297,
+    "_id": "j5765epq49st3ejyqt4ypwg2f96nxtww",
+    "humidity": 99,
+    "pressure": 1009,
+    "temp": 1.39
+  },
+  {
+    "_creationTime": 1711326477616.2954,
+    "_id": "j57dsp9da4cx6wjfajv27hp3196nyatf",
+    "humidity": 99,
+    "pressure": 1009,
+    "temp": 1.39
+  },
+  {
+    "_creationTime": 1711330077574.007,
+    "_id": "j5774yb9brg5r4bnjep1e4af7d6nyc37",
+    "humidity": 99,
+    "pressure": 1009,
+    "temp": 1.39
+  },
+  {
+    "_creationTime": 1711333677563.2732,
+    "_id": "j578qcfymzf5g70fqt0yzbcts56ny2yb",
+    "humidity": 99,
+    "pressure": 1009,
+    "temp": 1.39
+  },
+  {
+    "_creationTime": 1711337277559.7966,
+    "_id": "j57fkxrvsqmgh1gs62vrdkcxbh6ny9pm",
+    "humidity": 99,
+    "pressure": 1009,
+    "temp": 1.39
+  },
+  {
+    "_creationTime": 1711340877625.468,
+    "_id": "j572k9s13n51cfnnrejcffv3th6ny41d",
+    "humidity": 100,
+    "pressure": 1009,
+    "temp": 2.03
+  },
+  {
+    "_creationTime": 1711344477571.8823,
+    "_id": "j57efs9qvd6peja5ca2f0qe7jn6nyemx",
+    "humidity": 99,
+    "pressure": 1009,
+    "temp": 2.03
+  },
+  {
+    "_creationTime": 1711348077641.7002,
+    "_id": "j57a6sr35958avwvfyfy2y8bhd6nzacq",
+    "humidity": 100,
+    "pressure": 1009,
+    "temp": 2.03
+  },
+  {
+    "_creationTime": 1711351677603.1848,
+    "_id": "j571c5vvf093kqdxyp3a6m0mp56nzgwd",
+    "humidity": 97,
+    "pressure": 1010,
+    "temp": 2.67
+  },
+  {
+    "_creationTime": 1711355277622.8098,
+    "_id": "j578vfqxb1g5b0s1hftn9mm14x6nzmmx",
+    "humidity": 94,
+    "pressure": 1010,
+    "temp": 2.67
+  },
+  {
+    "_creationTime": 1711358877616.0103,
+    "_id": "j577aes1scbssj0kv20t9k6jj16nzr4h",
+    "humidity": 91,
+    "pressure": 1010,
+    "temp": 3.3
+  },
+  {
+    "_creationTime": 1711362477616.131,
+    "_id": "j5724as3nm84aj5w1774f568rh6nyfxr",
+    "humidity": 90,
+    "pressure": 1010,
+    "temp": 2.67
+  },
+  {
+    "_creationTime": 1711366077602.7107,
+    "_id": "j57fxmmvrketxqzyawx496eje16nzmqa",
+    "humidity": 89,
+    "pressure": 1010,
+    "temp": 3.3
+  },
+  {
+    "_creationTime": 1711369677612.5786,
+    "_id": "j572k03w29b1hsjad9k27731b56nzaa8",
+    "humidity": 90,
+    "pressure": 1010,
+    "temp": 3.3
+  },
+  {
+    "_creationTime": 1711373277610.1807,
+    "_id": "j570ps56axyqh5nfag7bfe1h9d6nyzqm",
+    "humidity": 94,
+    "pressure": 1010,
+    "temp": 3.3
+  },
+  {
+    "_creationTime": 1711376877572.7065,
+    "_id": "j57ca17579tragcp4p45wzxfps6nycyd",
+    "humidity": 97,
+    "pressure": 1011,
+    "temp": 3.3
+  },
+  {
+    "_creationTime": 1711380477575.4253,
+    "_id": "j579c4h303ph60xvhftvyqkqtn6nzz85",
+    "humidity": 95,
+    "pressure": 1011,
+    "temp": 2.67
+  },
+  {
+    "_creationTime": 1711384077599.5178,
+    "_id": "j57cqhmzzy9mg7ke7wd0cwryk16nzacz",
+    "humidity": 97,
+    "pressure": 1012,
+    "temp": 2.67
+  },
+  {
+    "_creationTime": 1711387677563.2683,
+    "_id": "j570gkqbqsa8rw3rn73dajp8556nzm9m",
+    "humidity": 96,
+    "pressure": 1011,
+    "temp": 2.03
+  },
+  {
+    "_creationTime": 1711391277595.0747,
+    "_id": "j574nmgpffkmsd16n2acehvm5d6nybpt",
+    "humidity": 97,
+    "pressure": 1012,
+    "temp": 2.03
+  },
+  {
+    "_creationTime": 1711394877575.9453,
+    "_id": "j57c7p1dz3qbc6e9v2kvxg8w456ny351",
+    "humidity": 98,
+    "pressure": 1012,
+    "temp": 1.39
+  },
+  {
+    "_creationTime": 1711398477605.6255,
+    "_id": "j579g28cnqnazjf5rpm3dh3x456nycb4",
+    "humidity": 98,
+    "pressure": 1012,
+    "temp": 1.39
+  },
+  {
+    "_creationTime": 1711402077638.062,
+    "_id": "j573n2wrqygkncg59zkt66819s6nyyjj",
+    "humidity": 98,
+    "pressure": 1012,
+    "temp": 1.42
+  },
+  {
+    "_creationTime": 1711405677602.4768,
+    "_id": "j577vznxqky46fxq2w8x60v6396nycms",
+    "humidity": 98,
+    "pressure": 1012,
+    "temp": 0.75
+  },
+  {
+    "_creationTime": 1711409277593.9324,
+    "_id": "j572ngjx0s2kj7w5nd8xjj5yv16nzbyt",
+    "humidity": 97,
+    "pressure": 1012,
+    "temp": 0.75
+  },
+  {
+    "_creationTime": 1711412877582.575,
+    "_id": "j571fz8fe09sf5sj48dym98qcn6p0pnn",
+    "humidity": 97,
+    "pressure": 1012,
+    "temp": 0.75
+  },
+  {
+    "_creationTime": 1711416477598.0664,
+    "_id": "j5760s6d8y59hjwdqqkrn49mrn6p15jk",
+    "humidity": 97,
+    "pressure": 1012,
+    "temp": 0.12
+  },
+  {
+    "_creationTime": 1711420077607.6213,
+    "_id": "j57bhr7ssnm38xzjn6vdbsj3ad6p17r8",
+    "humidity": 97,
+    "pressure": 1012,
+    "temp": 0.12
+  },
+  {
+    "_creationTime": 1711423677674.9482,
+    "_id": "j570yrty4yx1cmnvtykny8fdh16p1mrv",
+    "humidity": 97,
+    "pressure": 1012,
+    "temp": 0.12
+  },
+  {
+    "_creationTime": 1711427277578.57,
+    "_id": "j57dmnjy1hyxt2s746v4serpw16p11jn",
+    "humidity": 98,
+    "pressure": 1012,
+    "temp": 0.75
+  },
+  {
+    "_creationTime": 1711430877601.41,
+    "_id": "j571h36bgkmqk420w5c8vpqycs6p1d85",
+    "humidity": 97,
+    "pressure": 1012,
+    "temp": 1.39
+  },
+  {
+    "_creationTime": 1711434477591.5984,
+    "_id": "j57087nrnbfgq7pb3srd3b5yfd6p19zn",
+    "humidity": 97,
+    "pressure": 1012,
+    "temp": 2.03
+  },
+  {
+    "_creationTime": 1711438077574.7358,
+    "_id": "j577n5ry5pn9cezeghqvp191xh6p04e2",
+    "humidity": 100,
+    "pressure": 1011,
+    "temp": 2.67
+  },
+  {
+    "_creationTime": 1711441677606.4346,
+    "_id": "j572skxs0jqtx394kx04v4gykx6p1kdp",
+    "humidity": 100,
+    "pressure": 1011,
+    "temp": 3.3
+  },
+  {
+    "_creationTime": 1711445277598.7463,
+    "_id": "j570g77jeezr9jvgejkst3sqkd6p0b76",
+    "humidity": 100,
+    "pressure": 1011,
+    "temp": 3.3
+  },
+  {
+    "_creationTime": 1711448877599.1455,
+    "_id": "j575m2zxab19vm4v29b35nfb3d6p0zt5",
+    "humidity": 100,
+    "pressure": 1010,
+    "temp": 3.94
+  },
+  {
+    "_creationTime": 1711452477567.4727,
+    "_id": "j5728qrxzpcw6nfwz2y9qjedc96p0792",
+    "humidity": 100,
+    "pressure": 1009,
+    "temp": 3.94
+  },
+  {
+    "_creationTime": 1711456077592.4736,
+    "_id": "j57cgqqzwfkw5q082k41pmsbyn6p12y3",
+    "humidity": 100,
+    "pressure": 1010,
+    "temp": 3.94
+  },
+  {
+    "_creationTime": 1711459677597.2627,
+    "_id": "j57197xzqzpzthbhn73wvpdpqn6p1sm9",
+    "humidity": 100,
+    "pressure": 1009,
+    "temp": 3.3
+  },
+  {
+    "_creationTime": 1711463277634.0757,
+    "_id": "j57e8swz3kkzwzmw9zaryej6sn6p149d",
+    "humidity": 99,
+    "pressure": 1008,
+    "temp": 3.3
+  },
+  {
+    "_creationTime": 1711466877613.281,
+    "_id": "j572k4w3nd07pm5qy55evt6db16p0v8r",
+    "humidity": 98,
+    "pressure": 1007,
+    "temp": 3.3
+  },
+  {
+    "_creationTime": 1711470477626.1707,
+    "_id": "j570w1dme7j4jcbfxwt9kbzpts6p1j7x",
+    "humidity": 97,
+    "pressure": 1007,
+    "temp": 3.3
+  },
+  {
+    "_creationTime": 1711474077601.5825,
+    "_id": "j575fqzkrda17hzt4kmk6rak896p1ng5",
+    "humidity": 97,
+    "pressure": 1006,
+    "temp": 3.3
+  },
+  {
+    "_creationTime": 1711477677608.6262,
+    "_id": "j573pvtt2y9pgjk2nm70nrpyyn6p1j0v",
+    "humidity": 97,
+    "pressure": 1005,
+    "temp": 2.67
+  },
+  {
+    "_creationTime": 1711481277646.855,
+    "_id": "j57984hy295vnm1c8c3ktsjaz96p1d7f",
+    "humidity": 97,
+    "pressure": 1004,
+    "temp": 2.73
+  },
+  {
+    "_creationTime": 1711484877600.3677,
+    "_id": "j57aqb485v97f8ev6cfjffw1h56p184b",
+    "humidity": 97,
+    "pressure": 1004,
+    "temp": 2.11
+  },
+  {
+    "_creationTime": 1711488477628.4534,
+    "_id": "j5716cqesx8n7w0va3y64s414x6p1xyc",
+    "humidity": 97,
+    "pressure": 1003,
+    "temp": 2.11
+  },
+  {
+    "_creationTime": 1711492077575.2092,
+    "_id": "j57bq295062zc1mrctpsa5xr316p17ma",
+    "humidity": 97,
+    "pressure": 1002,
+    "temp": 2.11
+  },
+  {
+    "_creationTime": 1711495677583.4487,
+    "_id": "j57ah9840xz56jce594v7fdv3x6p0jf4",
+    "humidity": 98,
+    "pressure": 1001,
+    "temp": 2.11
+  },
+  {
+    "_creationTime": 1711499277558.399,
+    "_id": "j57aqwrqtvydgqy06kk3ngyz556p2ag2",
+    "humidity": 97,
+    "pressure": 1000,
+    "temp": 2.11
+  },
+  {
+    "_creationTime": 1711502877545.4673,
+    "_id": "j577276cv7dm0gat8xvh4jy1ts6p29yp",
+    "humidity": 98,
+    "pressure": 999,
+    "temp": 2.11
+  },
+  {
+    "_creationTime": 1711506477548.584,
+    "_id": "j576k43t561kz0907cd7m6d8js6p3ck8",
+    "humidity": 97,
+    "pressure": 998,
+    "temp": 2.11
+  },
+  {
+    "_creationTime": 1711510077588.4238,
+    "_id": "j579d910pkp3cjxsm3wtwt15bd6p3w4w",
+    "humidity": 97,
+    "pressure": 998,
+    "temp": 2.11
+  },
+  {
+    "_creationTime": 1711513677604.6296,
+    "_id": "j57f52m7xw24x2b8afewjf2ye16p3hff",
+    "humidity": 96,
+    "pressure": 997,
+    "temp": 1.48
+  },
+  {
+    "_creationTime": 1711517277586.1865,
+    "_id": "j574m9ayz2xmv515abbw3vwrc16p3s1c",
+    "humidity": 96,
+    "pressure": 997,
+    "temp": 1.42
+  },
+  {
+    "_creationTime": 1711520877543.192,
+    "_id": "j57an0689wjcdaaerrserz0dcx6p30z3",
+    "humidity": 96,
+    "pressure": 998,
+    "temp": 1.42
+  },
+  {
+    "_creationTime": 1711524477537.8228,
+    "_id": "j57852s9f77bxbt4ywjet6r0sd6p3a9s",
+    "humidity": 96,
+    "pressure": 997,
+    "temp": 1.42
+  },
+  {
+    "_creationTime": 1711528077551.3936,
+    "_id": "j577rjp63qgexh61a94wfqx9y56p2s7m",
+    "humidity": 96,
+    "pressure": 997,
+    "temp": 1.42
+  },
+  {
+    "_creationTime": 1711531677575.6152,
+    "_id": "j57css56bwqk3eapyea2361p3s6p2hc1",
+    "humidity": 96,
+    "pressure": 997,
+    "temp": 1.42
+  }
+]
