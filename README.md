@@ -1,5 +1,10 @@
 <div align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="50" height="50"> <img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width="50" height="50"> <img src="https://leetcode.com/static/images/badges/dcc-2024-3.png" width="50" height="50"> <img src="https://leetcode.com/static/images/badges/dcc-2024-2.png" width="50" height="50"> <img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="50" height="50"> <img src="https://leetcode.com/static/images/badges/dcc-2023-12.png" width="50" height="50"> <img src="https://leetcode.com/static/images/badges/dcc-2023-11.png" width="50" height="50"> </div>
 
+⏱️ **Time Stats**
+```text
+ wakatime           10469 mins          174 hrs 29 mins     
+```
+
 🔥 **LeetCode Stats**
 ```text
  All                631 tasks           █████░░░░░░░░░░░░░░░░░░░  20.34 %             
