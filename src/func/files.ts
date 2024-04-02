@@ -17,7 +17,7 @@ export async function files() {
     const files = await readdir(`./${item}`, { recursive: true });
     for (const one of files) {
       const t = Bun.file(`./${item}/${one}`);
-      set.add(t.type);
+      set.add(t.name!);
     }
   }
   console.log(Array.from(set));
