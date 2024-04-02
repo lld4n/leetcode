@@ -1,4 +1,29 @@
 import { readdir } from "node:fs/promises";
+import { complete, percentage, strip } from ".";
+
+const extension2name: {
+  [key: string]: string;
+} = {
+  ".ts": "typescript",
+  ".cpp": "c++",
+  ".js": "javascript",
+  ".pdf": "pdf",
+  ".py": "python",
+  ".md": "markdown",
+  ".sql": "sql",
+};
+
+const map: {
+  [key: string]: number;
+} = {
+  ".ts": 0,
+  ".cpp": 0,
+  ".js": 0,
+  ".pdf": 0,
+  ".py": 0,
+  ".md": 0,
+  ".sql": 0,
+};
 
 const list = [
   "октябрь.23",
@@ -12,13 +37,44 @@ const list = [
 ];
 
 export async function files() {
-  const all: string[] = [];
+  let all: string[] = [];
   for (const item of list) {
     const files = await readdir(`./${item}`, { recursive: true });
     for (const one of files) {
-      const t = Bun.file(`./${item}/${one}`);
-      all.push(t.name!);
+      const m = one.match(/\/[^\/]+\..+/);
+      if (m !== null) {
+        all.push(...m);
+      }
     }
   }
-  console.log(all.length);
+  all = all
+    .map((e) => {
+      const b = e.match(/\..+/);
+      if (b === null) {
+        return [""];
+      }
+      return [...b];
+    })
+    .flat();
+  let c = 0;
+  for (const f of all) {
+    c++;
+    if (map[f]) {
+      map[f]++;
+    } else {
+      map[f] = 1;
+    }
+  }
+
+  const entities = Object.entries(map).sort((a, b) => b[1] - a[1]);
+  let res = "**files**\n```text\n";
+  for (const item of entities) {
+    res += complete(extension2name[item[0]] || item[0]);
+    res += complete(item[1] + " files");
+    res += strip(item[1], c);
+    res += complete(percentage(item[1], c));
+    res += "\n";
+  }
+  res += "```\n\n";
+  return res;
 }

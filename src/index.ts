@@ -7,9 +7,9 @@ async function main() {
   result += badges();
   // result += await waka();
   result += await leetcode();
-  result += await wakaMini();
-  await files();
+  result += await files();
 
+  result += await wakaMini();
   Bun.write("./README.md", result);
   sync();
   const end = new Date().getTime();
