@@ -6,7 +6,7 @@ async function main() {
   let result = "";
   result += badges();
   result += "";
-  result += await waka();
+  // result += await waka();
   result += await leetcode();
   result += "";
 
