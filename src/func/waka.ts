@@ -18,7 +18,7 @@ export async function waka() {
   if (data === null) return "";
 
   let res = "";
-  res += "wakatime\n```text\n";
+  res += "**wakatime**\n```text\n";
   res += complete("time");
   res += complete(data.data.text);
   res += "\n";

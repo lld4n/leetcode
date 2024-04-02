@@ -23,7 +23,7 @@ type returnType = {
 export async function leetcode() {
   const data = await get();
   if (data === null) return "";
-  let res = "leetcode\n```text\n";
+  let res = "**leetcode**\n```text\n";
   for (const key in data) {
     res += complete(key);
     res += complete(data[key][0] + " tasks");
@@ -31,7 +31,7 @@ export async function leetcode() {
     res += complete(percentage(data[key][0], data[key][1]));
     res += "\n";
   }
-  res += "\n```\n\n";
+  res += "```\n\n";
   return res;
 }
 
