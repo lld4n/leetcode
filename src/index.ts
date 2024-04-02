@@ -1,27 +1,19 @@
-import * as fs from "fs";
-import { getBadges } from "./badges";
-import { getWaka } from "./waka";
-import { sync } from "./sync";
-import { getLeetcode } from "./leetcode";
-import { getTasks } from "./tasks";
-// let result = `<p align="center">неважно, возможно это или нет</p>`;
-// result += `<div align="center"><code>モンキー･D･ルフィ</code></div><br>`;
-// result += generateStats();
-
-// const map = generateMap();
-// result += generateMapRes(map);
-// const content = generateContent();
-// result += generateList(content);
+import { badges, leetcode, sync, waka } from "./func";
 
 async function main() {
+  const start = new Date().getTime();
+
   let result = "";
-  result += getBadges();
-  result += await getWaka();
-  result += await getLeetcode();
-  result += getTasks();
+  result += badges();
+  result += "```text\n";
+  result += await waka();
+  result += await leetcode();
+  result += "```";
 
-  fs.writeFileSync("README.md", result);
-
+  Bun.write("./README.md", result);
   sync();
+  const end = new Date().getTime();
+  console.log("finished by " + (end - start) / 1000);
 }
+
 main();

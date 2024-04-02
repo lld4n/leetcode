@@ -1,21 +1,21 @@
 {
   "name": "leetcode",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "lldan",
-  "license": "MIT",
+  "module": "src/index.ts",
+  "type": "module",
   "scripts": {
-    "deploy": "tsc && node dist/index.js"
+    "deploy": "bun run src/index.ts"
   },
   "devDependencies": {
-    "@types/lodash": "^4.14.202",
-    "@types/node": "^20.11.16",
-    "prettier": "3.0.3",
-    "typescript": "^5.2.2"
+    "@types/bun": "latest",
+    "@types/lodash": "^4.17.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
   },
   "dependencies": {
-    "axios": "^1.6.7",
-    "leetcode-query": "^0.2.7",
-    "lodash": "^4.17.21"
+    "ky": "^1.2.3",
+    "leetcode-query": "^1.2.3",
+    "lodash": "^4.17.21",
+    "prettier": "^3.2.5"
   }
 }
