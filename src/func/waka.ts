@@ -13,6 +13,12 @@ type dataType = {
   };
 };
 
+export async function wakaMini() {
+  const data: dataType | null = await getApi();
+  if (data === null) return "";
+  return `<sub>wakatime - ${data.data.text}</sub>`;
+}
+
 export async function waka() {
   const data: dataType | null = await getApi();
   if (data === null) return "";

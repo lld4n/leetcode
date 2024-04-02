@@ -1,14 +1,13 @@
-import { badges, leetcode, sync, waka } from "./func";
+import { badges, leetcode, sync, wakaMini } from "./func";
 
 async function main() {
   const start = new Date().getTime();
 
   let result = "";
   result += badges();
-  result += "";
   // result += await waka();
   result += await leetcode();
-  result += "";
+  result += await wakaMini();
 
   Bun.write("./README.md", result);
   sync();
