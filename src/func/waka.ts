@@ -26,7 +26,7 @@ export async function waka() {
   res += complete(
     String(Math.floor(data.data.daily_average / 60)) + " mins",
   );
-  res += "```\n\n";
+  res += "\n```\n\n";
   return res;
 }
 

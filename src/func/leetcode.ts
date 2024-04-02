@@ -31,7 +31,7 @@ export async function leetcode() {
     res += complete(percentage(data[key][0], data[key][1]));
     res += "\n";
   }
-  res += "```\n\n";
+  res += "\n```\n\n";
   return res;
 }
 
