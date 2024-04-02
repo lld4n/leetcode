@@ -21,7 +21,7 @@ export const SECONDARY_BADGES = [
   "https://leetcode.com/static/images/badges/dcc-2023-11.png",
 ];
 
-export const SIZE = 30;
+export const SIZE = 40;
 
 export const LEN = 20;
 export const LEN_STRIP = 25;
