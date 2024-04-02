@@ -5,6 +5,7 @@ export const _folders = [
   "январь.24",
   "февраль.24",
   "март.24",
+  "апрель.24",
 ];
 
 export const _waka =
