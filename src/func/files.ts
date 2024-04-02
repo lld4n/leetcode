@@ -12,13 +12,13 @@ const list = [
 ];
 
 export async function files() {
-  const set: Set<string> = new Set();
+  const all: string[] = [];
   for (const item of list) {
     const files = await readdir(`./${item}`, { recursive: true });
     for (const one of files) {
       const t = Bun.file(`./${item}/${one}`);
-      set.add(t.name!);
+      all.push(t.name!);
     }
   }
-  console.log(Array.from(set));
+  console.log(all.length);
 }
