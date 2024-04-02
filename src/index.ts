@@ -5,10 +5,10 @@ async function main() {
 
   let result = "";
   result += badges();
-  result += "```text\n";
+  result += "";
   result += await waka();
   result += await leetcode();
-  result += "```";
+  result += "";
 
   Bun.write("./README.md", result);
   sync();

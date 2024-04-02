@@ -18,7 +18,7 @@ export async function waka() {
   if (data === null) return "";
 
   let res = "";
-  res += "wakatime\n";
+  res += "wakatime\n```text\n";
   res += complete("time");
   res += complete(data.data.text);
   res += "\n";
@@ -26,7 +26,7 @@ export async function waka() {
   res += complete(
     String(Math.floor(data.data.daily_average / 60)) + " mins",
   );
-  res += "\n\n";
+  res += "```\n\n";
   return res;
 }
 
