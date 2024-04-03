@@ -2,6 +2,7 @@
   "name": "leetcode",
   "module": "src/index.ts",
   "type": "module",
+  "license": "MIT",
   "scripts": {
     "deploy": "bun run src/index.ts"
   },
