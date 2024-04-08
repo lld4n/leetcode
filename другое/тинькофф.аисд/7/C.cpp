@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-#include <algorithm>
 
 using namespace std;
 
@@ -26,15 +25,19 @@ int main() {
 
   for (int i = 2; i <= n; ++i) {
     nmax = i - 1;
-    int mx = max(i - k, 1);
-    cout << mx << " " << i << endl;
-    nmax = *max_element(dp.begin() + mx, dp.begin() + i);
+    int max;
+    if ((i - k) > 1) {
+      max = i - k;
+    } else {
+      max = 1;
+    }
+
+
+    for (int j = max; j < i; j++) {
+      if (dp[nmax] < dp[j]) nmax = j;
+    }
     monet[i] = nmax;
     dp[i] = dp[nmax] + pillars[i];
-//    for (int j = mx; j < i; j++) {
-//      if (dp[nmax] < dp[j]) nmax = j;
-//    }
-
   }
 
 
