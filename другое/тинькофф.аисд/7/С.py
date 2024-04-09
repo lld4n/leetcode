@@ -1,44 +1,36 @@
-import math
-import sys
+from collections import deque
 
 
-def greedy_grasshopper(n, m, lst):
-    lst.append(0)
-    max_coins_list = [0 for _ in range(n)]
-    prev_bump_list = [0 for _ in range(n)]
-    for ind_bump in range(1, n):
-        prev_max_coins = -math.inf
-        prev_max_ind = -1
-        for prev_step in range(1, m + 1):
-            prev_ind = ind_bump - prev_step
-            if prev_ind >= 0:
-                if max_coins_list[prev_ind] > prev_max_coins:
-                    prev_max_coins = max_coins_list[prev_ind]
-                    prev_max_ind = prev_ind
-            else:
-                break
-        max_coins_list[ind_bump] = prev_max_coins + lst[ind_bump - 1]
-        prev_bump_list[ind_bump] = prev_max_ind
-    len_route, route = extract_route(prev_bump_list)
-    return max_coins_list, len_route, route
+def find_min_cost_path_linear(n, k, cost):
+    # Инициализируем массив min_cost нулями, так как будем добавлять стоимости к ним
+    min_cost = [0] * (n + 1)
+    path = [0] * (n + 2)
+    # Создаем двустороннюю очередь для индексов, которые обеспечивают минимальные стоимости
+    dq = deque([0])  # Стартуем с 0-ой клетки, так как с неё начинаем движение
+
+    # Начинаем с 1, так как стоимость для 0 установлена равной 0
+    for i in range(1, n + 1):
+        # Убираем индексы, которые вышли за пределы диапазона k
+        while dq and dq[0] < i - k:
+            dq.popleft()
+
+        # Минимальная стоимость для клетки i это стоимость на текущей клетке
+        # плюс минимальная стоимость достижения клетки из очереди
+        min_cost[i] = min_cost[dq[0]]
+        path[i] = dq[0]
+        # Убираем все индексы с более высокой стоимостью, так как они больше не будут использоваться
+        while dq and min_cost[i] <= min_cost[dq[-1]]:
+            dq.pop()
+
+        # Добавляем текущий индекс в очередь
+        dq.append(i)
+    print(path)
+    # Возвращаем минимальную стоимость достижения клетки n
+    return min_cost[n]
 
 
-def extract_route(prev_bump_list):
-    reversed_route = [len(prev_bump_list)]
-    this_bump = prev_bump_list[-1]
-    while not this_bump == 0:
-        reversed_route.append(this_bump + 1)
-        this_bump = prev_bump_list[this_bump]
-    reversed_route.append(1)
-    return len(reversed_route) - 1, reversed(reversed_route)
+n = 10
+k = 3
+cost = [-13, -2, -14, -124, -9, -6, -5, -7]
 
-
-n, m = map(int, sys.stdin.readline().split())
-lst = list(map(int, sys.stdin.readline().split()))
-max_coins, n_steps, route = greedy_grasshopper(n, m, lst)
-
-sys.stdout.write(str(max_coins[-1]) + '\n')
-sys.stdout.write(str(n_steps) + '\n')
-for q in route:
-    sys.stdout.write(str(q) + " ")
-# print(*route)
+find_min_cost_path_linear(n, k, cost)

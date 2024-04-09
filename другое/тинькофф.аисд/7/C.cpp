@@ -1,5 +1,7 @@
 #include <iostream>
 #include <vector>
+#include <deque>
+
 
 using namespace std;
 
@@ -12,53 +14,39 @@ int main() {
   int n, k;
   cin >> n >> k;
   vector<int> pillars(n + 1, 0);
+  for (int i = 2; i < n; ++i) cin >> pillars[i];
+  vector<long long> dp(n + 1, 0);
+  vector<int> path(n + 1, 0);
+  deque<int> deq;
 
-  for (int i = 2; i < n; ++i) {
-    cin >> pillars[i];
-  }
-
-  vector<int> dp(n + 1, 0);
-  vector<int> monet(n + 1, 0);
-
-
-  int nmax;
+  deq.push_back(1);
 
   for (int i = 2; i <= n; ++i) {
-    nmax = i - 1;
-    int max;
-    if ((i - k) > 1) {
-      max = i - k;
-    } else {
-      max = 1;
+    while (!deq.empty() && deq.front() < i - k) {
+      deq.pop_front();
     }
 
+    dp[i] = dp[deq.front()] + pillars[i];
+    path[i] = deq.front();
 
-    for (int j = max; j < i; j++) {
-      if (dp[nmax] < dp[j]) nmax = j;
+    while (!deq.empty() && dp[i] >= dp[deq.back()]) {
+      deq.pop_back();
     }
-    monet[i] = nmax;
-    dp[i] = dp[nmax] + pillars[i];
-  }
-
-
-  int c = 0;
-  int num = n;
-
-  vector<int> j;
-
-  j.emplace_back(num);
-
-  while (num > 1) {
-    num = monet[num];
-    j.emplace_back(num);
-    c++;
+    deq.push_back(i);
   }
 
   cout << dp[n] << endl;
-  cout << c << endl;
-  for (int i = (int) j.size() - 1; i >= 0; --i) {
-    cout << j[i] << " ";
+
+  int i = n;
+  vector<int> ans;
+  while (i != 0) {
+    ans.push_back(i);
+    i = path[i];
   }
 
+  cout << ans.size() - 1 << endl;
+  for (int q = (int) ans.size() - 1; q >= 0; --q) {
+    cout << ans[q] << " ";
+  }
   return 0;
 }
