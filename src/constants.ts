@@ -9,6 +9,7 @@ export const FOLDERS = [
 ];
 
 export const MAIN_BADGES = [
+  "https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png",
   "https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png",
   "https://assets.leetcode.com/static_assets/marketing/lg50.png",
 ];
