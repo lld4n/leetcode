@@ -17,7 +17,7 @@ async function main() {
   Bun.write("./README.md", result);
   sync();
   const end = new Date().getTime();
-  console.log("🅱 finished" + (end - start) / 1000);
+  console.log("🅱" + (end - start) / 1000 + " sec");
 }
 
 main();
