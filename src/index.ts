@@ -4,20 +4,20 @@ async function main() {
   const start = new Date().getTime();
 
   let result = "";
-  console.log("пошла возня");
+  console.log("🅱 пошла возня");
   result += badges();
-  console.log("badges");
+  console.log("🅱 badges");
   // result += await waka();
   result += await leetcode();
-  console.log("leetcode");
+  console.log("🅱 leetcode");
   result += await files();
-  console.log("files");
+  console.log("🅱 files");
   result += await wakaMini();
-  console.log("wakatime");
+  console.log("🅱 wakatime");
   Bun.write("./README.md", result);
   sync();
   const end = new Date().getTime();
-  console.log("finished by " + (end - start) / 1000);
+  console.log("🅱 finished" + (end - start) / 1000);
 }
 
 main();
