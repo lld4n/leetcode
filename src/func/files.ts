@@ -11,19 +11,13 @@ const extension2name: {
   ".py": "python",
   ".md": "markdown",
   ".sql": "sql",
+  ".txt": "input",
+  ".out": "compiled cpp",
 };
 
 const map: {
   [key: string]: number;
-} = {
-  ".ts": 0,
-  ".cpp": 0,
-  ".js": 0,
-  ".pdf": 0,
-  ".py": 0,
-  ".md": 0,
-  ".sql": 0,
-};
+} = {};
 
 const list = [
   "октябрь.23",
