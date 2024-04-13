@@ -14,8 +14,11 @@ export async function days() {
       }
     }
   }
-  console.log(map);
 
+  const entries = Object.entries(map)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 5);
+  console.log(entries);
   // let res = "**files**\n```text\n";
   // for (const item of entities) {
   //   res += complete(extension2name[item[0]] || item[0]);
