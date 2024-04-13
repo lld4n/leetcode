@@ -19,7 +19,7 @@ export async function days() {
 
   const entries = Object.entries(map)
     .sort((a, b) => b[1] - a[1])
-    .slice(0, 5);
+    .slice(0, 10);
   console.log(entries);
   // let res = "**files**\n```text\n";
   // for (const item of entities) {
