@@ -12,7 +12,7 @@ export async function days() {
         const tasks = (
           await readdir("./" + top + "/" + bottom)
         ).filter((e) => e !== ".DS_Store");
-        map[top + "/" + bottom] = tasks.length;
+        map[bottom] = tasks.length;
         c += tasks.length;
       } catch (e) {
         //
