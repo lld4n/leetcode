@@ -1,5 +1,6 @@
 import { readdir } from "node:fs/promises";
 import { complete, percentage, strip } from ".";
+import { FOLDERS } from "../constants.ts";
 
 const extension2name: {
   [key: string]: string;
@@ -19,20 +20,9 @@ const map: {
   [key: string]: number;
 } = {};
 
-const list = [
-  "октябрь.23",
-  "апрель.24",
-  "другое",
-  "февраль.24",
-  "январь.24",
-  "ноябрь.23",
-  "декабрь.23",
-  "март.24",
-];
-
 export async function files() {
   let all: string[] = [];
-  for (const item of list) {
+  for (const item of FOLDERS) {
     const files = await readdir(`./${item}`, { recursive: true });
     for (const one of files) {
       const m = one.match(/\/[^\/]+\..+/);
