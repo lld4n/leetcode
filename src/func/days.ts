@@ -8,7 +8,9 @@ export async function days() {
     for (const bottom of medium) {
       try {
         const tasks = await readdir("./" + top + "/" + bottom);
-        map[top + "/" + bottom] = tasks.length;
+        map[top + "/" + bottom] = tasks.filter(
+          (e) => e !== ".DS_Store",
+        ).length;
       } catch (e) {
         //
       }
