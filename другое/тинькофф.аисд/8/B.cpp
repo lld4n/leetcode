@@ -59,12 +59,8 @@ public:
 
 private:
   Type combine(Type a, Type b) {
-    if (a.first < b.first) {
-      return a;
-    }
-    if (b.first < a.first) {
-      return b;
-    }
+    if (a.first < b.first) return a;
+    if (b.first < a.first) return b;
     return {a.first, a.second + b.second};
   }
 
