@@ -80,7 +80,7 @@ void update(vector<Node> &tree, int v, bool value, int l, int r) {
   if (left && right) --tree[v].segments;
 }
 
-signed main() {
+int main() {
   ios_base::sync_with_stdio(false);
   cin.tie(nullptr);
   cout.tie(nullptr);
