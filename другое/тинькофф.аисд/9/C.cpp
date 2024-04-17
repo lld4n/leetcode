@@ -3,91 +3,107 @@
 
 using namespace std;
 
-struct tree {
-  int v = 0, len = 0, x, lv;
-  bool l = 0, r = 0, psh = false, p = false;
-  char c;
+
+struct Node {
+  int number, segments, set, left, right;
+  bool up;
+
+  Node() {}
+
+  Node(int _left, int _right) {
+    number = segments = 0;
+    set = up = false;
+    left = _left;
+    right = _right;
+  }
 };
 
-tree tr[800000];
-vector<int> a;
 
-int lwbnd(int key) {
-  int left = -1;
-  int right = a.size();
-  while (right - left > 1) {
-    int middle = (left + right) / 2;
-    if (a[middle] < key) {
-      left = middle;
-    } else {
-      right = middle;
-    }
+void build(vector<Node> &tree, int v, int tl, int tr) {
+  tree[v] = Node(tl, tr);
+
+  if (tl != tr) {
+    int tm = (tl + tr) / 2;
+    build(tree, v * 2, tl, tm);
+    build(tree, v * 2 + 1, tm + 1, tr);
   }
-  return right;
 }
 
-void s_t(int ind, int l, int r, int L, int R, bool val) {
-  if (L <= l and r <= R) {
-    tr[ind].len = (a[r] - a[l]) * val;
-    tr[ind].v = tr[ind].l = tr[ind].r = val;
-    tr[ind].psh = true;
-    tr[ind].p = val;
+void push(vector<Node> &tree, int v) {
+  if (!tree[v].up) return;
+
+  tree[v].number = (tree[v].set ? (tree[v].right - tree[v].left + 1) : 0);
+  tree[v].segments = (tree[v].set ? 1 : 0);
+  tree[v].up = false;
+
+  if (tree[v].left == tree[v].right) return;
+
+  tree[v * 2].set = tree[v * 2 + 1].set = tree[v].set;
+  tree[v * 2].up = tree[v * 2 + 1].up = true;
+}
+
+void update(vector<Node> &tree, int v, bool value, int l, int r) {
+  if (tree[v].right < l || tree[v].left > r) return;
+
+  if (tree[v].right <= r && tree[v].left >= l) {
+    push(tree, v);
+    tree[v].set = value;
+    tree[v].up = true;
     return;
   }
 
-  if (r <= L or R <= l) {
-    return;
-  }
+  push(tree, v);
+  update(tree, v * 2, value, l, r);
+  update(tree, v * 2 + 1, value, l, r);
 
-  if (tr[ind].psh) {
-    int m = (l + r) / 2;
-    tr[ind * 2 + 1].len = (a[m] - a[l]) * tr[ind].p;
-    tr[ind * 2 + 1].v = tr[ind * 2 + 1].l = tr[ind * 2 + 1].r = tr[ind].p;
-    tr[ind * 2 + 1].psh = true;
-    tr[ind * 2 + 1].p = tr[ind].p;
-    tr[ind * 2 + 2].len = (a[r] - a[m]) * tr[ind].p;
-    tr[ind * 2 + 2].v = tr[ind * 2 + 2].l = tr[ind * 2 + 2].r = tr[ind].p;
-    tr[ind * 2 + 2].psh = true;
-    tr[ind * 2 + 2].p = tr[ind].p;
-    tr[ind].psh = false;
+
+  int cur = v * 2;
+  while (true) {
+    push(tree, cur);
+    if (tree[cur].left == tree[cur].right) break;
+    cur = cur * 2 + 1;
   }
-  int m = (l + r) / 2;
-  s_t(ind * 2 + 1, l, m, L, R, val);
-  s_t(ind * 2 + 2, m, r, L, R, val);
-  tr[ind].len = tr[ind * 2 + 1].len + tr[ind * 2 + 2].len;
-  tr[ind].v = tr[ind * 2 + 1].v + tr[ind * 2 + 2].v -
-              (tr[ind * 2 + 1].r & tr[ind * 2 + 2].l);
-  tr[ind].l = tr[ind * 2 + 1].l;
-  tr[ind].r = tr[ind * 2 + 2].r;
+  bool left = (tree[cur].number == 1);
+
+  cur = v * 2 + 1;
+  while (true) {
+    push(tree, cur);
+    if (tree[cur].left == tree[cur].right) break;
+    cur = cur * 2;
+  }
+  bool right = (tree[cur].number == 1);
+
+
+  tree[v].number = tree[v * 2].number + tree[v * 2 + 1].number;
+  tree[v].segments = tree[v * 2].segments + tree[v * 2 + 1].segments;
+
+  if (left && right) --tree[v].segments;
 }
 
-int main() {
-  ios::sync_with_stdio(false);
+signed main() {
+  ios_base::sync_with_stdio(false);
   cin.tie(nullptr);
   cout.tie(nullptr);
+
+  vector<Node> tree(1'000'100 * 4);
+  build(tree, 1, 0, 1'000'100);
+
   int n;
   cin >> n;
 
-  int i = 0;
+  int x, l;
+  char color;
+  for (int req = 0; req < n; ++req) {
+    cin >> color >> x >> l;
 
-  while (i < n) {
-    cin >> tr[i].c >> tr[i].x >> tr[i].lv;
-    a.push_back(tr[i].x);
-    a.push_back(tr[i].x + tr[i].lv);
-    ++i;
+    if (l > 0) {
+      --l;
+    } else {
+      ++l;
+    }
+
+    update(tree, 1, (color == 'B'), x + 500'000, x + l + 500'000);
+
+    cout << tree[1].segments << ' ' << tree[1].number << endl;
   }
-
-  sort(a.begin(), a.end());
-  a.resize(unique(a.begin(), a.end()) - a.begin());
-
-  i = 0;
-
-  while (i < n) {
-    s_t(0, 0, a.size() - 1, lwbnd(tr[i].x), lwbnd(tr[i].x + tr[i].lv),
-        tr[i].c == 'B');
-    cout << tr[0].v << " " << tr[0].len << endl;
-    ++i;
-  }
-
-  return 0;
 }
