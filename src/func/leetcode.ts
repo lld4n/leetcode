@@ -42,8 +42,8 @@ async function get(): Promise<returnType | null> {
     );
     const j: dataType = await data.json();
     return {
-      easy: [j.easySolved, j.totalEasy],
       total: [j.totalSolved, j.totalQuestions],
+      easy: [j.easySolved, j.totalEasy],
       medium: [j.mediumSolved, j.totalMedium],
       hard: [j.hardSolved, j.totalHard],
     };
