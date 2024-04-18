@@ -20,10 +20,10 @@ async function main() {
   console.log("🅱 leetcode");
   result += await files();
   console.log("🅱 files");
-  result += await days();
-  console.log("🅱 days");
   result += await month();
   console.log("🅱 month");
+  result += await days();
+  console.log("🅱 days");
   result += await wakaMini();
   console.log("🅱 wakatime");
   await Bun.write("./README.md", result);

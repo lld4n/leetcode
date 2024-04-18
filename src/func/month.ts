@@ -19,7 +19,6 @@ export async function month() {
       }
     }
   }
-  console.log(map);
 
   const entries = Object.entries(map).sort((a, b) => b[1] - a[1]);
   let res = "**month**\n```text\n";
