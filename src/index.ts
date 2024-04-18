@@ -26,10 +26,10 @@ async function main() {
   console.log("🅱 month");
   result += await wakaMini();
   console.log("🅱 wakatime");
-  Bun.write("./README.md", result);
+  await Bun.write("./README.md", result);
   sync();
   const end = new Date().getTime();
   console.log("🅱 " + (end - start) / 1000 + " sec");
 }
 
-main();
+await main();

@@ -21,17 +21,15 @@ export async function month() {
   }
   console.log(map);
 
-  // const entries = Object.entries(map)
-  //   .sort((a, b) => b[1] - a[1])
-  //   .slice(0, 10);
-  // let res = "**days**\n```text\n";
-  // for (const item of entries) {
-  //   res += complete(item[0]);
-  //   res += complete(item[1] + " tasks");
-  //   res += strip(item[1], c);
-  //   res += complete(percentage(item[1], c));
-  //   res += "\n";
-  // }
-  // res += "```\n\n";
-  // return res;
+  const entries = Object.entries(map).sort((a, b) => b[1] - a[1]);
+  let res = "**month**\n```text\n";
+  for (const item of entries) {
+    res += complete(item[0]);
+    res += complete(item[1] + " tasks");
+    res += strip(item[1], c);
+    res += complete(percentage(item[1], c));
+    res += "\n";
+  }
+  res += "```\n\n";
+  return res;
 }
