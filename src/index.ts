@@ -3,6 +3,7 @@ import {
   days,
   files,
   leetcode,
+  month,
   sync,
   wakaMini,
 } from "./func";
@@ -21,6 +22,8 @@ async function main() {
   console.log("🅱 files");
   result += await days();
   console.log("🅱 days");
+  result += await month();
+  console.log("🅱 month");
   result += await wakaMini();
   console.log("🅱 wakatime");
   Bun.write("./README.md", result);
