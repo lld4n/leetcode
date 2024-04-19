@@ -1,5 +1,13 @@
 <div align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" width="40" height="40"> <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="40" height="40"> <img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-3.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-2.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2023-12.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2023-11.png" width="40" height="40"> </div>
 
+**leetcode**
+```text
+total               702 tasks           █████░░░░░░░░░░░░░░░░░░░ 22.51 %             
+easy                526 tasks           ████████████████░░░░░░░░ 66.84 %             
+medium              146 tasks           ██░░░░░░░░░░░░░░░░░░░░░░ 08.92 %             
+hard                30 tasks            █░░░░░░░░░░░░░░░░░░░░░░░ 04.32 %             
+```
+
 **files**
 ```text
 typescript          588 files           ███████████████████████░ 93.48 %             

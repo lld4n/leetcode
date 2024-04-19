@@ -32,4 +32,4 @@ async function main() {
   console.log("🅱 " + (end - start) / 1000 + " sec");
 }
 
-await main();
+main();
