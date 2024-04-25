@@ -22,7 +22,7 @@ const map: {
 
 export async function files() {
   let all: string[] = [];
-  for (const item of FOLDERS) {
+  for (const item of [...FOLDERS, "другое"]) {
     const files = await readdir(`./${item}`, { recursive: true });
     for (const one of files) {
       const m = one.match(/\/[^\/]+\..+/);
@@ -31,7 +31,6 @@ export async function files() {
       }
     }
   }
-  console.log(all);
   all = all
     .map((e) => {
       const b = e.match(/\..+/);
