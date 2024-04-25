@@ -40,6 +40,8 @@ export async function files() {
       return [...b];
     })
     .flat();
+
+  console.log(all);
   let c = 0;
   for (const f of all) {
     c++;
