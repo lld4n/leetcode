@@ -31,6 +31,7 @@ export async function files() {
       }
     }
   }
+  console.log(all);
   all = all
     .map((e) => {
       const b = e.match(/\..+/);
@@ -41,7 +42,6 @@ export async function files() {
     })
     .flat();
 
-  console.log(all);
   let c = 0;
   for (const f of all) {
     c++;
