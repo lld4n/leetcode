@@ -1,10 +1,10 @@
-<div align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" width="40" height="40"> <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="40" height="40"> <img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-3.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-2.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2023-12.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2023-11.png" width="40" height="40"> </div>
+<div align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" width="40" height="40"> <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="40" height="40"> <img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-4.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-3.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-2.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2023-12.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2023-11.png" width="40" height="40"> </div>
 
 **leetcode**
 ```text
-total               711 tasks           █████░░░░░░░░░░░░░░░░░░░ 22.69 %             
+total               712 tasks           █████░░░░░░░░░░░░░░░░░░░ 22.72 %             
 easy                527 tasks           ████████████████░░░░░░░░ 66.71 %             
-medium              151 tasks           ██░░░░░░░░░░░░░░░░░░░░░░ 09.17 %             
+medium              152 tasks           ██░░░░░░░░░░░░░░░░░░░░░░ 09.23 %             
 hard                33 tasks            █░░░░░░░░░░░░░░░░░░░░░░░ 04.73 %             
 ```
 
@@ -46,4 +46,4 @@ compiled cpp        3 files             ░░░░░░░░░░░░░�
 11-02-24            20 tasks            ░░░░░░░░░░░░░░░░░░░░░░░░ 03.16 %             
 ```
 
-<sub>wakatime - 219 hrs 13 mins</sub>
+<sub>wakatime - 221 hrs 11 mins</sub>

@@ -15,6 +15,7 @@ export const MAIN_BADGES = [
 ];
 
 export const SECONDARY_BADGES = [
+  "https://leetcode.com/static/images/badges/dcc-2024-4.png",
   "https://leetcode.com/static/images/badges/dcc-2024-3.png",
   "https://leetcode.com/static/images/badges/dcc-2024-2.png",
   "https://leetcode.com/static/images/badges/dcc-2024-1.png",
