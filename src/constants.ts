@@ -6,6 +6,7 @@ export const FOLDERS = [
   "февраль.24",
   "март.24",
   "апрель.24",
+  "май.24",
 ];
 
 export const MAIN_BADGES = [
