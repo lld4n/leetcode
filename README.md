@@ -1,22 +1,14 @@
 <div align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" width="40" height="40"> <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="40" height="40"> <img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-4.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-3.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-2.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2023-12.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2023-11.png" width="40" height="40"> </div>
 
-**leetcode**
-```text
-total               719 tasks           █████░░░░░░░░░░░░░░░░░░░ 22.89 %             
-easy                527 tasks           ████████████████░░░░░░░░ 66.62 %             
-medium              159 tasks           ██░░░░░░░░░░░░░░░░░░░░░░ 09.64 %             
-hard                33 tasks            █░░░░░░░░░░░░░░░░░░░░░░░ 04.71 %             
-```
-
 **files**
 ```text
-typescript          613 files           ███████████████████░░░░░ 76.34 %             
-c++                 82 files            ██░░░░░░░░░░░░░░░░░░░░░░ 10.21 %             
+typescript          613 files           ███████████████████░░░░░ 76.24 %             
+c++                 82 files            ██░░░░░░░░░░░░░░░░░░░░░░ 10.20 %             
 python              36 files            █░░░░░░░░░░░░░░░░░░░░░░░ 04.48 %             
 sql                 29 files            ░░░░░░░░░░░░░░░░░░░░░░░░ 03.61 %             
 javascript          13 files            ░░░░░░░░░░░░░░░░░░░░░░░░ 01.62 %             
+pdf                 13 files            ░░░░░░░░░░░░░░░░░░░░░░░░ 01.62 %             
 markdown            12 files            ░░░░░░░░░░░░░░░░░░░░░░░░ 01.49 %             
-pdf                 12 files            ░░░░░░░░░░░░░░░░░░░░░░░░ 01.49 %             
 input               3 files             ░░░░░░░░░░░░░░░░░░░░░░░░ 00.37 %             
 compiled cpp        3 files             ░░░░░░░░░░░░░░░░░░░░░░░░ 00.37 %             
 ```
@@ -47,4 +39,4 @@ compiled cpp        3 files             ░░░░░░░░░░░░░�
 11-02-24            20 tasks            ░░░░░░░░░░░░░░░░░░░░░░░░ 03.15 %             
 ```
 
-<sub>wakatime - 224 hrs 12 mins</sub>
+<sub>wakatime - 226 hrs 5 mins</sub>
