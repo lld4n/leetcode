@@ -7,3 +7,8 @@ dist
 cmake-build-debug
 .env
 
+
+
+# Added by cargo
+
+/target

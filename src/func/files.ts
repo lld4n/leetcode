@@ -14,6 +14,7 @@ const extension2name: {
   ".sql": "sql",
   ".txt": "input",
   ".out": "compiled cpp",
+  ".rs": "rust",
 };
 
 const map: {
