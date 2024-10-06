@@ -1,4 +1,4 @@
-<div align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" width="40" height="40"> <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="40" height="40"> <img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-4.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-3.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-2.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2023-12.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2023-11.png" width="40" height="40"> </div>
+<div align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" width="40" height="40"> <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" width="40" height="40"> <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="40" height="40"> <img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-9.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-4.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-3.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-2.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2023-12.png" width="40" height="40"> <img src="https://leetcode.com/static/images/badges/dcc-2023-11.png" width="40" height="40"> </div>
 
 **files**
 ```text
@@ -15,15 +15,15 @@ compiled cpp        3 files             ░░░░░░░░░░░░░�
 
 **month**
 ```text
-февраль.24          303 tasks           ███████████░░░░░░░░░░░░░ 46.76 %             
-ноябрь.23           113 tasks           ████░░░░░░░░░░░░░░░░░░░░ 17.44 %             
-апрель.24           68 tasks            ██░░░░░░░░░░░░░░░░░░░░░░ 10.49 %             
-октябрь.23          40 tasks            █░░░░░░░░░░░░░░░░░░░░░░░ 06.17 %             
-март.24             39 tasks            █░░░░░░░░░░░░░░░░░░░░░░░ 06.02 %             
-декабрь.23          35 tasks            █░░░░░░░░░░░░░░░░░░░░░░░ 05.40 %             
-январь.24           35 tasks            █░░░░░░░░░░░░░░░░░░░░░░░ 05.40 %             
-август.24           13 tasks            ░░░░░░░░░░░░░░░░░░░░░░░░ 02.01 %             
-май.24              2 tasks             ░░░░░░░░░░░░░░░░░░░░░░░░ 00.31 %             
+24/февраль.24       303 tasks           ███████████░░░░░░░░░░░░░ 46.76 %             
+23/ноябрь.23        113 tasks           ████░░░░░░░░░░░░░░░░░░░░ 17.44 %             
+24/апрель.24        68 tasks            ██░░░░░░░░░░░░░░░░░░░░░░ 10.49 %             
+23/октябрь.23       40 tasks            █░░░░░░░░░░░░░░░░░░░░░░░ 06.17 %             
+24/март.24          39 tasks            █░░░░░░░░░░░░░░░░░░░░░░░ 06.02 %             
+23/декабрь.23       35 tasks            █░░░░░░░░░░░░░░░░░░░░░░░ 05.40 %             
+24/январь.24        35 tasks            █░░░░░░░░░░░░░░░░░░░░░░░ 05.40 %             
+24/август.24        13 tasks            ░░░░░░░░░░░░░░░░░░░░░░░░ 02.01 %             
+24/май.24           2 tasks             ░░░░░░░░░░░░░░░░░░░░░░░░ 00.31 %             
 ```
 
 **days**
@@ -40,4 +40,4 @@ compiled cpp        3 files             ░░░░░░░░░░░░░�
 11-02-24            20 tasks            ░░░░░░░░░░░░░░░░░░░░░░░░ 03.09 %             
 ```
 
-<sub>wakatime - 231 hrs 27 mins</sub>
+<sub>wakatime - 231 hrs 41 mins</sub>

@@ -1,22 +1,24 @@
 export const FOLDERS = [
-  "октябрь.23",
-  "ноябрь.23",
-  "декабрь.23",
-  "январь.24",
-  "февраль.24",
-  "март.24",
-  "апрель.24",
-  "май.24",
-  "август.24",
+  "23/октябрь.23",
+  "23/ноябрь.23",
+  "23/декабрь.23",
+  "24/январь.24",
+  "24/февраль.24",
+  "24/март.24",
+  "24/апрель.24",
+  "24/май.24",
+  "24/август.24",
 ];
 
 export const MAIN_BADGES = [
+  "https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png",
   "https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png",
   "https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png",
   "https://assets.leetcode.com/static_assets/marketing/lg50.png",
 ];
 
 export const SECONDARY_BADGES = [
+  "https://leetcode.com/static/images/badges/dcc-2024-9.png",
   "https://leetcode.com/static/images/badges/dcc-2024-4.png",
   "https://leetcode.com/static/images/badges/dcc-2024-3.png",
   "https://leetcode.com/static/images/badges/dcc-2024-2.png",
