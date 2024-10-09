@@ -1,6 +1,6 @@
-import { readdir } from "node:fs/promises";
-import { complete, percentage, strip } from ".";
-import { FOLDERS } from "../constants.ts";
+import {readdir} from "node:fs/promises";
+import {complete, percentage, strip} from ".";
+import {FOLDERS} from "../constants.ts";
 
 const extension2name: {
   [key: string]: string;
@@ -15,6 +15,7 @@ const extension2name: {
   ".txt": "input",
   ".out": "compiled cpp",
   ".rs": "rust",
+  ".go": "go"
 };
 
 const map: {
@@ -24,7 +25,7 @@ const map: {
 export async function files() {
   let all: string[] = [];
   for (const item of [...FOLDERS, "другое"]) {
-    const files = await readdir(`./${item}`, { recursive: true });
+    const files = await readdir(`./${item}`, {recursive: true});
     for (const one of files) {
       const m = one.match(/\/[^\/]+\..+/);
       if (m !== null) {
