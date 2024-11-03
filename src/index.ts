@@ -5,7 +5,6 @@ import {
   leetcode,
   month,
   sync,
-  wakaMini,
 } from "./func";
 
 async function main() {
@@ -15,7 +14,6 @@ async function main() {
   console.log("🅱 пошла возня");
   result += badges();
   console.log("🅱 badges");
-  // result += await waka();
   result += await leetcode();
   console.log("🅱 leetcode");
   result += await files();
@@ -24,8 +22,6 @@ async function main() {
   console.log("🅱 month");
   result += await days();
   console.log("🅱 days");
-  result += await wakaMini();
-  console.log("🅱 wakatime");
   await Bun.write("./README.md", result);
   sync();
   const end = new Date().getTime();

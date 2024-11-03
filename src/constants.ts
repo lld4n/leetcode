@@ -9,6 +9,7 @@ export const FOLDERS = [
   "24/май.24",
   "24/август.24",
   "24/октябрь.24",
+  "24/ноябрь.24",
 ];
 
 export const MAIN_BADGES = [
@@ -19,6 +20,7 @@ export const MAIN_BADGES = [
 ];
 
 export const SECONDARY_BADGES = [
+  "https://leetcode.com/static/images/badges/dcc-2024-10.png",
   "https://leetcode.com/static/images/badges/dcc-2024-9.png",
   "https://leetcode.com/static/images/badges/dcc-2024-4.png",
   "https://leetcode.com/static/images/badges/dcc-2024-3.png",
